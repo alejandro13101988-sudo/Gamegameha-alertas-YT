@@ -18,11 +18,11 @@
 @PlayStation
 @Xbox
 @NintendoAmerica
-@NintendoEurope
+@NintendoOfEurope
 @Steam
 
 # --- Grandes editoras ---
-@BethesdaSoftworks
+@bethesda
 @Ubisoft
 @EA
 @Activision
@@ -31,8 +31,8 @@
 @CapcomUSA
 @SquareEnix
 @SEGA
-@ATLUS_West
-@BandaiNamcoEU
+@atlus
+@BandaiNamcoEntertainmentEurope
 @Konami
 @KoeiTecmoAmerica
 @RockstarGames
@@ -49,8 +49,9 @@
 @ObsidianEnt
 @PlaygroundGames
 @SandfallInteractive
-@HazelightStudios
-@TechlandOfficial
+UC0F3KVIFTkE3qfB0Uxe5FKA   # Hazelight
+@TechlandGames
+UC_LtqnFEM3N3SZzc2qPk2pg   # Dying Light (canal oficial)
 @WarhorseStudios
 @ParadoxInteractive
 @FrictionalGames
@@ -58,12 +59,12 @@
 # --- Editoras indie con muchos anuncios ---
 @AnnapurnaInteractive
 @devolverdigital
-@RawFuryGames
+@Rawfury
 
 # --- Eventos y medios (modo estricto: solo anuncios, reveals y eventos) ---
 @IGN | estricto
 @GameSpot | estricto
 @GameTrailers | estricto
 @thegameawards | estricto
-@summergamefest | estricto
+UC2Agqg7yW7_msk01eJOZOlA | estricto   # Summer Game Fest
 @gamescom | estricto

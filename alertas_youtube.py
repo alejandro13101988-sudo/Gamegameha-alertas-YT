@@ -158,27 +158,36 @@ def resolver_channel_id(ident):
     if PATRON_ID_CANAL.match(ident):
         return ident
     handle = ident if ident.startswith("@") else f"@{ident}"
-    try:
-        resp = requests.get(
-            f"https://www.youtube.com/{handle}",
-            headers={"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q=0.9"},
-            cookies={"CONSENT": "YES+1", "SOCS": "CAI"},
-            timeout=TIMEOUT_RED,
-        )
-        if resp.status_code != 200:
-            return None
-        texto = resp.text
-        for patron in (
-            r'<link rel="canonical" href="https://www\.youtube\.com/channel/(UC[\w-]{22})"',
-            r"feeds/videos\.xml\?channel_id=(UC[\w-]{22})",
-            r'"externalId":"(UC[\w-]{22})"',
-            r'"channelId":"(UC[\w-]{22})"',
-        ):
-            m = re.search(patron, texto)
-            if m:
-                return m.group(1)
-    except Exception as e:
-        print(f"  [aviso] no se pudo resolver {handle}: {e}", file=sys.stderr)
+    # Hasta 3 intentos: a veces YouTube responde con error temporal (429/5xx)
+    # cuando se piden muchos canales seguidos. Un 404 es definitivo.
+    for intento in range(3):
+        try:
+            resp = requests.get(
+                f"https://www.youtube.com/{handle}",
+                headers={"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q=0.9"},
+                cookies={"CONSENT": "YES+1", "SOCS": "CAI"},
+                timeout=TIMEOUT_RED,
+            )
+            if resp.status_code == 404:
+                print(f"  [aviso] {handle}: ese canal no existe (404)", file=sys.stderr)
+                return None
+            if resp.status_code == 200:
+                texto = resp.text
+                for patron in (
+                    r'<link rel="canonical" href="https://www\.youtube\.com/channel/(UC[\w-]{22})"',
+                    r"feeds/videos\.xml\?channel_id=(UC[\w-]{22})",
+                    r'"externalId":"(UC[\w-]{22})"',
+                    r'"channelId":"(UC[\w-]{22})"',
+                ):
+                    m = re.search(patron, texto)
+                    if m:
+                        return m.group(1)
+                print(f"  [aviso] {handle}: página recibida pero sin ID de canal", file=sys.stderr)
+            else:
+                print(f"  [aviso] {handle}: respuesta {resp.status_code} (intento {intento + 1}/3)", file=sys.stderr)
+        except Exception as e:
+            print(f"  [aviso] {handle}: error de red (intento {intento + 1}/3): {e}", file=sys.stderr)
+        time.sleep(2 * (intento + 1))
     return None
 
 

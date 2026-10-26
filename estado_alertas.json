@@ -1,7 +1,9 @@
 {
   "alertados": [
     "OcFWjL50Jrg",
-    "4TzZw08avBI"
+    "4TzZw08avBI",
+    "EIZ-kw2tcjA",
+    "xqkNEx5z8SI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -62,6 +64,11 @@
       "canal": "XBOX",
       "fecha": "2026-10-26T12:10:27.639239+00:00",
       "n": "ayasa shadows of silence launch trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-10-26T13:10:31.729305+00:00",
+      "n": "drawquarium official release date trailer"
     }
   ]
 }

@@ -1,0 +1,64 @@
+# Guarda este archivo en tu repo como: .github/workflows/alertas.yml
+#
+# No tiene horario propio: lo dispara cron-job.org cada 5 minutos llamando a
+# la API de GitHub (workflow_dispatch), igual que el de noticias.
+name: Alertas GameGameHa
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # para guardar estado_alertas.json
+
+# Si una ejecución tarda más de 5 minutos, la siguiente espera en cola en vez
+# de correr a la vez (así no se manda nada duplicado).
+concurrency:
+  group: alertas-gamegameha
+  cancel-in-progress: false
+
+jobs:
+  alertas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Buscar anuncios y tráilers
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ALERTAS_THREAD_ID: ${{ secrets.ALERTAS_THREAD_ID }}
+        run: python alertas_youtube.py
+
+      - name: Guardar estado_alertas.json
+        run: |
+          if [ ! -f estado_alertas.json ]; then
+            echo "No hay estado que guardar."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add estado_alertas.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios en el estado."
+            exit 0
+          fi
+          git commit -m "Actualiza estado_alertas.json"
+          for intento in 1 2 3; do
+            if git pull --rebase origin main && git push origin main; then
+              exit 0
+            fi
+            echo "Reintentando subida ($intento/3)..."
+            sleep 5
+          done
+          exit 1

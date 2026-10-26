@@ -1,0 +1,69 @@
+# ---------------------------------------------------------------
+# CANALES DE YOUTUBE A VIGILAR
+#
+# Una línea por canal. Formatos válidos:
+#   @NombreDelCanal              -> canal normal
+#   @NombreDelCanal | estricto   -> solo avisa de anuncios/reveals/eventos
+#                                   (para canales de medios que suben mucho)
+#   UCxxxxxxxxxxxxxxxxxxxxxxxx   -> ID de canal directo (si no tiene @)
+#
+# Todo lo que va detrás de # es un comentario. Para quitar un canal,
+# borra la línea o ponle # delante.
+#
+# Si algún @nombre no existe o está mal escrito, el bot te lo dirá UNA vez
+# por Telegram para que lo corrijas.
+# ---------------------------------------------------------------
+
+# --- Plataformas ---
+@PlayStation
+@Xbox
+@NintendoAmerica
+@NintendoEurope
+@Steam
+
+# --- Grandes editoras ---
+@BethesdaSoftworks
+@Ubisoft
+@EA
+@Activision
+@2K
+@WarnerBrosGames
+@CapcomUSA
+@SquareEnix
+@SEGA
+@ATLUS_West
+@BandaiNamcoEU
+@Konami
+@KoeiTecmoAmerica
+@RockstarGames
+
+# --- Estudios con juegos anunciados para 2026 / 2027 / 2028 ---
+@CDPROJEKTRED
+@Bungie
+@NaughtyDog
+@InsomniacGames
+@SantaMonicaStudio
+@KojimaProductions
+@RemedyEntertainment
+@LarianStudios
+@ObsidianEnt
+@PlaygroundGames
+@SandfallInteractive
+@HazelightStudios
+@TechlandOfficial
+@WarhorseStudios
+@ParadoxInteractive
+@FrictionalGames
+
+# --- Editoras indie con muchos anuncios ---
+@AnnapurnaInteractive
+@devolverdigital
+@RawFuryGames
+
+# --- Eventos y medios (modo estricto: solo anuncios, reveals y eventos) ---
+@IGN | estricto
+@GameSpot | estricto
+@GameTrailers | estricto
+@thegameawards | estricto
+@summergamefest | estricto
+@gamescom | estricto

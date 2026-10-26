@@ -1,5 +1,8 @@
 {
-  "alertados": [],
+  "alertados": [
+    "OcFWjL50Jrg",
+    "4TzZw08avBI"
+  ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
     "@Activision": "UCCQG5JrW3y59-ye8tSPAebw",
@@ -54,5 +57,11 @@
     "@RawFuryGames",
     "@summergamefest"
   ],
-  "titulos": []
+  "titulos": [
+    {
+      "canal": "XBOX",
+      "fecha": "2026-10-26T12:10:27.639239+00:00",
+      "n": "ayasa shadows of silence launch trailer"
+    }
+  ]
 }

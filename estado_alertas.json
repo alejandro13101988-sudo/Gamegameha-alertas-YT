@@ -101,7 +101,9 @@
     "c2TyYF3-3dQ",
     "j63m7ngHnAk",
     "0xDElsGrtYg",
-    "FDxbAAY6MN4"
+    "FDxbAAY6MN4",
+    "FXCzSDatoCI",
+    "H_s0XoaUkUc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -568,6 +570,11 @@
       "canal": "XBOX",
       "fecha": "2026-10-28T16:30:45.777766+00:00",
       "n": "sword of the sea xbox series x s trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-10-28T16:40:28.203576+00:00",
+      "n": "cronos lazarus official story release date trailer"
     }
   ]
 }

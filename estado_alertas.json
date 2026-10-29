@@ -152,7 +152,8 @@
     "fC9gWNyA9aE",
     "VRG20NZ3sKU",
     "aUnMyZMcXis",
-    "2eFm1vyEV_I"
+    "2eFm1vyEV_I",
+    "k4gZD9HVzDQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -824,6 +825,11 @@
       "canal": "XBOX",
       "fecha": "2026-10-29T16:05:21.732702+00:00",
       "n": "warhammer age of sigmar deathmaster story trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-10-29T16:15:33.653890+00:00",
+      "n": "survival repacker official announcement trailer"
     }
   ]
 }

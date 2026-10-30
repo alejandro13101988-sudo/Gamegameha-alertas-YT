@@ -188,7 +188,8 @@
     "uOMeSa1FZZc",
     "KH4rw0yYDqg",
     "XuSp8A7RO0U",
-    "4wtssM9KLpI"
+    "4wtssM9KLpI",
+    "8UPnJqKPG_A"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -246,11 +247,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-26T16:10:31.205914+00:00",
-      "n": "orbitals accolades trailer nintendo switch 2"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-26T16:10:31.205914+00:00",
@@ -995,6 +991,11 @@
       "canal": "PlayStation",
       "fecha": "2026-10-30T13:25:21.618553+00:00",
       "n": "zero parades director s cut overview trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-10-30T13:40:26.493427+00:00",
+      "n": "vampire tactics official announcement trailer"
     }
   ]
 }

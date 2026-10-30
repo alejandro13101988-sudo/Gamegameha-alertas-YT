@@ -187,7 +187,8 @@
     "55c7lzEUbGE",
     "uOMeSa1FZZc",
     "KH4rw0yYDqg",
-    "XuSp8A7RO0U"
+    "XuSp8A7RO0U",
+    "4wtssM9KLpI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -245,11 +246,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-26T15:10:25.035527+00:00",
-      "n": "heroes never die official announcement trailer"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-26T16:10:31.205914+00:00",
@@ -994,6 +990,11 @@
       "canal": "Nintendo of America",
       "fecha": "2026-10-30T13:15:29.319005+00:00",
       "n": "peak launch trailer nintendo switch 2"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-10-30T13:25:21.618553+00:00",
+      "n": "zero parades director s cut overview trailer ps5 games"
     }
   ]
 }

@@ -190,7 +190,8 @@
     "XuSp8A7RO0U",
     "4wtssM9KLpI",
     "8UPnJqKPG_A",
-    "adm8SP0joNk"
+    "adm8SP0joNk",
+    "70jXn91qjdI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -248,11 +249,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Steam",
-      "fecha": "2026-10-26T17:15:30.645481+00:00",
-      "n": "steam scream v 2026 trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-10-26T17:40:29.764604+00:00",
@@ -997,6 +993,11 @@
       "canal": "Nintendo of America",
       "fecha": "2026-10-30T14:15:32.553351+00:00",
       "n": "fortnite treasure hunters trailer nintendo switch 2"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-10-30T14:35:20.400795+00:00",
+      "n": "are you smarter than a troll official announcement trailer"
     }
   ]
 }

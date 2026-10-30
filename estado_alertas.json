@@ -192,7 +192,9 @@
     "8UPnJqKPG_A",
     "adm8SP0joNk",
     "70jXn91qjdI",
-    "GUHUk3F3oW4"
+    "GUHUk3F3oW4",
+    "-wwx3psuApI",
+    "I7VNYT4wLyA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -250,16 +252,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-10-26T20:40:24.646584+00:00",
-      "n": "microsoft flight simulator world update 23 poland and the baltics launch trailer"
-    },
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-26T21:15:29.653919+00:00",
-      "n": "one piece grand gourmet launch trailer nintendo switch 2"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-27T08:10:25.582218+00:00",
@@ -999,6 +991,16 @@
       "canal": "IGN",
       "fecha": "2026-10-30T15:10:26.135493+00:00",
       "n": "project hail mary journey among the stars official ship reveal trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-10-30T15:15:29.620675+00:00",
+      "n": "apex legends cipher gameplay trailer ps5 ps4 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-10-30T15:15:29.620675+00:00",
+      "n": "force typhoon official announcement trailer"
     }
   ]
 }

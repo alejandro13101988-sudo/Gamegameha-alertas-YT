@@ -199,7 +199,8 @@
     "Fxjqe23xctA",
     "tRagnFobW5w",
     "6AsZFrfaxr8",
-    "WzpcItau2Zk"
+    "WzpcItau2Zk",
+    "jDe9pklNYWg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -257,11 +258,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-27T14:10:28.526913+00:00",
-      "n": "ratata official announcement trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-27T14:10:28.526913+00:00",
@@ -1006,6 +1002,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-10-30T16:40:25.806025+00:00",
       "n": "dunk official announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-10-30T17:15:32.489498+00:00",
+      "n": "kiborg body split update trailer ps5 ps4 games"
     }
   ]
 }

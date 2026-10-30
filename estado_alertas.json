@@ -191,7 +191,8 @@
     "4wtssM9KLpI",
     "8UPnJqKPG_A",
     "adm8SP0joNk",
-    "70jXn91qjdI"
+    "70jXn91qjdI",
+    "GUHUk3F3oW4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -249,11 +250,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-10-26T17:40:29.764604+00:00",
-      "n": "scramble knights online official launch trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-10-26T20:40:24.646584+00:00",
@@ -998,6 +994,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-10-30T14:35:20.400795+00:00",
       "n": "are you smarter than a troll official announcement trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-10-30T15:10:26.135493+00:00",
+      "n": "project hail mary journey among the stars official ship reveal trailer"
     }
   ]
 }

@@ -197,7 +197,8 @@
     "I7VNYT4wLyA",
     "rMB4X3sA3UA",
     "Fxjqe23xctA",
-    "tRagnFobW5w"
+    "tRagnFobW5w",
+    "6AsZFrfaxr8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -255,11 +256,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-27T13:15:30.731884+00:00",
-      "n": "village in the shade launch trailer ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-27T13:20:30.428505+00:00",
@@ -1004,6 +1000,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-10-30T16:10:26.233452+00:00",
       "n": "crimson solstice official release date trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-10-30T16:25:19.828570+00:00",
+      "n": "look outside launch trailer ps5 ps4 games"
     }
   ]
 }

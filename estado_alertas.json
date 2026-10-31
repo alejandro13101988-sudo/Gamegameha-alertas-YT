@@ -202,7 +202,8 @@
     "WzpcItau2Zk",
     "jDe9pklNYWg",
     "GxZuVaWjIdQ",
-    "cAQdK9thiG8"
+    "cAQdK9thiG8",
+    "ztOKVRxg9GQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -260,11 +261,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-10-27T14:10:28.526913+00:00",
-      "n": "the seance of blake manor xbox launch trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-27T14:20:35.707654+00:00",
@@ -1009,6 +1005,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-10-30T23:00:59.515026+00:00",
       "n": "soulframe official open preludes teaser trailer"
+    },
+    {
+      "canal": "GameSpot",
+      "fecha": "2026-10-31T03:45:29.832207+00:00",
+      "n": "final fantasy xiv evercold zephyr job reveal trailer"
     }
   ]
 }

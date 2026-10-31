@@ -206,7 +206,8 @@
     "ztOKVRxg9GQ",
     "7-1lQh551UY",
     "TQGVAvugaUY",
-    "zCFZbcO-1HU"
+    "zCFZbcO-1HU",
+    "aTuFpyRAALY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -264,11 +265,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-27T14:50:30.243723+00:00",
-      "n": "sunstone of time official release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-27T15:10:26.922408+00:00",
@@ -1013,6 +1009,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-10-31T14:15:25.638097+00:00",
       "n": "black lake official gameplay teaser trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-10-31T14:50:22.959357+00:00",
+      "n": "cinema theater tycoon official release date trailer"
     }
   ]
 }

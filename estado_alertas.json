@@ -207,7 +207,8 @@
     "7-1lQh551UY",
     "TQGVAvugaUY",
     "zCFZbcO-1HU",
-    "aTuFpyRAALY"
+    "aTuFpyRAALY",
+    "VoDaY_podcg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -265,11 +266,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-27T15:10:26.922408+00:00",
-      "n": "archeage chronicles official release date trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-27T15:10:26.922408+00:00",
@@ -1014,6 +1010,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-10-31T14:50:22.959357+00:00",
       "n": "cinema theater tycoon official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-10-31T15:40:25.668356+00:00",
+      "n": "fleshbite official kickstarter announcement trailer"
     }
   ]
 }

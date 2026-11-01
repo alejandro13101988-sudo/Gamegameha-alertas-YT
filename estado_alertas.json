@@ -209,7 +209,8 @@
     "zCFZbcO-1HU",
     "aTuFpyRAALY",
     "VoDaY_podcg",
-    "ufsdgrXLAHY"
+    "ufsdgrXLAHY",
+    "Gqrg5MFw2UQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -267,11 +268,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-27T15:10:26.922408+00:00",
-      "n": "where winds meet hutuo 1st anniversary announcement trailer ps5 games"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-10-27T15:30:46.067079+00:00",
@@ -1016,6 +1012,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-10-31T15:40:25.668356+00:00",
       "n": "fleshbite official kickstarter announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-01T12:35:18.899389+00:00",
+      "n": "gun a rat official release date trailer"
     }
   ]
 }

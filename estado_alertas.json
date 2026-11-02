@@ -254,7 +254,8 @@
     "umSrCQt579Y",
     "oVL9B9744VQ",
     "0ZWdQi78Rg4",
-    "pPNP6eQtpjs"
+    "pPNP6eQtpjs",
+    "Fm3NTRLq4Fk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -312,11 +313,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-28T14:35:22.298680+00:00",
-      "n": "spirit crossing release date trailer nintendo switch 2"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-28T14:35:22.298680+00:00",
@@ -1061,6 +1057,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-02T22:45:40.325166+00:00",
       "n": "ryn and the thread of life official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-02T23:00:56.853189+00:00",
+      "n": "prima materia official announcement trailer"
     }
   ]
 }

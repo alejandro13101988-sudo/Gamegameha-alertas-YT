@@ -228,7 +228,8 @@
     "Uymjnpaa0tA",
     "tDgBoajNuXE",
     "lOwdtZooI9o",
-    "dHroe8OvOMs"
+    "dHroe8OvOMs",
+    "RVhpttBSevI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -286,11 +287,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "SEGA",
-      "fecha": "2026-10-28T05:10:28.737661+00:00",
-      "n": "s t a l k e r 2 heart of chornobyl 2 update 2 1the zone lookoutshowcase"
-    },
     {
       "canal": "BANDAI NAMCO Europe",
       "fecha": "2026-10-28T11:40:31.069764+00:00",
@@ -1035,6 +1031,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-02T16:35:22.546493+00:00",
       "n": "call of duty warzone season 1 trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-02T18:10:29.028175+00:00",
+      "n": "frostpunk 2 the surge official announcement trailer"
     }
   ]
 }

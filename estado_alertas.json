@@ -256,7 +256,8 @@
     "0ZWdQi78Rg4",
     "pPNP6eQtpjs",
     "Fm3NTRLq4Fk",
-    "ptNoAr2loh0"
+    "ptNoAr2loh0",
+    "wSvJBPYuQX4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -314,11 +315,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-28T14:35:22.298680+00:00",
-      "n": "petal runner release date trailer nintendo switch 2"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-28T14:35:22.298680+00:00",
@@ -1063,6 +1059,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-02T23:15:28.929150+00:00",
       "n": "delivery must complete official demo announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-02T23:20:27.392604+00:00",
+      "n": "bodycam official zombie update teaser trailer"
     }
   ]
 }

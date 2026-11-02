@@ -215,7 +215,9 @@
     "mgaZYFAimfs",
     "WNjdF0Fc2mk",
     "qGbRasvjhhU",
-    "mNGbLTMSj_s"
+    "mNGbLTMSj_s",
+    "ZYdj80qpwiI",
+    "Bzwq29CSQkA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -273,16 +275,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-27T16:15:37.294798+00:00",
-      "n": "aloft announcement trailer ps5 games"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-27T16:20:29.184077+00:00",
-      "n": "gran velocita official pc announcement trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-27T16:31:53.867401+00:00",
@@ -1022,6 +1014,16 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-02T13:45:33.071213+00:00",
       "n": "sonance official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-02T14:20:29.230071+00:00",
+      "n": "furei journey of two spirits official announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-02T14:20:29.230071+00:00",
+      "n": "way of the hunter 2 explanation trailer ps5 games"
     }
   ]
 }

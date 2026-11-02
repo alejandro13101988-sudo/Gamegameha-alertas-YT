@@ -241,7 +241,9 @@
     "RfXE0DOrirU",
     "gBHkYY45FMM",
     "dtaj5EA_9CM",
-    "t12JWbKV9Og"
+    "t12JWbKV9Og",
+    "Mwa_090fvWE",
+    "eeqqNl4H1PI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -299,16 +301,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-28T14:35:22.298680+00:00",
-      "n": "tenjutsu gameplay reveal trailer nintendo switch 2"
-    },
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-28T14:35:22.298680+00:00",
-      "n": "threads of time reveal trailer nintendo switch 2"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-28T14:35:22.298680+00:00",
@@ -1048,6 +1040,16 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-02T18:15:29.860420+00:00",
       "n": "spooky tales official trailer top hat fall showcase 2026"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-02T18:20:28.467708+00:00",
+      "n": "frostpunk 2 the surge reveal trailer ps5 games"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-02T18:20:28.467708+00:00",
+      "n": "fortnite treasure hunters one piece hybrid trailer"
     }
   ]
 }

@@ -244,7 +244,8 @@
     "t12JWbKV9Og",
     "Mwa_090fvWE",
     "eeqqNl4H1PI",
-    "L_8XJUrBe0I"
+    "L_8XJUrBe0I",
+    "_Y2X2OdZIaM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -302,11 +303,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-28T14:35:22.298680+00:00",
-      "n": "r e p o indie world showcase 10 28 2026"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-28T14:35:22.298680+00:00",
@@ -1051,6 +1047,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-02T18:20:28.467708+00:00",
       "n": "fortnite treasure hunters one piece hybrid trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-02T18:35:26.989220+00:00",
+      "n": "frostpunk 2 the surge official release date trailer"
     }
   ]
 }

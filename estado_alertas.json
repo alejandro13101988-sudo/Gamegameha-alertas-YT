@@ -222,7 +222,8 @@
     "TEppZl8O9es",
     "BxXAzaK47Go",
     "8nH_1ZfEuAI",
-    "TTugbawfiN8"
+    "TTugbawfiN8",
+    "wKjtEZ-Be2E"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -280,11 +281,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-27T19:10:26.981606+00:00",
-      "n": "minecraft launch trailer nintendo switch 2"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-27T19:40:26.690256+00:00",
@@ -1029,6 +1025,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-02T15:05:23.309567+00:00",
       "n": "derelikt release date trailer ps5 games"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-02T15:35:22.978739+00:00",
+      "n": "resident evil survival unit official anniversary update teaser trailer"
     }
   ]
 }

@@ -250,7 +250,9 @@
     "hGM6Watoar0",
     "mR5g1DkByRw",
     "FxFxTAg1i18",
-    "3RtQCHLr6BE"
+    "3RtQCHLr6BE",
+    "umSrCQt579Y",
+    "oVL9B9744VQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -308,16 +310,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-28T14:35:22.298680+00:00",
-      "n": "dumpster gang release date trailer nintendo switch 2"
-    },
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-28T14:35:22.298680+00:00",
-      "n": "haunted paws demo trailer nintendo switch 2"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-28T14:35:22.298680+00:00",
@@ -1057,6 +1049,16 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-02T19:40:27.457274+00:00",
       "n": "silver palace official gratia character and release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-02T22:30:47.389926+00:00",
+      "n": "metamorphosis official character reveal trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-02T22:30:47.389926+00:00",
+      "n": "rgb execution official announcement trailer"
     }
   ]
 }

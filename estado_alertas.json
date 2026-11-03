@@ -271,7 +271,8 @@
     "cUeQ0dbbvLo",
     "Gr2rj-PLp-4",
     "Ry_oojzeBGs",
-    "mFu8t9735IY"
+    "mFu8t9735IY",
+    "8RsG5v5teYA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -329,11 +330,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-28T15:30:47.912354+00:00",
-      "n": "super battle golf release date trailer ps5 games"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-28T15:35:30.341868+00:00",
@@ -1078,6 +1074,11 @@
       "canal": "Bethesda Softworks",
       "fecha": "2026-11-03T15:15:30.837371+00:00",
       "n": "the elder scrolls vi official name reveal"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-03T15:20:37.907703+00:00",
+      "n": "the elder scrolls 6 sentinel official title and logo reveal"
     }
   ]
 }

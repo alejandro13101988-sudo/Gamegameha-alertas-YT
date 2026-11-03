@@ -275,7 +275,8 @@
     "8RsG5v5teYA",
     "zCY0C8tTddM",
     "IJCcHs78iBw",
-    "fA_WSjVBI1I"
+    "fA_WSjVBI1I",
+    "-KRKxU8ONWY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -333,11 +334,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-28T15:35:30.341868+00:00",
-      "n": "anomalith launch trailer ps5 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-10-28T15:35:30.341868+00:00",
@@ -1082,6 +1078,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-03T15:50:28.277304+00:00",
       "n": "age of wonders 4 the silver seas release trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-03T17:15:32.272365+00:00",
+      "n": "roadcraft foundations expansion trailer ps5 games"
     }
   ]
 }

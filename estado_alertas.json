@@ -258,7 +258,8 @@
     "Fm3NTRLq4Fk",
     "ptNoAr2loh0",
     "wSvJBPYuQX4",
-    "bWohQKWdkDY"
+    "bWohQKWdkDY",
+    "HUvCHVZhtjY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -316,11 +317,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-28T14:35:22.298680+00:00",
-      "n": "raccoin chaos max edition pre order trailer nintendo switch 2"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-28T14:35:22.298680+00:00",
@@ -1065,6 +1061,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-02T23:20:27.392604+00:00",
       "n": "bodycam official zombie update teaser trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-03T10:10:25.681308+00:00",
+      "n": "duck side of the moon official ps5 announcement and homegrown update trailer"
     }
   ]
 }

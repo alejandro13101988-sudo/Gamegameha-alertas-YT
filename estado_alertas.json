@@ -261,7 +261,8 @@
     "bWohQKWdkDY",
     "HUvCHVZhtjY",
     "3FCoRyrTjzM",
-    "tbI3nFWkaC0"
+    "tbI3nFWkaC0",
+    "cDxGOSSpROE"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -319,11 +320,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-28T14:45:30.875834+00:00",
-      "n": "winds of viridia official reveal trailer nintendo indie world fall 2026"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-10-28T15:01:02.111387+00:00",
@@ -1068,6 +1064,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-03T13:20:26.284540+00:00",
       "n": "zero parades director s cut launch trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-03T13:25:21.965246+00:00",
+      "n": "harma official early access release date trailer"
     }
   ]
 }

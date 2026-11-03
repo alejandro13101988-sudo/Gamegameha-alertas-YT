@@ -284,7 +284,8 @@
     "OuVLSKI0xdQ",
     "ytMRzWuJM4Y",
     "4_DUxJOktxY",
-    "PweezyLmMmw"
+    "PweezyLmMmw",
+    "XgNoqxINWzw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -342,11 +343,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-10-28T15:50:25.756884+00:00",
-      "n": "petal runner official release date trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-10-28T16:01:03.655673+00:00",
@@ -1091,6 +1087,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-03T19:30:45.786759+00:00",
       "n": "grave mistakes official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-03T22:20:29.185263+00:00",
+      "n": "dispatch official mobile release date trailer"
     }
   ]
 }

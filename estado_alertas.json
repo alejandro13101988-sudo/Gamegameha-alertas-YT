@@ -264,7 +264,9 @@
     "tbI3nFWkaC0",
     "cDxGOSSpROE",
     "5ghsd0z1n8A",
-    "eFej555TXPw"
+    "eFej555TXPw",
+    "scZ1FJ5gIfo",
+    "E6rU7a94iy4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -322,11 +324,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-10-28T15:10:43.710065+00:00",
-      "n": "dumpster gang console announce trailer"
-    },
     {
       "canal": "BANDAI NAMCO Europe",
       "fecha": "2026-10-28T15:10:43.710065+00:00",
@@ -1071,6 +1068,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-03T14:20:27.953118+00:00",
       "n": "let s sing abba release trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-03T14:40:26.913356+00:00",
+      "n": "tales of tuscany official release date trailer"
     }
   ]
 }

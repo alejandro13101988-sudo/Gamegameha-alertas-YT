@@ -277,7 +277,8 @@
     "IJCcHs78iBw",
     "fA_WSjVBI1I",
     "-KRKxU8ONWY",
-    "S5Jd4yxCzH4"
+    "S5Jd4yxCzH4",
+    "XgGoy6UhlyM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -335,11 +336,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-10-28T15:35:30.341868+00:00",
-      "n": "god save birmingham official beta 2 announcement trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-28T15:35:30.341868+00:00",
@@ -1084,6 +1080,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-03T17:15:32.272365+00:00",
       "n": "roadcraft foundations expansion trailer ps5 games"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-03T18:35:34.999802+00:00",
+      "n": "muay thai xtreme official gameplay reveal trailer"
     }
   ]
 }

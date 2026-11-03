@@ -266,7 +266,8 @@
     "5ghsd0z1n8A",
     "eFej555TXPw",
     "scZ1FJ5gIfo",
-    "E6rU7a94iy4"
+    "E6rU7a94iy4",
+    "toZnG4YSsPE"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -324,11 +325,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "BANDAI NAMCO Europe",
-      "fecha": "2026-10-28T15:10:43.710065+00:00",
-      "n": "cronos lazarus story trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-10-28T15:20:30.707441+00:00",
@@ -1073,6 +1069,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-03T14:40:26.913356+00:00",
       "n": "tales of tuscany official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-03T14:55:20.191009+00:00",
+      "n": "bill ted s excellent adventure arcade official announcement trailer"
     }
   ]
 }

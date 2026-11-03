@@ -279,7 +279,9 @@
     "-KRKxU8ONWY",
     "S5Jd4yxCzH4",
     "XgGoy6UhlyM",
-    "QjzOpJ7oBog"
+    "QjzOpJ7oBog",
+    "E-gX2jOeqPY",
+    "OuVLSKI0xdQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -337,16 +339,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-28T15:45:35.792402+00:00",
-      "n": "raccoin chaos max edition official console release date trailer nintendo indie world fall 2026"
-    },
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-28T15:50:25.756884+00:00",
-      "n": "cronos lazarus story trailer ps5 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-10-28T15:50:25.756884+00:00",
@@ -1086,6 +1078,16 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-03T19:05:32.044901+00:00",
       "n": "darkest dungeon 2 the butcher s asylum official teaser trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-03T19:30:45.786759+00:00",
+      "n": "guild wars afterlife official announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-03T19:30:45.786759+00:00",
+      "n": "grave mistakes official release date trailer"
     }
   ]
 }

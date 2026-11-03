@@ -270,7 +270,8 @@
     "toZnG4YSsPE",
     "cUeQ0dbbvLo",
     "Gr2rj-PLp-4",
-    "Ry_oojzeBGs"
+    "Ry_oojzeBGs",
+    "mFu8t9735IY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -328,11 +329,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-28T15:30:47.912354+00:00",
-      "n": "witchbrook release date trailer ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-28T15:30:47.912354+00:00",
@@ -1077,6 +1073,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-03T15:10:32.244364+00:00",
       "n": "zack bishop and the forbidden moon official announcement trailer"
+    },
+    {
+      "canal": "Bethesda Softworks",
+      "fecha": "2026-11-03T15:15:30.837371+00:00",
+      "n": "the elder scrolls vi official name reveal"
     }
   ]
 }

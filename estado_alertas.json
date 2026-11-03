@@ -273,7 +273,8 @@
     "Ry_oojzeBGs",
     "mFu8t9735IY",
     "8RsG5v5teYA",
-    "zCY0C8tTddM"
+    "zCY0C8tTddM",
+    "IJCcHs78iBw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -331,11 +332,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-28T15:35:30.341868+00:00",
-      "n": "petal runner official release date trailer nintendo indie world fall 2026"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-10-28T15:35:30.341868+00:00",
@@ -1080,6 +1076,11 @@
       "canal": "IGN",
       "fecha": "2026-11-03T15:20:37.907703+00:00",
       "n": "the elder scrolls 6 sentinel official title and logo reveal"
+    },
+    {
+      "canal": "GameSpot",
+      "fecha": "2026-11-03T15:45:31.595431+00:00",
+      "n": "the elder scrolls vi sentinel official name reveal trailer"
     }
   ]
 }

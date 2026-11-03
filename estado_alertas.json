@@ -278,7 +278,8 @@
     "fA_WSjVBI1I",
     "-KRKxU8ONWY",
     "S5Jd4yxCzH4",
-    "XgGoy6UhlyM"
+    "XgGoy6UhlyM",
+    "QjzOpJ7oBog"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -336,11 +337,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-28T15:35:30.341868+00:00",
-      "n": "jumanji open world new trailer playstation"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-28T15:45:35.792402+00:00",
@@ -1085,6 +1081,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-03T18:35:34.999802+00:00",
       "n": "muay thai xtreme official gameplay reveal trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-03T19:05:32.044901+00:00",
+      "n": "darkest dungeon 2 the butcher s asylum official teaser trailer"
     }
   ]
 }

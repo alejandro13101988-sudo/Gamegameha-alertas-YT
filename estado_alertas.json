@@ -259,7 +259,8 @@
     "ptNoAr2loh0",
     "wSvJBPYuQX4",
     "bWohQKWdkDY",
-    "HUvCHVZhtjY"
+    "HUvCHVZhtjY",
+    "3FCoRyrTjzM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -317,11 +318,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-28T14:35:22.298680+00:00",
-      "n": "indie spotlight sizzle reel indie world showcase 10 28 2026"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-28T14:45:30.875834+00:00",
@@ -1066,6 +1062,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-03T10:10:25.681308+00:00",
       "n": "duck side of the moon official ps5 announcement and homegrown update trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-03T12:35:20.635631+00:00",
+      "n": "the king s muster official announcement trailer"
     }
   ]
 }

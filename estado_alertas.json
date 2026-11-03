@@ -274,7 +274,8 @@
     "mFu8t9735IY",
     "8RsG5v5teYA",
     "zCY0C8tTddM",
-    "IJCcHs78iBw"
+    "IJCcHs78iBw",
+    "fA_WSjVBI1I"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -332,11 +333,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-10-28T15:35:30.341868+00:00",
-      "n": "dumpster gang official console announcement trailer nintendo indie world fall 2026"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-28T15:35:30.341868+00:00",
@@ -1081,6 +1077,11 @@
       "canal": "GameSpot",
       "fecha": "2026-11-03T15:45:31.595431+00:00",
       "n": "the elder scrolls vi sentinel official name reveal trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-03T15:50:28.277304+00:00",
+      "n": "age of wonders 4 the silver seas release trailer ps5 games"
     }
   ]
 }

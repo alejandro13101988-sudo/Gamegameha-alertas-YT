@@ -267,7 +267,10 @@
     "eFej555TXPw",
     "scZ1FJ5gIfo",
     "E6rU7a94iy4",
-    "toZnG4YSsPE"
+    "toZnG4YSsPE",
+    "cUeQ0dbbvLo",
+    "Gr2rj-PLp-4",
+    "Ry_oojzeBGs"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -325,16 +328,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-10-28T15:20:30.707441+00:00",
-      "n": "super battle golf official console release date trailer nintendo indie world fall 2026"
-    },
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-28T15:30:47.912354+00:00",
-      "n": "dumpster gang announce trailer ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-28T15:30:47.912354+00:00",
@@ -1074,6 +1067,16 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-03T14:55:20.191009+00:00",
       "n": "bill ted s excellent adventure arcade official announcement trailer"
+    },
+    {
+      "canal": "Ubisoft",
+      "fecha": "2026-11-03T15:10:32.244364+00:00",
+      "n": "the division 2 echoes of central park launch trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-03T15:10:32.244364+00:00",
+      "n": "zack bishop and the forbidden moon official announcement trailer"
     }
   ]
 }

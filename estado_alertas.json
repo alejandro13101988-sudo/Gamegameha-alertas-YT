@@ -299,7 +299,8 @@
     "Uwcexl6EVlY",
     "WV9gFykfFDM",
     "IHn0ZsqxnLo",
-    "fEskXorkqgY"
+    "fEskXorkqgY",
+    "5CGn6hGJmzY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -357,11 +358,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-28T19:35:22.524370+00:00",
-      "n": "delta force x phantom blade zero official crossover teaser trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-28T19:35:22.524370+00:00",
@@ -1106,6 +1102,11 @@
       "canal": "IGN",
       "fecha": "2026-11-04T15:20:40.362314+00:00",
       "n": "warhammer 40 000 rogue trader official processional of the damned dlc release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-04T16:35:22.376414+00:00",
+      "n": "dynasty bowl official announcement trailer"
     }
   ]
 }

@@ -296,7 +296,8 @@
     "EIrFcHsV-Gw",
     "BKgEZ1J6i5w",
     "L0i9IN0j0Fg",
-    "Uwcexl6EVlY"
+    "Uwcexl6EVlY",
+    "WV9gFykfFDM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -354,11 +355,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-28T19:15:32.457231+00:00",
-      "n": "finding polka announcement trailer nintendo switch"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-28T19:20:29.095328+00:00",
@@ -1103,6 +1099,11 @@
       "canal": "IGN",
       "fecha": "2026-11-04T14:35:21.222775+00:00",
       "n": "mouse chef dig out official reveal trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-04T15:11:13.393821+00:00",
+      "n": "mindvale official announcement trailer"
     }
   ]
 }

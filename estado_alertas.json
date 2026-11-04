@@ -306,7 +306,8 @@
     "-bsbNkiWlmw",
     "Eoixebk-DAo",
     "bu_h2AzscOM",
-    "42C9-SRvDYY"
+    "42C9-SRvDYY",
+    "NDjCWfKtelA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -364,11 +365,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-10-28T23:30:42.760721+00:00",
-      "n": "super battle golf official console release date"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-28T23:35:25.375081+00:00",
@@ -1113,6 +1109,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-04T18:10:27.110867+00:00",
       "n": "frieda is changing official release date trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-04T18:15:33.429724+00:00",
+      "n": "lightyear frontier 1 0 launch trailer"
     }
   ]
 }

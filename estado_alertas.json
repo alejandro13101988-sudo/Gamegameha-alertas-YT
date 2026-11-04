@@ -297,7 +297,8 @@
     "BKgEZ1J6i5w",
     "L0i9IN0j0Fg",
     "Uwcexl6EVlY",
-    "WV9gFykfFDM"
+    "WV9gFykfFDM",
+    "IHn0ZsqxnLo"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -355,11 +356,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-28T19:20:29.095328+00:00",
-      "n": "my arms are longer now release date trailer ps5 games"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-28T19:35:22.524370+00:00",
@@ -1104,6 +1100,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-04T15:11:13.393821+00:00",
       "n": "mindvale official announcement trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-04T15:20:40.362314+00:00",
+      "n": "warhammer 40 000 rogue trader official processional of the damned dlc release date trailer"
     }
   ]
 }

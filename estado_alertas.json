@@ -316,7 +316,8 @@
     "sZA4qjKl8sI",
     "LiSPmjkDR04",
     "rhOdJUv1z-A",
-    "bhlsPFHC6hs"
+    "bhlsPFHC6hs",
+    "3dp60rUp5T4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -374,11 +375,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-10-29T09:10:33.360909+00:00",
-      "n": "hunting simulator 3 launch trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-29T10:20:24.831866+00:00",
@@ -1123,6 +1119,11 @@
       "canal": "IGN",
       "fecha": "2026-11-04T21:55:20.701548+00:00",
       "n": "fragmentary order official gameplay reveal"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-04T22:25:20.731274+00:00",
+      "n": "zero parades director s cut xbox launch trailer"
     }
   ]
 }

@@ -300,7 +300,8 @@
     "WV9gFykfFDM",
     "IHn0ZsqxnLo",
     "fEskXorkqgY",
-    "5CGn6hGJmzY"
+    "5CGn6hGJmzY",
+    "FLMGNKxJrDk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -358,11 +359,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-28T19:35:22.524370+00:00",
-      "n": "company of heroes 3 official operation torch teaser trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-28T19:50:30.173088+00:00",
@@ -1107,6 +1103,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-04T16:35:22.376414+00:00",
       "n": "dynasty bowl official announcement trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-04T17:05:24.379754+00:00",
+      "n": "lords of war official teaser trailer 2027 nicholas cage bill skarsgard laura harrier"
     }
   ]
 }

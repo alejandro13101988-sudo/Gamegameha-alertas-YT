@@ -285,7 +285,8 @@
     "ytMRzWuJM4Y",
     "4_DUxJOktxY",
     "PweezyLmMmw",
-    "XgNoqxINWzw"
+    "XgNoqxINWzw",
+    "QzMIhMeNpN4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -343,11 +344,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-10-28T16:01:03.655673+00:00",
-      "n": "dead by daylight official terrifier teaser trailer"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-28T16:01:03.655673+00:00",
@@ -1092,6 +1088,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-03T22:20:29.185263+00:00",
       "n": "dispatch official mobile release date trailer"
+    },
+    {
+      "canal": "Nintendo of America",
+      "fecha": "2026-11-04T00:00:58.506771+00:00",
+      "n": "fortnite treasure hunters one piece hybrid trailer nintendo switch 2"
     }
   ]
 }

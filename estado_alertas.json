@@ -291,7 +291,8 @@
     "G2-ClOu9ssg",
     "VXiVTWtABCw",
     "auO8tsg2SOw",
-    "t6dM9AwNNWs"
+    "t6dM9AwNNWs",
+    "HMTqriSZqoI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -349,11 +350,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-10-28T17:15:31.815776+00:00",
-      "n": "tanuki pon s summer release date trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-28T17:25:21.837531+00:00",
@@ -1098,6 +1094,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-04T09:10:27.600941+00:00",
       "n": "inquisitor shepherd official demo announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-04T13:40:27.241748+00:00",
+      "n": "rally shift official release date trailer"
     }
   ]
 }

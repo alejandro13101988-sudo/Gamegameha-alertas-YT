@@ -302,7 +302,8 @@
     "fEskXorkqgY",
     "5CGn6hGJmzY",
     "FLMGNKxJrDk",
-    "MNoKUYouJQU"
+    "MNoKUYouJQU",
+    "-bsbNkiWlmw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -360,11 +361,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-28T20:10:24.998633+00:00",
-      "n": "floor plan slap out of it announcement trailer nintendo switch 2"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-28T21:10:25.306660+00:00",
@@ -1109,6 +1105,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-04T17:20:28.339230+00:00",
       "n": "all rats on deck official release date trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-04T17:25:20.449810+00:00",
+      "n": "call of duty modern warfare 4 season 1 dmz trailer ps5 games"
     }
   ]
 }

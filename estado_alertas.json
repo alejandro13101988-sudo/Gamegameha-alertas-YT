@@ -311,7 +311,8 @@
     "niveu1cp4U0",
     "muiwomsOsfQ",
     "a36QZgLOfoU",
-    "0x4g7J8toD4"
+    "0x4g7J8toD4",
+    "LdpC9jYAL-w"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -369,11 +370,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-29T01:10:24.043369+00:00",
-      "n": "hyperyuki snowboard syndicate announcement trailer nintendo switch 2"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-10-29T08:05:21.721643+00:00",
@@ -1118,6 +1114,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-04T20:20:28.925861+00:00",
       "n": "leaf blower co official console release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-04T20:30:43.806214+00:00",
+      "n": "not welcome official announcement trailer"
     }
   ]
 }

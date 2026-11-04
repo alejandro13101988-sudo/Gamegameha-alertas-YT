@@ -289,7 +289,8 @@
     "QzMIhMeNpN4",
     "TKqvdLYEXsA",
     "G2-ClOu9ssg",
-    "VXiVTWtABCw"
+    "VXiVTWtABCw",
+    "auO8tsg2SOw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -347,11 +348,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-28T16:40:28.203576+00:00",
-      "n": "cronos lazarus official story release date trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-10-28T17:15:31.815776+00:00",
@@ -1096,6 +1092,11 @@
       "canal": "Capcom USA",
       "fecha": "2026-11-04T00:45:28.734231+00:00",
       "n": "delicious in dungeon dragon s dogma 2 dark arisen collaboration trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-04T09:10:27.600941+00:00",
+      "n": "inquisitor shepherd official demo announcement trailer"
     }
   ]
 }

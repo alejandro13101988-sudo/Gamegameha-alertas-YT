@@ -292,7 +292,8 @@
     "VXiVTWtABCw",
     "auO8tsg2SOw",
     "t6dM9AwNNWs",
-    "HMTqriSZqoI"
+    "HMTqriSZqoI",
+    "EIrFcHsV-Gw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -350,11 +351,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-28T17:25:21.837531+00:00",
-      "n": "tanuki pon s summer release date announcement trailer ps5 ps4 games"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-28T18:15:30.911972+00:00",
@@ -1099,6 +1095,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-04T13:40:27.241748+00:00",
       "n": "rally shift official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-04T14:05:22.074037+00:00",
+      "n": "10 million pixels official release date trailer"
     }
   ]
 }

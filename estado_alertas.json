@@ -303,7 +303,8 @@
     "5CGn6hGJmzY",
     "FLMGNKxJrDk",
     "MNoKUYouJQU",
-    "-bsbNkiWlmw"
+    "-bsbNkiWlmw",
+    "Eoixebk-DAo"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -361,11 +362,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-28T21:10:25.306660+00:00",
-      "n": "planet of lana 2 children of the leaf official mobile announcement trailer"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-28T21:15:35.698412+00:00",
@@ -1110,6 +1106,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-04T17:25:20.449810+00:00",
       "n": "call of duty modern warfare 4 season 1 dmz trailer ps5 games"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-04T18:05:21.231803+00:00",
+      "n": "neosis echoes official gameplay reveal trailer"
     }
   ]
 }

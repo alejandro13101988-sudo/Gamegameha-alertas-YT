@@ -288,7 +288,8 @@
     "XgNoqxINWzw",
     "QzMIhMeNpN4",
     "TKqvdLYEXsA",
-    "G2-ClOu9ssg"
+    "G2-ClOu9ssg",
+    "VXiVTWtABCw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -346,11 +347,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-10-28T16:30:45.777766+00:00",
-      "n": "sword of the sea xbox series x s trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-28T16:40:28.203576+00:00",
@@ -1095,6 +1091,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-04T00:40:25.878426+00:00",
       "n": "solo leveling arise overdrive console launch trailer"
+    },
+    {
+      "canal": "Capcom USA",
+      "fecha": "2026-11-04T00:45:28.734231+00:00",
+      "n": "delicious in dungeon dragon s dogma 2 dark arisen collaboration trailer"
     }
   ]
 }

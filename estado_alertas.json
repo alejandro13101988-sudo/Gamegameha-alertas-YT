@@ -307,7 +307,8 @@
     "Eoixebk-DAo",
     "bu_h2AzscOM",
     "42C9-SRvDYY",
-    "NDjCWfKtelA"
+    "NDjCWfKtelA",
+    "niveu1cp4U0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -365,11 +366,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-28T23:35:25.375081+00:00",
-      "n": "everything is crab announcement trailer nintendo switch 2"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-10-29T00:25:21.329022+00:00",
@@ -1114,6 +1110,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-04T18:15:33.429724+00:00",
       "n": "lightyear frontier 1 0 launch trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-04T18:30:47.835378+00:00",
+      "n": "void breaker launch trailer ps5 games"
     }
   ]
 }

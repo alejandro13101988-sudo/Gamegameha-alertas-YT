@@ -301,7 +301,8 @@
     "IHn0ZsqxnLo",
     "fEskXorkqgY",
     "5CGn6hGJmzY",
-    "FLMGNKxJrDk"
+    "FLMGNKxJrDk",
+    "MNoKUYouJQU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -359,11 +360,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-28T19:50:30.173088+00:00",
-      "n": "my arms are longer now official release date trailer nintendo indie world fall 2026"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-28T20:10:24.998633+00:00",
@@ -1108,6 +1104,11 @@
       "canal": "IGN",
       "fecha": "2026-11-04T17:05:24.379754+00:00",
       "n": "lords of war official teaser trailer 2027 nicholas cage bill skarsgard laura harrier"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-04T17:20:28.339230+00:00",
+      "n": "all rats on deck official release date trailer"
     }
   ]
 }

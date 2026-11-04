@@ -314,7 +314,8 @@
     "0x4g7J8toD4",
     "LdpC9jYAL-w",
     "sZA4qjKl8sI",
-    "LiSPmjkDR04"
+    "LiSPmjkDR04",
+    "rhOdJUv1z-A"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -372,11 +373,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-29T08:20:27.275267+00:00",
-      "n": "cleansheet soccer 2 halloween trailer ps vr2 games"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-10-29T09:10:33.360909+00:00",
@@ -1121,6 +1117,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-04T21:30:43.777820+00:00",
       "n": "void breaker 1 0 launch trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-04T21:55:20.701548+00:00",
+      "n": "fragmentary order official gameplay reveal"
     }
   ]
 }

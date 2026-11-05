@@ -334,7 +334,9 @@
     "YShUltY0Wcw",
     "xDf--fyLriA",
     "NuxQ_rbst58",
-    "uefT1hmywG0"
+    "uefT1hmywG0",
+    "GcxK-8uyD10",
+    "1cL5KzHbxVE"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -392,16 +394,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-29T14:45:32.016853+00:00",
-      "n": "hitman world of assassination the host elusive target launch trailer ps5 ps4 ps vr2 games"
-    },
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-29T15:15:30.811922+00:00",
-      "n": "joe mac retro collection launch trailer ps5 games"
-    },
     {
       "canal": "GameSpot",
       "fecha": "2026-10-29T15:20:28.182344+00:00",
@@ -1141,6 +1133,16 @@
       "canal": "PlayStation",
       "fecha": "2026-11-05T16:15:31.923620+00:00",
       "n": "kingdom of night launch trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-05T16:25:24.892366+00:00",
+      "n": "k pop rising dream to shine launch trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-05T16:25:24.892366+00:00",
+      "n": "call it a day official publisher announcement trailer"
     }
   ]
 }

@@ -342,7 +342,8 @@
     "T4Eh0M-Sh_g",
     "Ux8IBRGqd4Q",
     "sgZ_xSdoBJo",
-    "uqDXiKjqC3k"
+    "uqDXiKjqC3k",
+    "wuuTIc-EFPE"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -400,11 +401,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-29T16:20:30.880736+00:00",
-      "n": "cairn on the trail deep water launch trailer ps5 games"
-    },
     {
       "canal": "Bethesda Softworks",
       "fecha": "2026-10-29T16:35:21.593624+00:00",
@@ -1149,6 +1145,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-05T17:35:19.429879+00:00",
       "n": "wonderfall official release date trailer"
+    },
+    {
+      "canal": "Bethesda Softworks",
+      "fecha": "2026-11-05T18:01:00.046254+00:00",
+      "n": "slayers club live doom the dark ages revelations w hugo martin ch 36 endgame chasm"
     }
   ]
 }

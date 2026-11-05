@@ -329,7 +329,8 @@
     "43qBZAgktoE",
     "cvpGR5scBzA",
     "LehqBLXg8KI",
-    "RToTdYcDBhY"
+    "RToTdYcDBhY",
+    "6kYiw-Bz1oI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -387,11 +388,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-29T14:15:31.943253+00:00",
-      "n": "agni village of calamity blood and bones trailer ps5 games"
-    },
     {
       "canal": "BANDAI NAMCO Europe",
       "fecha": "2026-10-29T14:15:31.943253+00:00",
@@ -1136,6 +1132,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-05T14:35:22.482744+00:00",
       "n": "chrono punk official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-05T15:05:20.930555+00:00",
+      "n": "leaving eden official announcement trailer"
     }
   ]
 }

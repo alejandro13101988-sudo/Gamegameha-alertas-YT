@@ -331,7 +331,8 @@
     "LehqBLXg8KI",
     "RToTdYcDBhY",
     "6kYiw-Bz1oI",
-    "YShUltY0Wcw"
+    "YShUltY0Wcw",
+    "xDf--fyLriA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -389,11 +390,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-29T14:30:47.182105+00:00",
-      "n": "rv there yet launch trailer ps5 games"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-29T14:30:47.182105+00:00",
@@ -1138,6 +1134,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-05T15:10:28.644369+00:00",
       "n": "the slormancer xbox launch trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-05T15:15:38.223469+00:00",
+      "n": "stellar blade bayonetta collaboration trailer ps5 pc games"
     }
   ]
 }

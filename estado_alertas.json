@@ -320,7 +320,8 @@
     "3dp60rUp5T4",
     "dboyxxn32wA",
     "TGScOnzfQN0",
-    "RtAWgW_XxiY"
+    "RtAWgW_XxiY",
+    "PFZFU9ImI5k"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -378,11 +379,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-10-29T12:05:22.175020+00:00",
-      "n": "ghostpunch official announcement trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-29T13:05:19.913947+00:00",
@@ -1127,6 +1123,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-05T08:10:27.487340+00:00",
       "n": "the slormancer launch trailer ps5 games"
+    },
+    {
+      "canal": "Ubisoft",
+      "fecha": "2026-11-05T10:10:27.959564+00:00",
+      "n": "anno 117 pax romana dawn of the delta launch trailer"
     }
   ]
 }

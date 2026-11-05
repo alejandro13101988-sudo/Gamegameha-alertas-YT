@@ -337,7 +337,8 @@
     "uefT1hmywG0",
     "GcxK-8uyD10",
     "1cL5KzHbxVE",
-    "ZTH87aGqlqk"
+    "ZTH87aGqlqk",
+    "1Nn96KFh9LI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -395,11 +396,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-29T15:20:28.182344+00:00",
-      "n": "croc 2 kingdom of the gobbos launch trailer ps5 ps4 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-29T15:45:31.950784+00:00",
@@ -1144,6 +1140,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-05T16:35:22.758553+00:00",
       "n": "shroud of gloom official release date trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-05T17:05:21.792405+00:00",
+      "n": "escape academy 2 back 2 school launch trailer"
     }
   ]
 }

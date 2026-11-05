@@ -317,7 +317,8 @@
     "LiSPmjkDR04",
     "rhOdJUv1z-A",
     "bhlsPFHC6hs",
-    "3dp60rUp5T4"
+    "3dp60rUp5T4",
+    "dboyxxn32wA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -375,11 +376,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-29T10:20:24.831866+00:00",
-      "n": "planet coaster 2 spooktacular pack launch trailer ps5 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-10-29T11:10:26.362999+00:00",
@@ -1124,6 +1120,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-04T22:25:20.731274+00:00",
       "n": "zero parades director s cut xbox launch trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-05T03:15:29.880287+00:00",
+      "n": "icy tower official release date trailer"
     }
   ]
 }

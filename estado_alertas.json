@@ -338,7 +338,8 @@
     "GcxK-8uyD10",
     "1cL5KzHbxVE",
     "ZTH87aGqlqk",
-    "1Nn96KFh9LI"
+    "1Nn96KFh9LI",
+    "T4Eh0M-Sh_g"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -396,11 +397,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-29T15:45:31.950784+00:00",
-      "n": "coloratura launch trailer ps5 games"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-10-29T16:05:21.732702+00:00",
@@ -1145,6 +1141,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-05T17:05:21.792405+00:00",
       "n": "escape academy 2 back 2 school launch trailer"
+    },
+    {
+      "canal": "Nintendo of America",
+      "fecha": "2026-11-05T17:15:31.942122+00:00",
+      "n": "the legend of zelda ocarina of time launch trailer nintendo switch 2"
     }
   ]
 }

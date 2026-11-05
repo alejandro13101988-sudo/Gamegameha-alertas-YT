@@ -327,7 +327,9 @@
     "wXyzTImDcD8",
     "SB7SddCKOTw",
     "43qBZAgktoE",
-    "cvpGR5scBzA"
+    "cvpGR5scBzA",
+    "LehqBLXg8KI",
+    "RToTdYcDBhY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -385,16 +387,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameSpot",
-      "fecha": "2026-10-29T13:45:30.995853+00:00",
-      "n": "dokapon kingdom connect 2 official announcement trailer"
-    },
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-29T13:50:25.702349+00:00",
-      "n": "the grimm reapress and the drearytale monster release date trailer ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-29T14:15:31.943253+00:00",
@@ -1134,6 +1126,16 @@
       "canal": "PlayStation",
       "fecha": "2026-11-05T14:30:49.980439+00:00",
       "n": "faraway launch trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-05T14:35:22.482744+00:00",
+      "n": "yomawari the long night collection yomawari lost in the dark launch trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-05T14:35:22.482744+00:00",
+      "n": "chrono punk official announcement trailer"
     }
   ]
 }

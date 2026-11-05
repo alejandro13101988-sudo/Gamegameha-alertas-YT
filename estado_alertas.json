@@ -343,7 +343,8 @@
     "Ux8IBRGqd4Q",
     "sgZ_xSdoBJo",
     "uqDXiKjqC3k",
-    "wuuTIc-EFPE"
+    "wuuTIc-EFPE",
+    "Ufg8QHwfjgQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -401,11 +402,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Bethesda Softworks",
-      "fecha": "2026-10-29T16:35:21.593624+00:00",
-      "n": "slayers club live doom the dark ages revelations w hugo martin ch 35 endgame hell s core"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-29T16:35:21.593624+00:00",
@@ -1150,6 +1146,11 @@
       "canal": "Bethesda Softworks",
       "fecha": "2026-11-05T18:01:00.046254+00:00",
       "n": "slayers club live doom the dark ages revelations w hugo martin ch 36 endgame chasm"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-05T18:20:27.279829+00:00",
+      "n": "lords of the fallen ii new steel sorcery gameplay wishlist now on xbox series x s"
     }
   ]
 }

@@ -344,7 +344,8 @@
     "sgZ_xSdoBJo",
     "uqDXiKjqC3k",
     "wuuTIc-EFPE",
-    "Ufg8QHwfjgQ"
+    "Ufg8QHwfjgQ",
+    "l9d8Hm4CUDQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -402,11 +403,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-29T16:35:21.593624+00:00",
-      "n": "metro redux next gen update launch trailer ps5 games"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-10-29T17:05:26.969182+00:00",
@@ -1151,6 +1147,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-05T18:20:27.279829+00:00",
       "n": "lords of the fallen ii new steel sorcery gameplay wishlist now on xbox series x s"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-05T19:40:26.944219+00:00",
+      "n": "007 first light free starter pack trailer ps5 games"
     }
   ]
 }

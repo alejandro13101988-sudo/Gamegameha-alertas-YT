@@ -336,7 +336,8 @@
     "NuxQ_rbst58",
     "uefT1hmywG0",
     "GcxK-8uyD10",
-    "1cL5KzHbxVE"
+    "1cL5KzHbxVE",
+    "ZTH87aGqlqk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -394,11 +395,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameSpot",
-      "fecha": "2026-10-29T15:20:28.182344+00:00",
-      "n": "virtua fighter crossroads lionel rafale gameplay reveal trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-29T15:20:28.182344+00:00",
@@ -1143,6 +1139,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-05T16:25:24.892366+00:00",
       "n": "call it a day official publisher announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-05T16:35:22.758553+00:00",
+      "n": "shroud of gloom official release date trailer"
     }
   ]
 }

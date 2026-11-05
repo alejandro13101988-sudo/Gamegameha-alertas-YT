@@ -333,7 +333,8 @@
     "6kYiw-Bz1oI",
     "YShUltY0Wcw",
     "xDf--fyLriA",
-    "NuxQ_rbst58"
+    "NuxQ_rbst58",
+    "uefT1hmywG0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -391,11 +392,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-29T14:30:47.182105+00:00",
-      "n": "genshin impact official mitya character teaser trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-29T14:45:32.016853+00:00",
@@ -1140,6 +1136,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-05T15:15:38.223469+00:00",
       "n": "stellar blade bayonetta collaboration trailer ps5 pc games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-05T16:15:31.923620+00:00",
+      "n": "kingdom of night launch trailer ps5 games"
     }
   ]
 }

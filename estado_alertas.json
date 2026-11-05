@@ -348,7 +348,8 @@
     "l9d8Hm4CUDQ",
     "2lcxjHG0FP8",
     "weRp9ly0bPA",
-    "8k5jR3JJLzA"
+    "8k5jR3JJLzA",
+    "A1madHvB15k"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -406,11 +407,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-29T17:45:29.954634+00:00",
-      "n": "assassin s creed official fall 2026 update teaser"
-    },
     {
       "canal": "Obsidian Entertainment",
       "fecha": "2026-10-29T18:00:56.391855+00:00",
@@ -1155,6 +1151,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-05T20:20:28.981719+00:00",
       "n": "aksun official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-05T22:15:32.646391+00:00",
+      "n": "apple crumble official release date trailer"
     }
   ]
 }

@@ -326,7 +326,8 @@
     "YSFN05_3d-s",
     "wXyzTImDcD8",
     "SB7SddCKOTw",
-    "43qBZAgktoE"
+    "43qBZAgktoE",
+    "cvpGR5scBzA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -384,11 +385,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-10-29T13:45:30.995853+00:00",
-      "n": "the great villainess strategy of lily official console release announcement trailer"
-    },
     {
       "canal": "GameSpot",
       "fecha": "2026-10-29T13:45:30.995853+00:00",
@@ -1133,6 +1129,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-05T14:05:22.986014+00:00",
       "n": "faraway launch trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-05T14:30:49.980439+00:00",
+      "n": "faraway launch trailer ps5 games"
     }
   ]
 }

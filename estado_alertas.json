@@ -341,7 +341,8 @@
     "1Nn96KFh9LI",
     "T4Eh0M-Sh_g",
     "Ux8IBRGqd4Q",
-    "sgZ_xSdoBJo"
+    "sgZ_xSdoBJo",
+    "uqDXiKjqC3k"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -399,11 +400,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-29T16:15:33.653890+00:00",
-      "n": "survival repacker official announcement trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-29T16:20:30.880736+00:00",
@@ -1148,6 +1144,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-05T17:20:28.914968+00:00",
       "n": "cat astrophy launch trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-05T17:35:19.429879+00:00",
+      "n": "wonderfall official release date trailer"
     }
   ]
 }

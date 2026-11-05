@@ -319,7 +319,8 @@
     "bhlsPFHC6hs",
     "3dp60rUp5T4",
     "dboyxxn32wA",
-    "TGScOnzfQN0"
+    "TGScOnzfQN0",
+    "RtAWgW_XxiY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -377,11 +378,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-10-29T11:10:26.362999+00:00",
-      "n": "bay 12 mech repair official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-10-29T12:05:22.175020+00:00",
@@ -1126,6 +1122,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-05T03:15:29.880287+00:00",
       "n": "icy tower official release date trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-05T08:10:27.487340+00:00",
+      "n": "the slormancer launch trailer ps5 games"
     }
   ]
 }

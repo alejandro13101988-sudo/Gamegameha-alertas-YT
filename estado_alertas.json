@@ -339,7 +339,8 @@
     "1cL5KzHbxVE",
     "ZTH87aGqlqk",
     "1Nn96KFh9LI",
-    "T4Eh0M-Sh_g"
+    "T4Eh0M-Sh_g",
+    "Ux8IBRGqd4Q"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -397,11 +398,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-10-29T16:05:21.732702+00:00",
-      "n": "warhammer age of sigmar deathmaster story trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-29T16:15:33.653890+00:00",
@@ -1146,6 +1142,11 @@
       "canal": "Nintendo of America",
       "fecha": "2026-11-05T17:15:31.942122+00:00",
       "n": "the legend of zelda ocarina of time launch trailer nintendo switch 2"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-05T17:20:28.914968+00:00",
+      "n": "cat astrophy launch trailer ps5 games"
     }
   ]
 }

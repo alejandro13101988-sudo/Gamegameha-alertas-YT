@@ -321,7 +321,8 @@
     "dboyxxn32wA",
     "TGScOnzfQN0",
     "RtAWgW_XxiY",
-    "PFZFU9ImI5k"
+    "PFZFU9ImI5k",
+    "_eCdCbvIygE"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -379,11 +380,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-29T13:05:19.913947+00:00",
-      "n": "the wolf among us remastered launch trailer ps5 games"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-29T13:10:30.100703+00:00",
@@ -1128,6 +1124,11 @@
       "canal": "Ubisoft",
       "fecha": "2026-11-05T10:10:27.959564+00:00",
       "n": "anno 117 pax romana dawn of the delta launch trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-05T12:00:57.403210+00:00",
+      "n": "bloodrush undying wish official 1 0 release date trailer"
     }
   ]
 }

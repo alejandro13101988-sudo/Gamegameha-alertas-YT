@@ -345,7 +345,9 @@
     "uqDXiKjqC3k",
     "wuuTIc-EFPE",
     "Ufg8QHwfjgQ",
-    "l9d8Hm4CUDQ"
+    "l9d8Hm4CUDQ",
+    "2lcxjHG0FP8",
+    "weRp9ly0bPA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -403,16 +405,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-10-29T17:05:26.969182+00:00",
-      "n": "terrible lizards xbox game pass launch trailer"
-    },
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-29T17:05:26.969182+00:00",
-      "n": "steins gate re boot launch trailer ps5 games"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-10-29T17:15:30.670222+00:00",
@@ -1152,6 +1144,16 @@
       "canal": "PlayStation",
       "fecha": "2026-11-05T19:40:26.944219+00:00",
       "n": "007 first light free starter pack trailer ps5 games"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-05T19:55:21.147941+00:00",
+      "n": "jaden industries announcement xbox trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-05T19:55:21.147941+00:00",
+      "n": "sonic racing crossworlds godzilla pack trailer"
     }
   ]
 }

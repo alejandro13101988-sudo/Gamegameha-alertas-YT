@@ -374,7 +374,8 @@
     "d_JHkBixfO0",
     "TBn800XVsdg",
     "17vtGeGLq6E",
-    "himXifzkQmc"
+    "himXifzkQmc",
+    "9IzTNB0Gh3s"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -432,11 +433,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "KOJIMA PRODUCTIONS",
-      "fecha": "2026-10-30T03:20:24.364962+00:00",
-      "n": "death stranding isolations teaser trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-30T07:55:17.992988+00:00",
@@ -1181,6 +1177,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-06T18:10:27.561521+00:00",
       "n": "vicious vocab official announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-06T18:40:27.149853+00:00",
+      "n": "the 9th dragon official announcement trailer"
     }
   ]
 }

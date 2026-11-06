@@ -351,7 +351,9 @@
     "8k5jR3JJLzA",
     "A1madHvB15k",
     "oElX65KmbVo",
-    "8AbFC6DjNys"
+    "8AbFC6DjNys",
+    "tWXJF2LWlXo",
+    "GMIK6EFv92k"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -409,11 +411,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-29T19:25:23.138421+00:00",
-      "n": "asleep final act official announcement teaser trailer"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-29T20:10:25.994730+00:00",
@@ -1158,6 +1155,11 @@
       "canal": "IGN",
       "fecha": "2026-11-06T00:35:21.448790+00:00",
       "n": "sony reveals wolverine sales figures updates financial forecast ign daily fix"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-06T01:35:25.439307+00:00",
+      "n": "dead mosaic official reveal trailer endix expo fall 2026"
     }
   ]
 }

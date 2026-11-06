@@ -370,7 +370,10 @@
     "D316m6mc_-w",
     "LdfG0Luvv08",
     "-JczTfI_Ptk",
-    "lWn4u0C6Ato"
+    "lWn4u0C6Ato",
+    "d_JHkBixfO0",
+    "TBn800XVsdg",
+    "17vtGeGLq6E"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -428,21 +431,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-10-29T23:35:18.034836+00:00",
-      "n": "threads of time release window trailer"
-    },
-    {
-      "canal": "IGN",
-      "fecha": "2026-10-30T00:45:28.063764+00:00",
-      "n": "the elder scrolls 6 reveal could be as early as next month ign daily fix"
-    },
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-30T01:10:23.756169+00:00",
-      "n": "village in the shade launch trailer nintendo switch 2"
-    },
     {
       "canal": "KOJIMA PRODUCTIONS",
       "fecha": "2026-10-30T03:20:24.364962+00:00",
@@ -1177,6 +1165,21 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-06T18:05:22.417518+00:00",
       "n": "mouse chef dig out official announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-06T18:10:27.561521+00:00",
+      "n": "my cat scattered games tidy videogame supermarket official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-06T18:10:27.561521+00:00",
+      "n": "ruff day official announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-06T18:10:27.561521+00:00",
+      "n": "vicious vocab official announcement trailer"
     }
   ]
 }

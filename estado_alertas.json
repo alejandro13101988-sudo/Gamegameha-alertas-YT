@@ -378,7 +378,8 @@
     "9IzTNB0Gh3s",
     "YhWdDnuXVyw",
     "XXt94OJSa7M",
-    "B6ozYL_W1MU"
+    "B6ozYL_W1MU",
+    "QsIDIiED5kc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -436,11 +437,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-10-30T08:15:27.966843+00:00",
-      "n": "the cat in the hat rainy day mayhem launch trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-10-30T09:15:27.444126+00:00",
@@ -1185,6 +1181,11 @@
       "canal": "Konami",
       "fecha": "2026-11-06T19:20:27.031740+00:00",
       "n": "castlevania belmont s curse accolades trailer konami"
+    },
+    {
+      "canal": "Nintendo of America",
+      "fecha": "2026-11-06T22:15:27.941675+00:00",
+      "n": "stellar blade complete edition launch trailer nintendo switch 2"
     }
   ]
 }

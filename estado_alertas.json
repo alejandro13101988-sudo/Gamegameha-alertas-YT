@@ -375,7 +375,8 @@
     "TBn800XVsdg",
     "17vtGeGLq6E",
     "himXifzkQmc",
-    "9IzTNB0Gh3s"
+    "9IzTNB0Gh3s",
+    "YhWdDnuXVyw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -433,11 +434,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-30T07:55:17.992988+00:00",
-      "n": "asylum launch trailer ps5 games"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-10-30T08:15:27.966843+00:00",
@@ -1182,6 +1178,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-06T18:40:27.149853+00:00",
       "n": "the 9th dragon official announcement trailer"
+    },
+    {
+      "canal": "Konami",
+      "fecha": "2026-11-06T19:20:27.031740+00:00",
+      "n": "castlevania belmont s curse accolades trailer konami"
     }
   ]
 }

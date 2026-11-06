@@ -368,7 +368,8 @@
     "-XaLN3f6kJo",
     "xk9_hZum16Q",
     "D316m6mc_-w",
-    "LdfG0Luvv08"
+    "LdfG0Luvv08",
+    "-JczTfI_Ptk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -426,11 +427,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-10-29T23:30:51.381150+00:00",
-      "n": "raccoin chaos max edition release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-29T23:30:51.381150+00:00",
@@ -1175,6 +1171,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-06T17:00:57.835856+00:00",
       "n": "hacker the dark shadow official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-06T17:05:24.992406+00:00",
+      "n": "we re all in official release date trailer"
     }
   ]
 }

@@ -369,7 +369,8 @@
     "xk9_hZum16Q",
     "D316m6mc_-w",
     "LdfG0Luvv08",
-    "-JczTfI_Ptk"
+    "-JczTfI_Ptk",
+    "lWn4u0C6Ato"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -427,11 +428,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-29T23:30:51.381150+00:00",
-      "n": "the outer worlds 2 official side effects guaranteed cinematic teaser trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-10-29T23:35:18.034836+00:00",
@@ -1176,6 +1172,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-06T17:05:24.992406+00:00",
       "n": "we re all in official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-06T18:05:22.417518+00:00",
+      "n": "mouse chef dig out official announcement trailer"
     }
   ]
 }

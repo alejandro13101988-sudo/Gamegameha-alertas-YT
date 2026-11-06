@@ -359,7 +359,9 @@
     "bw9TGIS0Qq8",
     "lMXl_UzxpGw",
     "c5GADDHEEro",
-    "9kYTVBWU2TY"
+    "9kYTVBWU2TY",
+    "MdylaeDkKJE",
+    "jwDYCmVM2z8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -417,11 +419,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-29T22:20:23.921843+00:00",
-      "n": "top hat studios presents fall showcase 2026"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-10-29T22:20:23.921843+00:00",
@@ -1166,6 +1163,11 @@
       "canal": "BANDAI NAMCO Europe",
       "fecha": "2026-11-06T09:05:21.575779+00:00",
       "n": "hasbro games junior collection launch trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-06T09:10:27.037634+00:00",
+      "n": "acornia mirror worlds a season ing trailer ps5 games"
     }
   ]
 }

@@ -379,7 +379,8 @@
     "YhWdDnuXVyw",
     "XXt94OJSa7M",
     "B6ozYL_W1MU",
-    "QsIDIiED5kc"
+    "QsIDIiED5kc",
+    "EO2amFGJLvI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -437,11 +438,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-10-30T09:15:27.444126+00:00",
-      "n": "asylum launch trailer"
-    },
     {
       "canal": "Raw Fury",
       "fecha": "2026-10-30T11:10:24.870075+00:00",
@@ -1186,6 +1182,11 @@
       "canal": "Nintendo of America",
       "fecha": "2026-11-06T22:15:27.941675+00:00",
       "n": "stellar blade complete edition launch trailer nintendo switch 2"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-07T12:40:24.138707+00:00",
+      "n": "sink my bricks official announcement trailer"
     }
   ]
 }

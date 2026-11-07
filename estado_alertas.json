@@ -380,7 +380,8 @@
     "XXt94OJSa7M",
     "B6ozYL_W1MU",
     "QsIDIiED5kc",
-    "EO2amFGJLvI"
+    "EO2amFGJLvI",
+    "Qs_zNtDkbFI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -438,11 +439,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Raw Fury",
-      "fecha": "2026-10-30T11:10:24.870075+00:00",
-      "n": "my cannibal family halloween special 30 minutes of grotesque and also creepy gameplay"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-30T13:15:29.319005+00:00",
@@ -1187,6 +1183,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-07T12:40:24.138707+00:00",
       "n": "sink my bricks official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-07T13:20:25.951205+00:00",
+      "n": "anima song from the abyss official publisher announcement trailer"
     }
   ]
 }

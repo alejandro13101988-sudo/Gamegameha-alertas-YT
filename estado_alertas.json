@@ -387,7 +387,8 @@
     "GsOpR0h0qUo",
     "PvhY3m1CRFo",
     "JsF5Ch2-cRU",
-    "YENFr0UMVjA"
+    "YENFr0UMVjA",
+    "Zsq-wFmOUWE"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -445,11 +446,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-10-30T14:35:20.400795+00:00",
-      "n": "are you smarter than a troll official announcement trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-10-30T15:10:26.135493+00:00",
@@ -1194,6 +1190,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-07T15:30:42.481546+00:00",
       "n": "ctrl u testing facility official announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-07T16:25:20.291423+00:00",
+      "n": "murmures official demo announcement trailer"
     }
   ]
 }

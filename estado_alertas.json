@@ -386,7 +386,8 @@
     "dnaz8qRVqzc",
     "GsOpR0h0qUo",
     "PvhY3m1CRFo",
-    "JsF5Ch2-cRU"
+    "JsF5Ch2-cRU",
+    "YENFr0UMVjA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -444,11 +445,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-30T14:15:32.553351+00:00",
-      "n": "fortnite treasure hunters trailer nintendo switch 2"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-10-30T14:35:20.400795+00:00",
@@ -1193,6 +1189,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-07T15:10:27.709341+00:00",
       "n": "fantasy camp builder official announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-07T15:30:42.481546+00:00",
+      "n": "ctrl u testing facility official announcement trailer"
     }
   ]
 }

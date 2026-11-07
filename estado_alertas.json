@@ -388,7 +388,8 @@
     "PvhY3m1CRFo",
     "JsF5Ch2-cRU",
     "YENFr0UMVjA",
-    "Zsq-wFmOUWE"
+    "Zsq-wFmOUWE",
+    "ADdtv66GcX8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -446,11 +447,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-10-30T15:10:26.135493+00:00",
-      "n": "project hail mary journey among the stars official ship reveal trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-30T15:15:29.620675+00:00",
@@ -1195,6 +1191,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-07T16:25:20.291423+00:00",
       "n": "murmures official demo announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-07T16:30:42.072689+00:00",
+      "n": "fall fall fall for you official release date trailer"
     }
   ]
 }

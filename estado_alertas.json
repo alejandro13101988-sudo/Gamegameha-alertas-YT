@@ -382,7 +382,8 @@
     "QsIDIiED5kc",
     "EO2amFGJLvI",
     "Qs_zNtDkbFI",
-    "9-h7xDi5Xm0"
+    "9-h7xDi5Xm0",
+    "dnaz8qRVqzc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -440,11 +441,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "KOEI TECMO AMERICA",
-      "fecha": "2026-10-30T13:15:29.319005+00:00",
-      "n": "attack on titan 3 nintendo switch 2 gameplay introduction game release 12 10 2026"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-30T13:15:29.319005+00:00",
@@ -1189,6 +1185,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-07T14:05:23.045284+00:00",
       "n": "cat cafe manager 2 big city bliss official early access release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-07T14:50:24.170794+00:00",
+      "n": "towerworks official announcement trailer"
     }
   ]
 }

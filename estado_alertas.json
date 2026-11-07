@@ -381,7 +381,8 @@
     "B6ozYL_W1MU",
     "QsIDIiED5kc",
     "EO2amFGJLvI",
-    "Qs_zNtDkbFI"
+    "Qs_zNtDkbFI",
+    "9-h7xDi5Xm0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -439,11 +440,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-30T13:15:29.319005+00:00",
-      "n": "suri the seventh note launch trailer ps5 games"
-    },
     {
       "canal": "KOEI TECMO AMERICA",
       "fecha": "2026-10-30T13:15:29.319005+00:00",
@@ -1188,6 +1184,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-07T13:20:25.951205+00:00",
       "n": "anima song from the abyss official publisher announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-07T14:05:23.045284+00:00",
+      "n": "cat cafe manager 2 big city bliss official early access release date trailer"
     }
   ]
 }

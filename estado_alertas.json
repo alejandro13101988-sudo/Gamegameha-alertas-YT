@@ -383,7 +383,10 @@
     "EO2amFGJLvI",
     "Qs_zNtDkbFI",
     "9-h7xDi5Xm0",
-    "dnaz8qRVqzc"
+    "dnaz8qRVqzc",
+    "GsOpR0h0qUo",
+    "PvhY3m1CRFo",
+    "JsF5Ch2-cRU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -441,21 +444,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-10-30T13:15:29.319005+00:00",
-      "n": "peak launch trailer nintendo switch 2"
-    },
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-30T13:25:21.618553+00:00",
-      "n": "zero parades director s cut overview trailer ps5 games"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-10-30T13:40:26.493427+00:00",
-      "n": "vampire tactics official announcement trailer"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-30T14:15:32.553351+00:00",
@@ -1190,6 +1178,21 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-07T14:50:24.170794+00:00",
       "n": "towerworks official announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-07T15:10:27.709341+00:00",
+      "n": "temtem pioneers official extended announcement trailer endix expo fall 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-07T15:10:27.709341+00:00",
+      "n": "tiebreakers official reveal trailer endix expo fall 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-07T15:10:27.709341+00:00",
+      "n": "fantasy camp builder official announcement trailer"
     }
   ]
 }

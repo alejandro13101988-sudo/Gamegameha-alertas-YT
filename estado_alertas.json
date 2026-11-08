@@ -392,7 +392,8 @@
     "ADdtv66GcX8",
     "cPiY5ma1teE",
     "IQh7MYBRVSQ",
-    "qOxyLmDUsFY"
+    "qOxyLmDUsFY",
+    "q1nLHHYKtlU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -450,11 +451,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-10-30T16:10:26.233452+00:00",
-      "n": "crimson solstice official release date trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-10-30T16:25:19.828570+00:00",
@@ -1199,6 +1195,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-08T03:55:18.512936+00:00",
       "n": "nte v1 5 elyms character trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-08T12:40:26.419707+00:00",
+      "n": "citrus stone official announcement trailer"
     }
   ]
 }

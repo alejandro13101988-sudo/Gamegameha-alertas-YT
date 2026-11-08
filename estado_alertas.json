@@ -393,7 +393,8 @@
     "cPiY5ma1teE",
     "IQh7MYBRVSQ",
     "qOxyLmDUsFY",
-    "q1nLHHYKtlU"
+    "q1nLHHYKtlU",
+    "cLskxW0nl48"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -451,11 +452,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-30T16:25:19.828570+00:00",
-      "n": "look outside launch trailer ps5 ps4 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-10-30T16:40:25.806025+00:00",
@@ -1200,6 +1196,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-08T12:40:26.419707+00:00",
       "n": "citrus stone official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-08T14:10:25.313288+00:00",
+      "n": "my name is vincent pogo official announcement trailer"
     }
   ]
 }

@@ -395,7 +395,8 @@
     "qOxyLmDUsFY",
     "q1nLHHYKtlU",
     "cLskxW0nl48",
-    "2fqmmoqAcpk"
+    "2fqmmoqAcpk",
+    "6ghm9UELwmw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -453,11 +454,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-10-30T17:15:32.489498+00:00",
-      "n": "kiborg body split update trailer ps5 ps4 games"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-30T23:00:59.515026+00:00",
@@ -1202,6 +1198,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-08T16:05:19.348983+00:00",
       "n": "sooooooooooo strike scream run official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-08T17:00:55.131850+00:00",
+      "n": "sort the creatures official release date trailer"
     }
   ]
 }

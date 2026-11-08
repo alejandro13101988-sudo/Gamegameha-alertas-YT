@@ -390,7 +390,8 @@
     "YENFr0UMVjA",
     "Zsq-wFmOUWE",
     "ADdtv66GcX8",
-    "cPiY5ma1teE"
+    "cPiY5ma1teE",
+    "IQh7MYBRVSQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -448,11 +449,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-10-30T15:15:29.620675+00:00",
-      "n": "force typhoon official announcement trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-10-30T15:40:28.390474+00:00",
@@ -1197,6 +1193,11 @@
       "canal": "IGN",
       "fecha": "2026-11-07T20:20:25.041397+00:00",
       "n": "metamorphosis official trailer top hat fall showcase 2026"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-08T00:35:21.732497+00:00",
+      "n": "10 million pixels official release date trailer"
     }
   ]
 }

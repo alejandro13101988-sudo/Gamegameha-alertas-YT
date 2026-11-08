@@ -391,7 +391,8 @@
     "Zsq-wFmOUWE",
     "ADdtv66GcX8",
     "cPiY5ma1teE",
-    "IQh7MYBRVSQ"
+    "IQh7MYBRVSQ",
+    "qOxyLmDUsFY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -449,11 +450,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-30T15:40:28.390474+00:00",
-      "n": "vibe together official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-10-30T16:10:26.233452+00:00",
@@ -1198,6 +1194,11 @@
       "canal": "IGN",
       "fecha": "2026-11-08T00:35:21.732497+00:00",
       "n": "10 million pixels official release date trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-08T03:55:18.512936+00:00",
+      "n": "nte v1 5 elyms character trailer ps5 games"
     }
   ]
 }

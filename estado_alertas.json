@@ -405,7 +405,8 @@
     "O-7XktV16H8",
     "BFYX7V0WyGE",
     "hyzD1YvTfVA",
-    "RQ1i6lJdfbw"
+    "RQ1i6lJdfbw",
+    "Nt1chrrozV8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -463,11 +464,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-01T19:15:29.349101+00:00",
-      "n": "final fantasy 14 official evercold release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-01T19:15:29.349101+00:00",
@@ -1212,6 +1208,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-09T14:45:31.085248+00:00",
       "n": "sea of remnants official embers dawnbreaker closed beta release date trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-09T15:50:25.883737+00:00",
+      "n": "criminal official teaser trailer 2027 charlie hunnam luke evans emilia clarke"
     }
   ]
 }

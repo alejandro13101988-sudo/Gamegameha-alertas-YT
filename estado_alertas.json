@@ -410,7 +410,9 @@
     "FTF7lMQemL8",
     "x9m9fOB3ZNQ",
     "_3YuHAvYaz4",
-    "TqgjMfhwEDg"
+    "TqgjMfhwEDg",
+    "FzDTyMjpsuM",
+    "MXPN5ICAUvk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -468,16 +470,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-02T14:20:29.230071+00:00",
-      "n": "way of the hunter 2 explanation trailer ps5 games"
-    },
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-02T14:40:37.198681+00:00",
-      "n": "phantom blade zero official path tracing dlss 4 5 showcase trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-02T14:40:37.198681+00:00",
@@ -1217,6 +1209,16 @@
       "canal": "PlayStation",
       "fecha": "2026-11-09T17:20:29.120780+00:00",
       "n": "hozy release trailer ps5 games"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-09T17:40:30.708325+00:00",
+      "n": "kingdom of night launch trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-09T17:40:30.708325+00:00",
+      "n": "apex legends godzilla event trailer"
     }
   ]
 }

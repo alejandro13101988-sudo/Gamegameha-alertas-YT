@@ -406,7 +406,9 @@
     "BFYX7V0WyGE",
     "hyzD1YvTfVA",
     "RQ1i6lJdfbw",
-    "Nt1chrrozV8"
+    "Nt1chrrozV8",
+    "FTF7lMQemL8",
+    "x9m9fOB3ZNQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -464,11 +466,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-01T19:15:29.349101+00:00",
-      "n": "final fantasy 14 x evangelion official ghosts of desire crossover teaser trailer japanese vo"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-02T13:45:33.071213+00:00",
@@ -1213,6 +1210,11 @@
       "canal": "IGN",
       "fecha": "2026-11-09T15:50:25.883737+00:00",
       "n": "criminal official teaser trailer 2027 charlie hunnam luke evans emilia clarke"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-09T16:05:20.832494+00:00",
+      "n": "warhammer 40 000 dark heresy official release date trailer"
     }
   ]
 }

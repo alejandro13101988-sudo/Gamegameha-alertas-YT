@@ -402,7 +402,8 @@
     "hPdjFmkxqjM",
     "Z_-vajruWOs",
     "lsm3cSU_S8E",
-    "O-7XktV16H8"
+    "O-7XktV16H8",
+    "BFYX7V0WyGE"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -460,11 +461,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-10-31T15:40:25.668356+00:00",
-      "n": "fleshbite official kickstarter announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-01T12:35:18.899389+00:00",
@@ -1209,6 +1205,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-09T14:10:25.961367+00:00",
       "n": "sea of remnants dawnbreaker closed beta test worldview lore trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-09T14:25:22.412287+00:00",
+      "n": "sea of remnants dawnbreaker cbt date announcement ps5 games"
     }
   ]
 }

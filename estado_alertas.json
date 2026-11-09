@@ -403,7 +403,8 @@
     "Z_-vajruWOs",
     "lsm3cSU_S8E",
     "O-7XktV16H8",
-    "BFYX7V0WyGE"
+    "BFYX7V0WyGE",
+    "hyzD1YvTfVA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -461,11 +462,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-01T12:35:18.899389+00:00",
-      "n": "gun a rat official release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-01T19:15:29.349101+00:00",
@@ -1210,6 +1206,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-09T14:25:22.412287+00:00",
       "n": "sea of remnants dawnbreaker cbt date announcement ps5 games"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-09T14:45:31.085248+00:00",
+      "n": "sea of remnants official embers dawnbreaker closed beta release date trailer"
     }
   ]
 }

@@ -399,7 +399,10 @@
     "6ghm9UELwmw",
     "s-X4oIzxuHU",
     "IXe85O3SdV4",
-    "hPdjFmkxqjM"
+    "hPdjFmkxqjM",
+    "Z_-vajruWOs",
+    "lsm3cSU_S8E",
+    "O-7XktV16H8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -457,16 +460,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-31T14:15:25.638097+00:00",
-      "n": "black lake official gameplay teaser trailer"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-10-31T14:50:22.959357+00:00",
-      "n": "cinema theater tycoon official release date trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-10-31T15:40:25.668356+00:00",
@@ -1206,6 +1199,16 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-09T14:05:21.354949+00:00",
       "n": "hitch happens official teaser trailer"
+    },
+    {
+      "canal": "KOEI TECMO AMERICA",
+      "fecha": "2026-11-09T14:10:25.961367+00:00",
+      "n": "atelier karia the night kingdom the guide of memories story trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-09T14:10:25.961367+00:00",
+      "n": "sea of remnants dawnbreaker closed beta test worldview lore trailer"
     }
   ]
 }

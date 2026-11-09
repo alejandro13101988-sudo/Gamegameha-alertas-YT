@@ -408,7 +408,8 @@
     "RQ1i6lJdfbw",
     "Nt1chrrozV8",
     "FTF7lMQemL8",
-    "x9m9fOB3ZNQ"
+    "x9m9fOB3ZNQ",
+    "_3YuHAvYaz4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -466,11 +467,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-02T13:45:33.071213+00:00",
-      "n": "sonance official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-02T14:20:29.230071+00:00",
@@ -1215,6 +1211,11 @@
       "canal": "IGN",
       "fecha": "2026-11-09T16:05:20.832494+00:00",
       "n": "warhammer 40 000 dark heresy official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-09T16:35:24.692459+00:00",
+      "n": "agony of choice official announcement trailer"
     }
   ]
 }

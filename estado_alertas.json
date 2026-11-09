@@ -412,7 +412,8 @@
     "_3YuHAvYaz4",
     "TqgjMfhwEDg",
     "FzDTyMjpsuM",
-    "MXPN5ICAUvk"
+    "MXPN5ICAUvk",
+    "Ljb7x-KuLyY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -470,11 +471,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-02T14:40:37.198681+00:00",
-      "n": "zero to south official release date trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-02T15:05:23.309567+00:00",
@@ -1219,6 +1215,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-09T17:40:30.708325+00:00",
       "n": "apex legends godzilla event trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-09T17:55:20.609001+00:00",
+      "n": "ranchonauts official announcement trailer"
     }
   ]
 }

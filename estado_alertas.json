@@ -397,7 +397,8 @@
     "cLskxW0nl48",
     "2fqmmoqAcpk",
     "6ghm9UELwmw",
-    "s-X4oIzxuHU"
+    "s-X4oIzxuHU",
+    "IXe85O3SdV4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -455,11 +456,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameSpot",
-      "fecha": "2026-10-31T03:45:29.832207+00:00",
-      "n": "final fantasy xiv evercold zephyr job reveal trailer"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-10-31T14:10:24.236358+00:00",
@@ -1204,6 +1200,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-09T12:50:24.096839+00:00",
       "n": "mech reign official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-09T13:35:20.598214+00:00",
+      "n": "crimveil official announcement trailer"
     }
   ]
 }

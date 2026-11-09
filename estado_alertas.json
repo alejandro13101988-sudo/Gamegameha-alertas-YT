@@ -396,7 +396,8 @@
     "q1nLHHYKtlU",
     "cLskxW0nl48",
     "2fqmmoqAcpk",
-    "6ghm9UELwmw"
+    "6ghm9UELwmw",
+    "s-X4oIzxuHU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -454,11 +455,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-10-30T23:00:59.515026+00:00",
-      "n": "soulframe official open preludes teaser trailer"
-    },
     {
       "canal": "GameSpot",
       "fecha": "2026-10-31T03:45:29.832207+00:00",
@@ -1203,6 +1199,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-08T17:00:55.131850+00:00",
       "n": "sort the creatures official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-09T12:50:24.096839+00:00",
+      "n": "mech reign official announcement trailer"
     }
   ]
 }

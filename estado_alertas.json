@@ -416,7 +416,9 @@
     "Ljb7x-KuLyY",
     "xSKPdDglhmA",
     "MyxfxKllmoM",
-    "gTMpOhXNqm4"
+    "gTMpOhXNqm4",
+    "j9zeok7DQjI",
+    "HD75JDFaYvg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -474,16 +476,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-02T15:35:22.978739+00:00",
-      "n": "resident evil survival unit official anniversary update teaser trailer"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-02T15:45:44.340126+00:00",
-      "n": "killdozer simulator official release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-02T16:30:45.146010+00:00",
@@ -1223,6 +1215,16 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-09T18:05:23.707027+00:00",
       "n": "beholder 4 official announcement teaser trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-09T20:10:25.751722+00:00",
+      "n": "the spotter dig or die official date announcement trailer xbox series x s"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-09T20:10:25.751722+00:00",
+      "n": "delta force official season aurora cinematic trailer"
     }
   ]
 }

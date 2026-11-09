@@ -413,7 +413,9 @@
     "TqgjMfhwEDg",
     "FzDTyMjpsuM",
     "MXPN5ICAUvk",
-    "Ljb7x-KuLyY"
+    "Ljb7x-KuLyY",
+    "xSKPdDglhmA",
+    "MyxfxKllmoM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -471,16 +473,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-02T15:05:23.309567+00:00",
-      "n": "powerwash simulator 2 barbie pack release date trailer ps5 games"
-    },
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-02T15:05:23.309567+00:00",
-      "n": "derelikt release date trailer ps5 games"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-02T15:35:22.978739+00:00",
@@ -1220,6 +1212,16 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-09T17:55:20.609001+00:00",
       "n": "ranchonauts official announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-09T18:05:23.707027+00:00",
+      "n": "wish upon a llama official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-09T18:05:23.707027+00:00",
+      "n": "beholder 4 official announcement teaser trailer"
     }
   ]
 }

@@ -409,7 +409,8 @@
     "Nt1chrrozV8",
     "FTF7lMQemL8",
     "x9m9fOB3ZNQ",
-    "_3YuHAvYaz4"
+    "_3YuHAvYaz4",
+    "TqgjMfhwEDg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -467,11 +468,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-02T14:20:29.230071+00:00",
-      "n": "furei journey of two spirits official announcement trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-02T14:20:29.230071+00:00",
@@ -1216,6 +1212,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-09T16:35:24.692459+00:00",
       "n": "agony of choice official announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-09T17:20:29.120780+00:00",
+      "n": "hozy release trailer ps5 games"
     }
   ]
 }

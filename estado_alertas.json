@@ -436,7 +436,8 @@
     "Jsu0JlHGACg",
     "CC4UYBpF4Ns",
     "Zga7Qh5pScw",
-    "an5oqz-8t2A"
+    "an5oqz-8t2A",
+    "SG97IwDYsVQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -494,11 +495,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-02T18:15:29.860420+00:00",
-      "n": "prima materia official announcement trailer top hat fall showcase 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-02T18:15:29.860420+00:00",
@@ -1243,6 +1239,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-10T13:10:25.634432+00:00",
       "n": "shard squad onyx rising official announcement trailer"
+    },
+    {
+      "canal": "Raw Fury",
+      "fecha": "2026-11-10T14:00:56.699575+00:00",
+      "n": "hillthorn launch trailer pc switch ios android"
     }
   ]
 }

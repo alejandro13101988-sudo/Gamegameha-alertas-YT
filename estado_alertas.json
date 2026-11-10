@@ -430,7 +430,8 @@
     "aXl2Lbzp6SQ",
     "UwRcePRxAZg",
     "1_ZrPLCMMF8",
-    "JqtQk3Rt4CM"
+    "JqtQk3Rt4CM",
+    "OuklilOy5hk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -488,11 +489,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-02T18:15:29.860420+00:00",
-      "n": "ova magica official console release window trailer top hat fall showcase 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-02T18:15:29.860420+00:00",
@@ -1237,6 +1233,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-10T10:25:18.326477+00:00",
       "n": "tanuki pon s summer launch trailer ps5 ps4 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-10T11:10:25.948590+00:00",
+      "n": "aeterna lucis lore trailer ps5 games"
     }
   ]
 }

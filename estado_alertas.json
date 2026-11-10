@@ -446,7 +446,8 @@
     "3B-4_-HIMx4",
     "b7V5nckjJyM",
     "SJZVw88uASc",
-    "8L0CzL2V72c"
+    "8L0CzL2V72c",
+    "n0BRuZI6OJE"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -504,11 +505,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-02T22:45:40.325166+00:00",
-      "n": "ryn and the thread of life official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-02T23:00:56.853189+00:00",
@@ -1253,6 +1249,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-10T15:50:28.675668+00:00",
       "n": "grand theft auto vi features trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-10T16:15:31.612034+00:00",
+      "n": "tmnt splintered fate shell squad co op update trailer ps5 ps4 games"
     }
   ]
 }

@@ -439,7 +439,9 @@
     "an5oqz-8t2A",
     "SG97IwDYsVQ",
     "pV_8XKMK3Aw",
-    "ZRQDFxbpKjk"
+    "ZRQDFxbpKjk",
+    "KaEsH28aGxQ",
+    "h78a3MUvXsw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -497,11 +499,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-02T18:20:28.467708+00:00",
-      "n": "fortnite treasure hunters one piece hybrid trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-02T18:35:26.989220+00:00",
@@ -1246,6 +1243,11 @@
       "canal": "BANDAI NAMCO Europe",
       "fecha": "2026-11-10T14:10:31.320615+00:00",
       "n": "tekken 8 x nike collab collection trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-10T14:20:29.214327+00:00",
+      "n": "the falconeer revolution remaster release date trailer ps5 games"
     }
   ]
 }

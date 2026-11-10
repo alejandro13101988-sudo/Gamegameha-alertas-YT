@@ -447,7 +447,8 @@
     "b7V5nckjJyM",
     "SJZVw88uASc",
     "8L0CzL2V72c",
-    "n0BRuZI6OJE"
+    "n0BRuZI6OJE",
+    "n0eYRkaw8sc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -505,11 +506,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-02T23:00:56.853189+00:00",
-      "n": "prima materia official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-02T23:15:28.929150+00:00",
@@ -1254,6 +1250,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-10T16:15:31.612034+00:00",
       "n": "tmnt splintered fate shell squad co op update trailer ps5 ps4 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-10T16:30:44.993180+00:00",
+      "n": "marvel cosmic invasion the siege of castle doom dlc 2 launch trailer ps5 ps4 games"
     }
   ]
 }

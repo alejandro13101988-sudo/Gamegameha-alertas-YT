@@ -438,7 +438,8 @@
     "Zga7Qh5pScw",
     "an5oqz-8t2A",
     "SG97IwDYsVQ",
-    "pV_8XKMK3Aw"
+    "pV_8XKMK3Aw",
+    "ZRQDFxbpKjk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -496,11 +497,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-02T18:20:28.467708+00:00",
-      "n": "frostpunk 2 the surge reveal trailer ps5 games"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-02T18:20:28.467708+00:00",
@@ -1245,6 +1241,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-10T14:05:21.731963+00:00",
       "n": "raccoin chaos max edition launch trailer"
+    },
+    {
+      "canal": "BANDAI NAMCO Europe",
+      "fecha": "2026-11-10T14:10:31.320615+00:00",
+      "n": "tekken 8 x nike collab collection trailer"
     }
   ]
 }

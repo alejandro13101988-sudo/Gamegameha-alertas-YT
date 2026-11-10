@@ -464,7 +464,8 @@
     "zyxriGmW3BI",
     "QRA_JmNiLnk",
     "WLNkP3q9ufU",
-    "dyRAx1d03UQ"
+    "dyRAx1d03UQ",
+    "AWRKXgWsNsA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -522,11 +523,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-03T15:20:37.907703+00:00",
-      "n": "the elder scrolls 6 sentinel official title and logo reveal"
-    },
     {
       "canal": "GameSpot",
       "fecha": "2026-11-03T15:45:31.595431+00:00",
@@ -1271,6 +1267,11 @@
       "canal": "IGN",
       "fecha": "2026-11-10T22:10:28.207664+00:00",
       "n": "made in abyss awakening mystery official teaser trailer 2027"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-10T22:15:26.867038+00:00",
+      "n": "warhammer 40 000 darktide official teaser trailer"
     }
   ]
 }

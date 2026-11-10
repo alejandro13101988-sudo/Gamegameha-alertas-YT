@@ -465,7 +465,8 @@
     "QRA_JmNiLnk",
     "WLNkP3q9ufU",
     "dyRAx1d03UQ",
-    "AWRKXgWsNsA"
+    "AWRKXgWsNsA",
+    "G134xXmisyo"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -523,11 +524,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameSpot",
-      "fecha": "2026-11-03T15:45:31.595431+00:00",
-      "n": "the elder scrolls vi sentinel official name reveal trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-03T15:50:28.277304+00:00",
@@ -1272,6 +1268,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-10T22:15:26.867038+00:00",
       "n": "warhammer 40 000 darktide official teaser trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-10T23:05:19.141032+00:00",
+      "n": "horde of distraction official release date trailer"
     }
   ]
 }

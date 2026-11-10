@@ -459,7 +459,9 @@
     "WjlWK1Wl6dc",
     "AFclxMTQ2hI",
     "L7TRTA5nnw8",
-    "Ay7aUFfZ9os"
+    "Ay7aUFfZ9os",
+    "Vhi-1-XWUuA",
+    "zyxriGmW3BI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -517,16 +519,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-03T14:40:26.913356+00:00",
-      "n": "tales of tuscany official release date trailer"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-03T14:55:20.191009+00:00",
-      "n": "bill ted s excellent adventure arcade official announcement trailer"
-    },
     {
       "canal": "Ubisoft",
       "fecha": "2026-11-03T15:10:32.244364+00:00",
@@ -1266,6 +1258,16 @@
       "canal": "Obsidian Entertainment",
       "fecha": "2026-11-10T18:15:30.865555+00:00",
       "n": "the outer worlds 2 side effects guaranteed official announce trailer"
+    },
+    {
+      "canal": "Official ATLUS West",
+      "fecha": "2026-11-10T18:30:44.611599+00:00",
+      "n": "metaphor refantazio heismay trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-10T18:30:44.611599+00:00",
+      "n": "monster train 2 the punished launch trailer ps5 games"
     }
   ]
 }

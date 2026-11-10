@@ -431,7 +431,8 @@
     "UwRcePRxAZg",
     "1_ZrPLCMMF8",
     "JqtQk3Rt4CM",
-    "OuklilOy5hk"
+    "OuklilOy5hk",
+    "n2xIOVbrzuM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -489,11 +490,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-02T18:15:29.860420+00:00",
-      "n": "the backworld official release window trailer top hat fall showcase 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-02T18:15:29.860420+00:00",
@@ -1238,6 +1234,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-10T11:10:25.948590+00:00",
       "n": "aeterna lucis lore trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-10T11:20:28.002593+00:00",
+      "n": "nightmare operator official teaser trailer"
     }
   ]
 }

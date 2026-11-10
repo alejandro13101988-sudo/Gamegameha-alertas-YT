@@ -461,7 +461,8 @@
     "L7TRTA5nnw8",
     "Ay7aUFfZ9os",
     "Vhi-1-XWUuA",
-    "zyxriGmW3BI"
+    "zyxriGmW3BI",
+    "QRA_JmNiLnk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -519,11 +520,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Ubisoft",
-      "fecha": "2026-11-03T15:10:32.244364+00:00",
-      "n": "the division 2 echoes of central park launch trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-03T15:10:32.244364+00:00",
@@ -1268,6 +1264,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-10T18:30:44.611599+00:00",
       "n": "monster train 2 the punished launch trailer ps5 games"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-10T18:40:27.520759+00:00",
+      "n": "release date trailer warhammer 40 000 dark heresy"
     }
   ]
 }

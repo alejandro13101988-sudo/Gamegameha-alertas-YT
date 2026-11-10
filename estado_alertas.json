@@ -425,7 +425,8 @@
     "AT-QjyRPdi0",
     "cFkbNDligOs",
     "bRqiEcU2JOE",
-    "0cC6yoOk2ZA"
+    "0cC6yoOk2ZA",
+    "YlAm1Zvfin8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -483,11 +484,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-02T18:15:29.860420+00:00",
-      "n": "silly polly beast official nintendo switch 2 announce trailer top hat fall showcase 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-02T18:15:29.860420+00:00",
@@ -1232,6 +1228,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-10T08:15:29.856638+00:00",
       "n": "the first descendant meet monet character trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-10T09:05:22.257407+00:00",
+      "n": "winter whiskers official release date trailer"
     }
   ]
 }

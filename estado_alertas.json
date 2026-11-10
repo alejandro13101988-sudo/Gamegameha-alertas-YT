@@ -458,7 +458,8 @@
     "zjIXBESV0ew",
     "WjlWK1Wl6dc",
     "AFclxMTQ2hI",
-    "L7TRTA5nnw8"
+    "L7TRTA5nnw8",
+    "Ay7aUFfZ9os"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -516,11 +517,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-03T14:20:27.953118+00:00",
-      "n": "let s sing abba release trailer ps5 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-03T14:40:26.913356+00:00",
@@ -1265,6 +1261,11 @@
       "canal": "Nintendo of America",
       "fecha": "2026-11-10T18:10:28.141517+00:00",
       "n": "just dance decades of hits every era one floor trailer nintendo switch 2"
+    },
+    {
+      "canal": "Obsidian Entertainment",
+      "fecha": "2026-11-10T18:15:30.865555+00:00",
+      "n": "the outer worlds 2 side effects guaranteed official announce trailer"
     }
   ]
 }

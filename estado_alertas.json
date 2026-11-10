@@ -437,7 +437,8 @@
     "CC4UYBpF4Ns",
     "Zga7Qh5pScw",
     "an5oqz-8t2A",
-    "SG97IwDYsVQ"
+    "SG97IwDYsVQ",
+    "pV_8XKMK3Aw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -495,11 +496,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-02T18:15:29.860420+00:00",
-      "n": "spooky tales official trailer top hat fall showcase 2026"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-02T18:20:28.467708+00:00",
@@ -1244,6 +1240,11 @@
       "canal": "Raw Fury",
       "fecha": "2026-11-10T14:00:56.699575+00:00",
       "n": "hillthorn launch trailer pc switch ios android"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-10T14:05:21.731963+00:00",
+      "n": "raccoin chaos max edition launch trailer"
     }
   ]
 }

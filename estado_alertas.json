@@ -423,7 +423,8 @@
     "adD2SUJtKEw",
     "LQnfddO2ICw",
     "AT-QjyRPdi0",
-    "cFkbNDligOs"
+    "cFkbNDligOs",
+    "bRqiEcU2JOE"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -481,11 +482,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-02T18:15:29.860420+00:00",
-      "n": "becrowned official demo update trailer top hat fall showcase 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-02T18:15:29.860420+00:00",
@@ -1230,6 +1226,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-10T03:55:20.969806+00:00",
       "n": "superbird official reveal trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-10T08:15:29.856638+00:00",
+      "n": "the first descendant meet monet character trailer"
     }
   ]
 }

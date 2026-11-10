@@ -432,7 +432,8 @@
     "1_ZrPLCMMF8",
     "JqtQk3Rt4CM",
     "OuklilOy5hk",
-    "n2xIOVbrzuM"
+    "n2xIOVbrzuM",
+    "Jsu0JlHGACg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -490,11 +491,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-02T18:15:29.860420+00:00",
-      "n": "rgb execution official announcement trailer top hat fall showcase 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-02T18:15:29.860420+00:00",
@@ -1239,6 +1235,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-10T11:20:28.002593+00:00",
       "n": "nightmare operator official teaser trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-10T12:45:30.942943+00:00",
+      "n": "fumehead official release date trailer"
     }
   ]
 }

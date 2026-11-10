@@ -433,7 +433,9 @@
     "JqtQk3Rt4CM",
     "OuklilOy5hk",
     "n2xIOVbrzuM",
-    "Jsu0JlHGACg"
+    "Jsu0JlHGACg",
+    "CC4UYBpF4Ns",
+    "Zga7Qh5pScw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -491,16 +493,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-02T18:15:29.860420+00:00",
-      "n": "my ransomware can t be this cute official gameplay trailer top hat fall showcase 2026"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-02T18:15:29.860420+00:00",
-      "n": "metamorphosis official trailer top hat fall showcase 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-02T18:15:29.860420+00:00",
@@ -1240,6 +1232,16 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-10T12:45:30.942943+00:00",
       "n": "fumehead official release date trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-10T13:10:25.634432+00:00",
+      "n": "project motor racing world endurance pack launch trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-10T13:10:25.634432+00:00",
+      "n": "shard squad onyx rising official announcement trailer"
     }
   ]
 }

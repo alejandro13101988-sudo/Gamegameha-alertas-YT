@@ -443,7 +443,8 @@
     "KaEsH28aGxQ",
     "h78a3MUvXsw",
     "nKD9U6BVbxY",
-    "3B-4_-HIMx4"
+    "3B-4_-HIMx4",
+    "b7V5nckjJyM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -501,11 +502,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-02T22:30:47.389926+00:00",
-      "n": "metamorphosis official character reveal trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-02T22:30:47.389926+00:00",
@@ -1250,6 +1246,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-10T15:05:32.209093+00:00",
       "n": "hard west 2 launch trailer ps5 games"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-10T15:15:31.624710+00:00",
+      "n": "jurassic world evolution 3 official euoplocephalus camarasaurus showcase trailer"
     }
   ]
 }

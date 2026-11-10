@@ -420,7 +420,9 @@
     "j9zeok7DQjI",
     "HD75JDFaYvg",
     "z8KKf4FS5mk",
-    "adD2SUJtKEw"
+    "adD2SUJtKEw",
+    "LQnfddO2ICw",
+    "AT-QjyRPdi0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -478,16 +480,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-02T16:30:45.146010+00:00",
-      "n": "autobahn police simulator 4 official release date teaser trailer"
-    },
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-02T16:35:22.546493+00:00",
-      "n": "call of duty warzone season 1 trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-02T18:10:29.028175+00:00",
@@ -1227,6 +1219,16 @@
       "canal": "XBOX",
       "fecha": "2026-11-09T20:10:25.751722+00:00",
       "n": "delta force official season aurora cinematic trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-10T03:05:19.389867+00:00",
+      "n": "wuthering waves version 3 8 official trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-10T03:05:19.389867+00:00",
+      "n": "superbird official announcement trailer embargo 10 november 4 am cet"
     }
   ]
 }

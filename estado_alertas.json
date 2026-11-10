@@ -441,7 +441,8 @@
     "pV_8XKMK3Aw",
     "ZRQDFxbpKjk",
     "KaEsH28aGxQ",
-    "h78a3MUvXsw"
+    "h78a3MUvXsw",
+    "nKD9U6BVbxY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -499,11 +500,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-02T18:35:26.989220+00:00",
-      "n": "frostpunk 2 the surge official release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-02T19:40:27.457274+00:00",
@@ -1248,6 +1244,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-10T14:20:29.214327+00:00",
       "n": "the falconeer revolution remaster release date trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-10T14:50:26.947869+00:00",
+      "n": "crystals of irm official release date trailer"
     }
   ]
 }

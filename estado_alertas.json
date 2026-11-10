@@ -422,7 +422,8 @@
     "z8KKf4FS5mk",
     "adD2SUJtKEw",
     "LQnfddO2ICw",
-    "AT-QjyRPdi0"
+    "AT-QjyRPdi0",
+    "cFkbNDligOs"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -480,11 +481,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-02T18:10:29.028175+00:00",
-      "n": "frostpunk 2 the surge official announcement trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-02T18:15:29.860420+00:00",
@@ -1229,6 +1225,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-10T03:05:19.389867+00:00",
       "n": "superbird official announcement trailer embargo 10 november 4 am cet"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-10T03:55:20.969806+00:00",
+      "n": "superbird official reveal trailer"
     }
   ]
 }

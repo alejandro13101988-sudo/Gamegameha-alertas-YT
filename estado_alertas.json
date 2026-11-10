@@ -444,7 +444,8 @@
     "h78a3MUvXsw",
     "nKD9U6BVbxY",
     "3B-4_-HIMx4",
-    "b7V5nckjJyM"
+    "b7V5nckjJyM",
+    "SJZVw88uASc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -502,11 +503,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-02T22:30:47.389926+00:00",
-      "n": "rgb execution official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-02T22:40:35.317717+00:00",
@@ -1251,6 +1247,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-10T15:15:31.624710+00:00",
       "n": "jurassic world evolution 3 official euoplocephalus camarasaurus showcase trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-10T15:20:26.687461+00:00",
+      "n": "isekizima ruins and tails journey official release date trailer"
     }
   ]
 }

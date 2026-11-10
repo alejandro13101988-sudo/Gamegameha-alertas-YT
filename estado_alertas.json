@@ -455,7 +455,10 @@
     "iXG8wL03W00",
     "fOJFlgLL6rY",
     "YYfvGuq02CE",
-    "zjIXBESV0ew"
+    "zjIXBESV0ew",
+    "WjlWK1Wl6dc",
+    "AFclxMTQ2hI",
+    "L7TRTA5nnw8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -513,16 +516,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-03T13:25:21.965246+00:00",
-      "n": "harma official early access release date trailer"
-    },
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-03T14:20:27.953118+00:00",
-      "n": "godzilla destroy all monsters melee remastered launch trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-03T14:20:27.953118+00:00",
@@ -1262,6 +1255,16 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-10T17:15:30.666834+00:00",
       "n": "marvel rivals official nightcrawler character reveal trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-10T18:10:28.141517+00:00",
+      "n": "the outer worlds 2 side effects guaranteed trailer ps5 games"
+    },
+    {
+      "canal": "Nintendo of America",
+      "fecha": "2026-11-10T18:10:28.141517+00:00",
+      "n": "just dance decades of hits every era one floor trailer nintendo switch 2"
     }
   ]
 }

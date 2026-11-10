@@ -449,7 +449,8 @@
     "8L0CzL2V72c",
     "n0BRuZI6OJE",
     "n0eYRkaw8sc",
-    "9_d-BwOtiWg"
+    "9_d-BwOtiWg",
+    "jhnZSxoW_mM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -507,11 +508,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-02T23:20:27.392604+00:00",
-      "n": "bodycam official zombie update teaser trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-03T10:10:25.681308+00:00",
@@ -1256,6 +1252,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-10T16:40:27.268918+00:00",
       "n": "balitti official announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-10T17:00:58.506326+00:00",
+      "n": "cities skylines 2 official park adventures announcement trailer"
     }
   ]
 }

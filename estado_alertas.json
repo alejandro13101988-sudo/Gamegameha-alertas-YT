@@ -429,7 +429,8 @@
     "YlAm1Zvfin8",
     "aXl2Lbzp6SQ",
     "UwRcePRxAZg",
-    "1_ZrPLCMMF8"
+    "1_ZrPLCMMF8",
+    "JqtQk3Rt4CM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -487,11 +488,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-02T18:15:29.860420+00:00",
-      "n": "delivery must complete official demo release date trailer top hat fall showcase 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-02T18:15:29.860420+00:00",
@@ -1236,6 +1232,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-10T10:10:28.672080+00:00",
       "n": "warhammer survivors launch trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-10T10:25:18.326477+00:00",
+      "n": "tanuki pon s summer launch trailer ps5 ps4 games"
     }
   ]
 }

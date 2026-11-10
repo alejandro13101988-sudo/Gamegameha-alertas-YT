@@ -462,7 +462,8 @@
     "Ay7aUFfZ9os",
     "Vhi-1-XWUuA",
     "zyxriGmW3BI",
-    "QRA_JmNiLnk"
+    "QRA_JmNiLnk",
+    "WLNkP3q9ufU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -520,11 +521,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-03T15:10:32.244364+00:00",
-      "n": "zack bishop and the forbidden moon official announcement trailer"
-    },
     {
       "canal": "Bethesda Softworks",
       "fecha": "2026-11-03T15:15:30.837371+00:00",
@@ -1269,6 +1265,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-10T18:40:27.520759+00:00",
       "n": "release date trailer warhammer 40 000 dark heresy"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-10T19:30:45.697794+00:00",
+      "n": "the outer worlds 2 official side effects guaranteed announcement trailer"
     }
   ]
 }

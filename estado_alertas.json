@@ -494,7 +494,8 @@
     "B_bw2zq6nEU",
     "TpemC1C4i44",
     "enLchT36ens",
-    "botP5VDOvr4"
+    "botP5VDOvr4",
+    "sDLjFDQpy_o"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -552,11 +553,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-04T17:25:20.449810+00:00",
-      "n": "call of duty modern warfare 4 season 1 dmz trailer ps5 games"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-04T18:05:21.231803+00:00",
@@ -1301,6 +1297,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-11T18:15:29.090998+00:00",
       "n": "gotta catch bugs official announcement trailer"
+    },
+    {
+      "canal": "Nintendo of America",
+      "fecha": "2026-11-11T19:10:22.948157+00:00",
+      "n": "castlebound launch trailer nintendo switch 2"
     }
   ]
 }

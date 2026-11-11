@@ -490,7 +490,8 @@
     "1cm9yoSrazA",
     "_8iacrAiAyM",
     "i8YnUuX8gOw",
-    "yFyGmf5uO3I"
+    "yFyGmf5uO3I",
+    "B_bw2zq6nEU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -548,11 +549,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-04T15:20:40.362314+00:00",
-      "n": "warhammer 40 000 rogue trader official processional of the damned dlc release date trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-04T16:35:22.376414+00:00",
@@ -1297,6 +1293,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-11T17:05:24.939749+00:00",
       "n": "a snail s tale official announcement trailer"
+    },
+    {
+      "canal": "Nintendo of America",
+      "fecha": "2026-11-11T17:15:31.035302+00:00",
+      "n": "marvel cosmic invasion the siege of castle doom dlc trailer nintendo switch 2"
     }
   ]
 }

@@ -486,7 +486,11 @@
     "uRjiHf8OKb0",
     "wcZlgRQaJQA",
     "3g39ieG_fls",
-    "58tSH9Xo6TA"
+    "58tSH9Xo6TA",
+    "1cm9yoSrazA",
+    "_8iacrAiAyM",
+    "i8YnUuX8gOw",
+    "yFyGmf5uO3I"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -544,21 +548,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-04T14:20:30.817455+00:00",
-      "n": "lords of the fallen ii new steel sorcery gameplay trailer ps5 games"
-    },
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-04T14:35:21.222775+00:00",
-      "n": "mouse chef dig out official reveal trailer"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-04T15:11:13.393821+00:00",
-      "n": "mindvale official announcement trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-04T15:20:40.362314+00:00",
@@ -1293,6 +1282,21 @@
       "canal": "IGN",
       "fecha": "2026-11-11T17:00:55.239450+00:00",
       "n": "lords of war official teaser trailer 2 2027 nicholas cage bill skarsgard laura harrier"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-11T17:05:24.939749+00:00",
+      "n": "othercrown official reveal trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-11T17:05:24.939749+00:00",
+      "n": "snoopy presents 12 days of snoopy exclusive clip 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-11T17:05:24.939749+00:00",
+      "n": "a snail s tale official announcement trailer"
     }
   ]
 }

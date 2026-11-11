@@ -491,7 +491,9 @@
     "_8iacrAiAyM",
     "i8YnUuX8gOw",
     "yFyGmf5uO3I",
-    "B_bw2zq6nEU"
+    "B_bw2zq6nEU",
+    "TpemC1C4i44",
+    "enLchT36ens"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -549,16 +551,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-04T16:35:22.376414+00:00",
-      "n": "dynasty bowl official announcement trailer"
-    },
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-04T17:05:24.379754+00:00",
-      "n": "lords of war official teaser trailer 2027 nicholas cage bill skarsgard laura harrier"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-04T17:20:28.339230+00:00",
@@ -1298,6 +1290,16 @@
       "canal": "Nintendo of America",
       "fecha": "2026-11-11T17:15:31.035302+00:00",
       "n": "marvel cosmic invasion the siege of castle doom dlc trailer nintendo switch 2"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-11T18:05:45.729547+00:00",
+      "n": "dark machine the game official reveal trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-11T18:05:45.729547+00:00",
+      "n": "rayman legends retold vortex outfit trailer xbox exclusive"
     }
   ]
 }

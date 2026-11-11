@@ -502,7 +502,8 @@
     "GhT_Ytzf9JA",
     "pBzUGSI03Xw",
     "LduxuM387hc",
-    "tFRa1e712Jw"
+    "tFRa1e712Jw",
+    "KoRJUC8h0SQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -560,11 +561,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-04T20:30:43.806214+00:00",
-      "n": "not welcome official announcement trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-04T21:30:43.777820+00:00",
@@ -1309,6 +1305,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-11T22:20:25.674338+00:00",
       "n": "where winds meet hutuo gameplay trailer ps5 games"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-11T22:25:23.100927+00:00",
+      "n": "the planet crafter official magnetaris dlc release date trailer"
     }
   ]
 }

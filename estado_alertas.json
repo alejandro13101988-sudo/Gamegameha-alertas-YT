@@ -478,7 +478,8 @@
     "wvs2M144Y5g",
     "XW820Jh4-Rk",
     "VEAjUTJ_fZo",
-    "9qOjJaeKTAQ"
+    "9qOjJaeKTAQ",
+    "u81XGvb_OZw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -536,11 +537,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-04T00:40:25.878426+00:00",
-      "n": "solo leveling arise overdrive launch trailer ps5 games"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-04T00:40:25.878426+00:00",
@@ -1285,6 +1281,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-11T10:20:25.451133+00:00",
       "n": "mistfall hunter season 2 fires of the past launch trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-11T13:05:21.267257+00:00",
+      "n": "clive barker s hellraiser revival demo trailer ps5 games"
     }
   ]
 }

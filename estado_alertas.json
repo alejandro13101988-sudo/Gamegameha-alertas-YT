@@ -499,7 +499,8 @@
     "jp0cNm3xpcs",
     "619N217d480",
     "OXXO8L2h3wg",
-    "GhT_Ytzf9JA"
+    "GhT_Ytzf9JA",
+    "pBzUGSI03Xw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -557,11 +558,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-04T18:30:47.835378+00:00",
-      "n": "void breaker launch trailer ps5 games"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-04T20:20:28.925861+00:00",
@@ -1306,6 +1302,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-11T21:05:20.938561+00:00",
       "n": "the road of dust and sorrow official new release date trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-11T21:10:25.009240+00:00",
+      "n": "the road of dust and sorrow release date announcement ps5 games"
     }
   ]
 }

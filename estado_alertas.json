@@ -485,7 +485,8 @@
     "bOpqPkOlCGA",
     "uRjiHf8OKb0",
     "wcZlgRQaJQA",
-    "3g39ieG_fls"
+    "3g39ieG_fls",
+    "58tSH9Xo6TA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -543,11 +544,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-04T14:05:22.074037+00:00",
-      "n": "10 million pixels official release date trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-04T14:20:30.817455+00:00",
@@ -1292,6 +1288,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-11T15:10:25.748133+00:00",
       "n": "prinny party going overboard launch trailer ps5 games"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-11T17:00:55.239450+00:00",
+      "n": "lords of war official teaser trailer 2 2027 nicholas cage bill skarsgard laura harrier"
     }
   ]
 }

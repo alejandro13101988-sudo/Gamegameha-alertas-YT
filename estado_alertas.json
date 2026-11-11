@@ -483,7 +483,8 @@
     "qw3nr_KwZ6Q",
     "BUT-8qn-jtg",
     "bOpqPkOlCGA",
-    "uRjiHf8OKb0"
+    "uRjiHf8OKb0",
+    "wcZlgRQaJQA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -541,11 +542,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-04T09:10:27.600941+00:00",
-      "n": "inquisitor shepherd official demo announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-04T13:40:27.241748+00:00",
@@ -1290,6 +1286,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-11T14:10:24.215666+00:00",
       "n": "thronefall launch trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-11T15:05:19.630281+00:00",
+      "n": "the crossing official announcement trailer"
     }
   ]
 }

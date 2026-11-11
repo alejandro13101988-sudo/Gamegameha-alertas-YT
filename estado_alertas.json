@@ -477,7 +477,8 @@
     "0atfhufyFsI",
     "wvs2M144Y5g",
     "XW820Jh4-Rk",
-    "VEAjUTJ_fZo"
+    "VEAjUTJ_fZo",
+    "9qOjJaeKTAQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -535,11 +536,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-11-04T00:00:58.506771+00:00",
-      "n": "fortnite treasure hunters one piece hybrid trailer nintendo switch 2"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-04T00:40:25.878426+00:00",
@@ -1284,6 +1280,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-11T09:15:32.796421+00:00",
       "n": "edenfall legacy of the first wardens official release date trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-11T10:20:25.451133+00:00",
+      "n": "mistfall hunter season 2 fires of the past launch trailer ps5 games"
     }
   ]
 }

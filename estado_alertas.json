@@ -496,7 +496,8 @@
     "enLchT36ens",
     "botP5VDOvr4",
     "sDLjFDQpy_o",
-    "jp0cNm3xpcs"
+    "jp0cNm3xpcs",
+    "619N217d480"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -554,11 +555,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-04T18:10:27.110867+00:00",
-      "n": "ghost haunting announcement trailer ps5 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-04T18:10:27.110867+00:00",
@@ -1303,6 +1299,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-11T20:05:18.602423+00:00",
       "n": "exterminauts wishlist trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-11T20:57:45.475668+00:00",
+      "n": "exterminauts gameplay trailer ps5 games"
     }
   ]
 }

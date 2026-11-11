@@ -484,7 +484,8 @@
     "BUT-8qn-jtg",
     "bOpqPkOlCGA",
     "uRjiHf8OKb0",
-    "wcZlgRQaJQA"
+    "wcZlgRQaJQA",
+    "3g39ieG_fls"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -542,11 +543,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-04T13:40:27.241748+00:00",
-      "n": "rally shift official release date trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-04T14:05:22.074037+00:00",
@@ -1291,6 +1287,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-11T15:05:19.630281+00:00",
       "n": "the crossing official announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-11T15:10:25.748133+00:00",
+      "n": "prinny party going overboard launch trailer ps5 games"
     }
   ]
 }

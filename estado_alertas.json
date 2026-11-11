@@ -475,7 +475,8 @@
     "ldG-EdLPW28",
     "k_wGAfAKRSM",
     "0atfhufyFsI",
-    "wvs2M144Y5g"
+    "wvs2M144Y5g",
+    "XW820Jh4-Rk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -533,11 +534,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-03T19:30:45.786759+00:00",
-      "n": "grave mistakes official release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-03T22:20:29.185263+00:00",
@@ -1282,6 +1278,11 @@
       "canal": "Nintendo of America",
       "fecha": "2026-11-11T00:15:29.096147+00:00",
       "n": "marvel s guardians of the galaxy encore edition launch trailer nintendo switch 2"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-11T08:00:51.390188+00:00",
+      "n": "working with montabi official release date trailer"
     }
   ]
 }

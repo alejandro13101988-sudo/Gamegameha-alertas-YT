@@ -495,7 +495,8 @@
     "TpemC1C4i44",
     "enLchT36ens",
     "botP5VDOvr4",
-    "sDLjFDQpy_o"
+    "sDLjFDQpy_o",
+    "jp0cNm3xpcs"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -553,11 +554,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-04T18:05:21.231803+00:00",
-      "n": "neosis echoes official gameplay reveal trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-04T18:10:27.110867+00:00",
@@ -1302,6 +1298,11 @@
       "canal": "Nintendo of America",
       "fecha": "2026-11-11T19:10:22.948157+00:00",
       "n": "castlebound launch trailer nintendo switch 2"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-11T20:05:18.602423+00:00",
+      "n": "exterminauts wishlist trailer"
     }
   ]
 }

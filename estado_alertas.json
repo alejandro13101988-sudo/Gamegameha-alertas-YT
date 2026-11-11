@@ -498,7 +498,8 @@
     "sDLjFDQpy_o",
     "jp0cNm3xpcs",
     "619N217d480",
-    "OXXO8L2h3wg"
+    "OXXO8L2h3wg",
+    "GhT_Ytzf9JA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -556,11 +557,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-04T18:15:33.429724+00:00",
-      "n": "lightyear frontier 1 0 launch trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-04T18:30:47.835378+00:00",
@@ -1305,6 +1301,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-11T21:00:55.306143+00:00",
       "n": "conan the black pyramid official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-11T21:05:20.938561+00:00",
+      "n": "the road of dust and sorrow official new release date trailer"
     }
   ]
 }

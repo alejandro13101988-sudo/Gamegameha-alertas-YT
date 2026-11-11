@@ -493,7 +493,8 @@
     "yFyGmf5uO3I",
     "B_bw2zq6nEU",
     "TpemC1C4i44",
-    "enLchT36ens"
+    "enLchT36ens",
+    "botP5VDOvr4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -551,11 +552,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-04T17:20:28.339230+00:00",
-      "n": "all rats on deck official release date trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-04T17:25:20.449810+00:00",
@@ -1300,6 +1296,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-11T18:05:45.729547+00:00",
       "n": "rayman legends retold vortex outfit trailer xbox exclusive"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-11T18:15:29.090998+00:00",
+      "n": "gotta catch bugs official announcement trailer"
     }
   ]
 }

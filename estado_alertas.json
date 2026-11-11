@@ -497,7 +497,8 @@
     "botP5VDOvr4",
     "sDLjFDQpy_o",
     "jp0cNm3xpcs",
-    "619N217d480"
+    "619N217d480",
+    "OXXO8L2h3wg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -555,11 +556,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-04T18:10:27.110867+00:00",
-      "n": "frieda is changing official release date trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-04T18:15:33.429724+00:00",
@@ -1304,6 +1300,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-11T20:57:45.475668+00:00",
       "n": "exterminauts gameplay trailer ps5 games"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-11T21:00:55.306143+00:00",
+      "n": "conan the black pyramid official announcement trailer"
     }
   ]
 }

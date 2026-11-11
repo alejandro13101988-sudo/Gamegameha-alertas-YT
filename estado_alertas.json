@@ -481,7 +481,8 @@
     "9qOjJaeKTAQ",
     "u81XGvb_OZw",
     "qw3nr_KwZ6Q",
-    "BUT-8qn-jtg"
+    "BUT-8qn-jtg",
+    "bOpqPkOlCGA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -539,11 +540,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-04T00:40:25.878426+00:00",
-      "n": "solo leveling arise overdrive console launch trailer"
-    },
     {
       "canal": "Capcom USA",
       "fecha": "2026-11-04T00:45:28.734231+00:00",
@@ -1288,6 +1284,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-11T13:05:21.267257+00:00",
       "n": "clive barker s hellraiser revival demo trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-11T14:05:19.238611+00:00",
+      "n": "marathon symbiosis gameplay trailer ps5 pc games"
     }
   ]
 }

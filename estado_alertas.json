@@ -476,7 +476,8 @@
     "k_wGAfAKRSM",
     "0atfhufyFsI",
     "wvs2M144Y5g",
-    "XW820Jh4-Rk"
+    "XW820Jh4-Rk",
+    "VEAjUTJ_fZo"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -534,11 +535,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-03T22:20:29.185263+00:00",
-      "n": "dispatch official mobile release date trailer"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-11-04T00:00:58.506771+00:00",
@@ -1283,6 +1279,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-11T08:00:51.390188+00:00",
       "n": "working with montabi official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-11T09:15:32.796421+00:00",
+      "n": "edenfall legacy of the first wardens official release date trailer"
     }
   ]
 }

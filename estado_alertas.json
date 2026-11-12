@@ -574,7 +574,8 @@
     "uAbu2NQFTRc",
     "PdFACjYXauk",
     "xojINrJPWxE",
-    "ylRiI1FZzMI"
+    "ylRiI1FZzMI",
+    "gqeWSbL5Jug"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -632,11 +633,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-08T16:05:19.348983+00:00",
-      "n": "sooooooooooo strike scream run official release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-08T17:00:55.131850+00:00",
@@ -1381,6 +1377,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-12T23:05:19.292023+00:00",
       "n": "wartales official knights of fardensa expansion release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-12T23:20:27.078032+00:00",
+      "n": "manum official announcement trailer"
     }
   ]
 }

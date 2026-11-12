@@ -527,7 +527,8 @@
     "ehaN2Nc_3Sc",
     "GX-hxto7Q0A",
     "6XUCa7gy7oo",
-    "O5CPlL-1rYg"
+    "O5CPlL-1rYg",
+    "ywkw9LQSDqA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -585,11 +586,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-05T17:05:21.792405+00:00",
-      "n": "escape academy 2 back 2 school launch trailer"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-11-05T17:15:31.942122+00:00",
@@ -1334,6 +1330,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-12T15:20:25.875697+00:00",
       "n": "bus simulator 27 byd bus pack trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-12T16:00:56.855439+00:00",
+      "n": "grime ii official nintendo switch announcement trailer"
     }
   ]
 }

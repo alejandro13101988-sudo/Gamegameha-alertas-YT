@@ -526,7 +526,8 @@
     "LMq-Kog8hbo",
     "ehaN2Nc_3Sc",
     "GX-hxto7Q0A",
-    "6XUCa7gy7oo"
+    "6XUCa7gy7oo",
+    "O5CPlL-1rYg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -584,11 +585,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-05T16:35:22.758553+00:00",
-      "n": "shroud of gloom official release date trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-05T17:05:21.792405+00:00",
@@ -1333,6 +1329,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-12T15:15:40.450796+00:00",
       "n": "hazard levels launch trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-12T15:20:25.875697+00:00",
+      "n": "bus simulator 27 byd bus pack trailer ps5 games"
     }
   ]
 }

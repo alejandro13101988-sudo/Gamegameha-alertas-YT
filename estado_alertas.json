@@ -511,7 +511,8 @@
     "F9tuTvmZfNs",
     "M3DyXK0YETc",
     "bXplNRAj2pw",
-    "6By9YxgS2h4"
+    "6By9YxgS2h4",
+    "vNp-CYtfKC4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -569,11 +570,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-05T12:00:57.403210+00:00",
-      "n": "bloodrush undying wish official 1 0 release date trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-05T12:35:20.519635+00:00",
@@ -1318,6 +1314,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-12T12:05:21.184933+00:00",
       "n": "othercrown official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-12T12:30:42.880480+00:00",
+      "n": "the snackbar at the end of the world official announcement trailer"
     }
   ]
 }

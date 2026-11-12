@@ -567,7 +567,9 @@
     "qJC8ZPh66_M",
     "YTrvajsaohU",
     "gSMS9m0k_nI",
-    "DQRGQ4lgpEc"
+    "DQRGQ4lgpEc",
+    "RwtRHiZ8zkE",
+    "46iBb-vTRGw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -625,16 +627,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-07T20:20:25.041397+00:00",
-      "n": "metamorphosis official trailer top hat fall showcase 2026"
-    },
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-08T00:35:21.732497+00:00",
-      "n": "10 million pixels official release date trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-08T03:55:18.512936+00:00",
@@ -1374,6 +1366,16 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-12T20:10:29.418166+00:00",
       "n": "wizdom academy official version 1 0 release date trailer"
+    },
+    {
+      "canal": "Bethesda Softworks",
+      "fecha": "2026-11-12T20:35:21.370178+00:00",
+      "n": "doom the dark ages revelations slaughter mode official trailer available november 16"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-12T20:35:21.370178+00:00",
+      "n": "doom the dark ages revelations official slaughter mode trailer"
     }
   ]
 }

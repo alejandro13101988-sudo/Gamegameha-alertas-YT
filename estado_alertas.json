@@ -548,7 +548,9 @@
     "1LzmozoTEr0",
     "JETLcKZDWuE",
     "z1hvrJ8MdLg",
-    "z8PoteD3qHM"
+    "z8PoteD3qHM",
+    "WzeSc7jxG1E",
+    "zxAmj3hIZTc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -606,16 +608,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-06T17:00:57.835856+00:00",
-      "n": "hacker the dark shadow official release date trailer"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-06T17:05:24.992406+00:00",
-      "n": "we re all in official release date trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-06T18:05:22.417518+00:00",
@@ -1355,6 +1347,16 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-12T19:25:18.295864+00:00",
       "n": "kingdom two crowns pharaoh lands official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-12T20:00:51.946362+00:00",
+      "n": "dungeon automata official release date announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-12T20:00:51.946362+00:00",
+      "n": "hunger official open beta early access release date reveal trailer"
     }
   ]
 }

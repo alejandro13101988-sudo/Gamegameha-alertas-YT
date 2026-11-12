@@ -510,7 +510,8 @@
     "UOMbKkYdJoc",
     "F9tuTvmZfNs",
     "M3DyXK0YETc",
-    "bXplNRAj2pw"
+    "bXplNRAj2pw",
+    "6By9YxgS2h4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -568,11 +569,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Ubisoft",
-      "fecha": "2026-11-05T10:10:27.959564+00:00",
-      "n": "anno 117 pax romana dawn of the delta launch trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-05T12:00:57.403210+00:00",
@@ -1317,6 +1313,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-12T11:50:24.242467+00:00",
       "n": "lola s familiars prison of argnoh official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-12T12:05:21.184933+00:00",
+      "n": "othercrown official announcement trailer"
     }
   ]
 }

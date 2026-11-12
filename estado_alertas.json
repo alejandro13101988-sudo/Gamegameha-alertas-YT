@@ -540,7 +540,8 @@
     "sEQOI49VJlA",
     "qiZEzSyw6fo",
     "enGnEY2-YTQ",
-    "fgIrRJCIPW4"
+    "fgIrRJCIPW4",
+    "1H6YtQWFs-I"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -598,11 +599,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-06T00:35:21.448790+00:00",
-      "n": "yo ho ho and a rubber duck official reveal trailer endix expo fall 2026"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-06T00:35:21.448790+00:00",
@@ -1347,6 +1343,11 @@
       "canal": "DevolverDigital",
       "fecha": "2026-11-12T17:15:31.809812+00:00",
       "n": "ball x pit risen ballbylon available now official launch trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-12T17:20:26.681222+00:00",
+      "n": "hell let loose official lake balaton update 22 teaser trailer"
     }
   ]
 }

@@ -516,7 +516,9 @@
     "R4Ql9j5O858",
     "qLUWYcbddJA",
     "_aHt0Hp316s",
-    "m5Cr-Rzi4U8"
+    "m5Cr-Rzi4U8",
+    "VQjDInADRMM",
+    "-9ffzWW-jhg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -574,16 +576,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-05T14:35:22.482744+00:00",
-      "n": "yomawari the long night collection yomawari lost in the dark launch trailer ps5 games"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-05T14:35:22.482744+00:00",
-      "n": "chrono punk official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-05T15:05:20.930555+00:00",
@@ -1323,6 +1315,16 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-12T14:20:27.002678+00:00",
       "n": "station to station official console announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-12T14:25:21.289900+00:00",
+      "n": "i am security launch trailer ps vr2 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-12T14:25:21.289900+00:00",
+      "n": "barbie rewind launch trailer ps5 games"
     }
   ]
 }

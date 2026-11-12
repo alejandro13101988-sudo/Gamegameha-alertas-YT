@@ -505,7 +505,9 @@
     "tFRa1e712Jw",
     "KoRJUC8h0SQ",
     "5RUWvmy01rk",
-    "sYWIPl_G3zc"
+    "sYWIPl_G3zc",
+    "e2IY4_8WUuQ",
+    "UOMbKkYdJoc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -563,11 +565,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-04T21:55:20.701548+00:00",
-      "n": "fragmentary order official gameplay reveal"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-04T22:25:20.731274+00:00",
@@ -1312,6 +1309,11 @@
       "canal": "Official ATLUS West",
       "fecha": "2026-11-12T05:15:25.552535+00:00",
       "n": "metaphor refantazio hero trailer nintendo switch 2"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-12T09:10:27.864370+00:00",
+      "n": "test drive unlimited solar crown initial d collaboration trailer ps5 games"
     }
   ]
 }

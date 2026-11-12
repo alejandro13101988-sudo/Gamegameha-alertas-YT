@@ -570,7 +570,8 @@
     "DQRGQ4lgpEc",
     "RwtRHiZ8zkE",
     "46iBb-vTRGw",
-    "kjuUqsth5Qc"
+    "kjuUqsth5Qc",
+    "uAbu2NQFTRc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -628,11 +629,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-08T03:55:18.512936+00:00",
-      "n": "nte v1 5 elyms character trailer ps5 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-08T12:40:26.419707+00:00",
@@ -1377,6 +1373,11 @@
       "canal": "IGN",
       "fecha": "2026-11-12T20:35:21.370178+00:00",
       "n": "doom the dark ages revelations official slaughter mode trailer"
+    },
+    {
+      "canal": "Bethesda Softworks",
+      "fecha": "2026-11-12T21:15:29.668546+00:00",
+      "n": "slayers club live doom the dark ages revelations w hugo martin ch 37 endgame osseus"
     }
   ]
 }

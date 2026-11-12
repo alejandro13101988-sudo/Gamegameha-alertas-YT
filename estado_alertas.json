@@ -542,7 +542,8 @@
     "enGnEY2-YTQ",
     "fgIrRJCIPW4",
     "1H6YtQWFs-I",
-    "xu1JrN6Naxg"
+    "xu1JrN6Naxg",
+    "CCYud8qArL8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -600,11 +601,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-06T01:35:25.439307+00:00",
-      "n": "dead mosaic official reveal trailer endix expo fall 2026"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-06T08:00:59.495555+00:00",
@@ -1349,6 +1345,11 @@
       "canal": "Ubisoft",
       "fecha": "2026-11-12T17:30:56.935176+00:00",
       "n": "for honor 10th anniversary event reveal livestream november 12 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-12T18:00:58.537465+00:00",
+      "n": "all haul the king official release date sing a long trailer"
     }
   ]
 }

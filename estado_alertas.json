@@ -541,7 +541,8 @@
     "qiZEzSyw6fo",
     "enGnEY2-YTQ",
     "fgIrRJCIPW4",
-    "1H6YtQWFs-I"
+    "1H6YtQWFs-I",
+    "xu1JrN6Naxg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -599,11 +600,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-06T00:35:21.448790+00:00",
-      "n": "sony reveals wolverine sales figures updates financial forecast ign daily fix"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-06T01:35:25.439307+00:00",
@@ -1348,6 +1344,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-12T17:20:26.681222+00:00",
       "n": "hell let loose official lake balaton update 22 teaser trailer"
+    },
+    {
+      "canal": "Ubisoft",
+      "fecha": "2026-11-12T17:30:56.935176+00:00",
+      "n": "for honor 10th anniversary event reveal livestream november 12 2026"
     }
   ]
 }

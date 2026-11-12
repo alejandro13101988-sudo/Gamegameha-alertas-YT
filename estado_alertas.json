@@ -573,7 +573,8 @@
     "kjuUqsth5Qc",
     "uAbu2NQFTRc",
     "PdFACjYXauk",
-    "xojINrJPWxE"
+    "xojINrJPWxE",
+    "ylRiI1FZzMI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -631,11 +632,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-08T14:10:25.313288+00:00",
-      "n": "my name is vincent pogo official announcement trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-08T16:05:19.348983+00:00",
@@ -1380,6 +1376,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-12T22:40:26.705643+00:00",
       "n": "rescue drone simulator second chance official gameplay trailer the mix fall game showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-12T23:05:19.292023+00:00",
+      "n": "wartales official knights of fardensa expansion release date trailer"
     }
   ]
 }

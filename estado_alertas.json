@@ -508,7 +508,8 @@
     "sYWIPl_G3zc",
     "e2IY4_8WUuQ",
     "UOMbKkYdJoc",
-    "F9tuTvmZfNs"
+    "F9tuTvmZfNs",
+    "M3DyXK0YETc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -566,11 +567,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-05T03:15:29.880287+00:00",
-      "n": "icy tower official release date trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-05T08:10:27.487340+00:00",
@@ -1315,6 +1311,11 @@
       "canal": "スクウェア・エニックス",
       "fecha": "2026-11-12T10:40:23.000749+00:00",
       "n": "final fantasy trading card game world championship 2026 day1 in english"
+    },
+    {
+      "canal": "スクウェア・エニックス",
+      "fecha": "2026-11-12T10:50:24.509375+00:00",
+      "n": "final fantasy trading card game world championship 2026 day2 in english"
     }
   ]
 }

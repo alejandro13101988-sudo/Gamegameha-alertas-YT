@@ -543,7 +543,8 @@
     "fgIrRJCIPW4",
     "1H6YtQWFs-I",
     "xu1JrN6Naxg",
-    "CCYud8qArL8"
+    "CCYud8qArL8",
+    "GQh5iMOkceU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -601,11 +602,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-06T08:00:59.495555+00:00",
-      "n": "steak simulator medium rare official teaser trailer endix expo fall 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-06T08:00:59.495555+00:00",
@@ -1350,6 +1346,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-12T18:00:58.537465+00:00",
       "n": "all haul the king official release date sing a long trailer"
+    },
+    {
+      "canal": "Official ATLUS West",
+      "fecha": "2026-11-12T18:10:27.841232+00:00",
+      "n": "metaphor refantazio launch trailer nintendo switch 2"
     }
   ]
 }

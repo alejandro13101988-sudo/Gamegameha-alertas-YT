@@ -531,7 +531,8 @@
     "ywkw9LQSDqA",
     "d7_f-VKvODI",
     "62_nWQgdBSE",
-    "HIxghBXvTGA"
+    "HIxghBXvTGA",
+    "8XVmg6Yueno"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -589,11 +590,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-05T17:35:19.429879+00:00",
-      "n": "wonderfall official release date trailer"
-    },
     {
       "canal": "Bethesda Softworks",
       "fecha": "2026-11-05T18:01:00.046254+00:00",
@@ -1338,6 +1334,11 @@
       "canal": "IGN",
       "fecha": "2026-11-12T16:10:25.802353+00:00",
       "n": "embers of the uncrowned official 2nd playtest teaser trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-12T16:15:34.430057+00:00",
+      "n": "elements destiny official release date trailer"
     }
   ]
 }

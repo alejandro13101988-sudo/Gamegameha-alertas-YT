@@ -528,7 +528,10 @@
     "GX-hxto7Q0A",
     "6XUCa7gy7oo",
     "O5CPlL-1rYg",
-    "ywkw9LQSDqA"
+    "ywkw9LQSDqA",
+    "d7_f-VKvODI",
+    "62_nWQgdBSE",
+    "HIxghBXvTGA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -586,16 +589,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-11-05T17:15:31.942122+00:00",
-      "n": "the legend of zelda ocarina of time launch trailer nintendo switch 2"
-    },
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-05T17:20:28.914968+00:00",
-      "n": "cat astrophy launch trailer ps5 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-05T17:35:19.429879+00:00",
@@ -1335,6 +1328,16 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-12T16:00:56.855439+00:00",
       "n": "grime ii official nintendo switch announcement trailer"
+    },
+    {
+      "canal": "Raw Fury",
+      "fecha": "2026-11-12T16:10:25.802353+00:00",
+      "n": "leaked internal meeting the first ever raw fury unshowcase games to announce 2026"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-12T16:10:25.802353+00:00",
+      "n": "embers of the uncrowned official 2nd playtest teaser trailer"
     }
   ]
 }

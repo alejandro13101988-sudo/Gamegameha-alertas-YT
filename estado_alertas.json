@@ -545,7 +545,9 @@
     "xu1JrN6Naxg",
     "CCYud8qArL8",
     "GQh5iMOkceU",
-    "1LzmozoTEr0"
+    "1LzmozoTEr0",
+    "JETLcKZDWuE",
+    "z1hvrJ8MdLg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -603,11 +605,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "BANDAI NAMCO Europe",
-      "fecha": "2026-11-06T09:05:21.575779+00:00",
-      "n": "hasbro games junior collection launch trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-06T09:10:27.037634+00:00",
@@ -1352,6 +1349,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-12T18:15:29.690764+00:00",
       "n": "hollow sky official reveal trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-12T19:20:24.928624+00:00",
+      "n": "warhammer 40 000 darktide official sisters novitiate class reveal trailer"
     }
   ]
 }

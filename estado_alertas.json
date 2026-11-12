@@ -572,7 +572,8 @@
     "46iBb-vTRGw",
     "kjuUqsth5Qc",
     "uAbu2NQFTRc",
-    "PdFACjYXauk"
+    "PdFACjYXauk",
+    "xojINrJPWxE"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -630,11 +631,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-08T12:40:26.419707+00:00",
-      "n": "citrus stone official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-08T14:10:25.313288+00:00",
@@ -1379,6 +1375,11 @@
       "canal": "Bethesda Softworks",
       "fecha": "2026-11-12T21:15:29.668546+00:00",
       "n": "slayers club live doom the dark ages revelations w hugo martin ch 37 endgame osseus"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-12T22:40:26.705643+00:00",
+      "n": "rescue drone simulator second chance official gameplay trailer the mix fall game showcase 2026"
     }
   ]
 }

@@ -512,7 +512,8 @@
     "M3DyXK0YETc",
     "bXplNRAj2pw",
     "6By9YxgS2h4",
-    "vNp-CYtfKC4"
+    "vNp-CYtfKC4",
+    "R4Ql9j5O858"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -570,11 +571,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-05T12:35:20.519635+00:00",
-      "n": "inari official playtest announcement teaser"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-05T14:05:22.986014+00:00",
@@ -1319,6 +1315,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-12T12:30:42.880480+00:00",
       "n": "the snackbar at the end of the world official announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-12T13:10:27.458900+00:00",
+      "n": "vindictus defying fate game overview trailer ps5 games"
     }
   ]
 }

@@ -565,7 +565,9 @@
     "UlEnrLKq-eE",
     "YxpspeLYIO4",
     "qJC8ZPh66_M",
-    "YTrvajsaohU"
+    "YTrvajsaohU",
+    "gSMS9m0k_nI",
+    "DQRGQ4lgpEc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -623,16 +625,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-07T16:25:20.291423+00:00",
-      "n": "murmures official demo announcement trailer"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-07T16:30:42.072689+00:00",
-      "n": "fall fall fall for you official release date trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-07T20:20:25.041397+00:00",
@@ -1372,6 +1364,16 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-12T20:05:20.746158+00:00",
       "n": "hiru official cinematic trailer origin point games showcase 2026"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-12T20:10:29.418166+00:00",
+      "n": "9 kings 1 0 launch trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-12T20:10:29.418166+00:00",
+      "n": "wizdom academy official version 1 0 release date trailer"
     }
   ]
 }

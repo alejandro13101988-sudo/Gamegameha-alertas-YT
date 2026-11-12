@@ -514,7 +514,9 @@
     "6By9YxgS2h4",
     "vNp-CYtfKC4",
     "R4Ql9j5O858",
-    "qLUWYcbddJA"
+    "qLUWYcbddJA",
+    "_aHt0Hp316s",
+    "m5Cr-Rzi4U8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -572,16 +574,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-05T14:05:22.986014+00:00",
-      "n": "faraway launch trailer"
-    },
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-05T14:30:49.980439+00:00",
-      "n": "faraway launch trailer ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-05T14:35:22.482744+00:00",
@@ -1321,6 +1313,16 @@
       "canal": "PlayStation",
       "fecha": "2026-11-12T13:40:35.232362+00:00",
       "n": "world war z viral state launch trailer ps5 ps4 games"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-12T14:20:27.002678+00:00",
+      "n": "goeland seagull adventure official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-12T14:20:27.002678+00:00",
+      "n": "station to station official console announcement trailer"
     }
   ]
 }

@@ -507,7 +507,8 @@
     "5RUWvmy01rk",
     "sYWIPl_G3zc",
     "e2IY4_8WUuQ",
-    "UOMbKkYdJoc"
+    "UOMbKkYdJoc",
+    "F9tuTvmZfNs"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -565,11 +566,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-04T22:25:20.731274+00:00",
-      "n": "zero parades director s cut xbox launch trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-05T03:15:29.880287+00:00",
@@ -1314,6 +1310,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-12T09:10:27.864370+00:00",
       "n": "test drive unlimited solar crown initial d collaboration trailer ps5 games"
+    },
+    {
+      "canal": "スクウェア・エニックス",
+      "fecha": "2026-11-12T10:40:23.000749+00:00",
+      "n": "final fantasy trading card game world championship 2026 day1 in english"
     }
   ]
 }

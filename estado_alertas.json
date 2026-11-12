@@ -523,7 +523,10 @@
     "dbpSgE8jbWc",
     "FOqxuzEr4R4",
     "bMY8BwSMPVU",
-    "LMq-Kog8hbo"
+    "LMq-Kog8hbo",
+    "ehaN2Nc_3Sc",
+    "GX-hxto7Q0A",
+    "6XUCa7gy7oo"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -581,16 +584,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-05T16:25:24.892366+00:00",
-      "n": "k pop rising dream to shine launch trailer ps5 games"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-05T16:25:24.892366+00:00",
-      "n": "call it a day official publisher announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-05T16:35:22.758553+00:00",
@@ -1330,6 +1323,16 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-12T15:10:29.458643+00:00",
       "n": "vindictus defying fate official cinematic teaser trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-12T15:15:40.450796+00:00",
+      "n": "the archives of trevosa official announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-12T15:15:40.450796+00:00",
+      "n": "hazard levels launch trailer ps5 games"
     }
   ]
 }

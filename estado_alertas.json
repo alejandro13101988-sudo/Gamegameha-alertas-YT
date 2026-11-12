@@ -509,7 +509,8 @@
     "e2IY4_8WUuQ",
     "UOMbKkYdJoc",
     "F9tuTvmZfNs",
-    "M3DyXK0YETc"
+    "M3DyXK0YETc",
+    "bXplNRAj2pw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -567,11 +568,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-05T08:10:27.487340+00:00",
-      "n": "the slormancer launch trailer ps5 games"
-    },
     {
       "canal": "Ubisoft",
       "fecha": "2026-11-05T10:10:27.959564+00:00",
@@ -1316,6 +1312,11 @@
       "canal": "スクウェア・エニックス",
       "fecha": "2026-11-12T10:50:24.509375+00:00",
       "n": "final fantasy trading card game world championship 2026 day2 in english"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-12T11:50:24.242467+00:00",
+      "n": "lola s familiars prison of argnoh official announcement trailer"
     }
   ]
 }

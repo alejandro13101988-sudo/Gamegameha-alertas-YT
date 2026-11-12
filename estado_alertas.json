@@ -532,7 +532,9 @@
     "d7_f-VKvODI",
     "62_nWQgdBSE",
     "HIxghBXvTGA",
-    "8XVmg6Yueno"
+    "8XVmg6Yueno",
+    "MDgQo960VoU",
+    "aZm5U7pqUU0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -590,16 +592,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Bethesda Softworks",
-      "fecha": "2026-11-05T18:01:00.046254+00:00",
-      "n": "slayers club live doom the dark ages revelations w hugo martin ch 36 endgame chasm"
-    },
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-05T18:20:27.279829+00:00",
-      "n": "lords of the fallen ii new steel sorcery gameplay wishlist now on xbox series x s"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-05T19:40:26.944219+00:00",
@@ -1339,6 +1331,16 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-12T16:15:34.430057+00:00",
       "n": "elements destiny official release date trailer"
+    },
+    {
+      "canal": "Raw Fury",
+      "fecha": "2026-11-12T16:25:19.624581+00:00",
+      "n": "dungeon automataalgolemeth date announce coming jan 26th 2027 dub ver"
+    },
+    {
+      "canal": "Raw Fury",
+      "fecha": "2026-11-12T16:25:19.624581+00:00",
+      "n": "kuloniku bowl up nintendo switch switch 2 announcement"
     }
   ]
 }

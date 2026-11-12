@@ -534,7 +534,9 @@
     "HIxghBXvTGA",
     "8XVmg6Yueno",
     "MDgQo960VoU",
-    "aZm5U7pqUU0"
+    "aZm5U7pqUU0",
+    "Gzk-oWaAgIw",
+    "7_yKJnKfAeI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -592,16 +594,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-05T19:40:26.944219+00:00",
-      "n": "007 first light free starter pack trailer ps5 games"
-    },
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-05T19:55:21.147941+00:00",
-      "n": "jaden industries announcement xbox trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-05T19:55:21.147941+00:00",
@@ -1341,6 +1333,16 @@
       "canal": "Raw Fury",
       "fecha": "2026-11-12T16:25:19.624581+00:00",
       "n": "kuloniku bowl up nintendo switch switch 2 announcement"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-12T16:35:21.696134+00:00",
+      "n": "supermarket simulator launch trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-12T16:35:21.696134+00:00",
+      "n": "starfell official announcement trailer"
     }
   ]
 }

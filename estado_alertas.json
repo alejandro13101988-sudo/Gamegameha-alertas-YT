@@ -536,7 +536,9 @@
     "MDgQo960VoU",
     "aZm5U7pqUU0",
     "Gzk-oWaAgIw",
-    "7_yKJnKfAeI"
+    "7_yKJnKfAeI",
+    "sEQOI49VJlA",
+    "qiZEzSyw6fo"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -594,16 +596,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-05T19:55:21.147941+00:00",
-      "n": "sonic racing crossworlds godzilla pack trailer"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-05T20:20:28.981719+00:00",
-      "n": "aksun official release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-05T22:15:32.646391+00:00",
@@ -1343,6 +1335,16 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-12T16:35:21.696134+00:00",
       "n": "starfell official announcement trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-12T17:10:26.272306+00:00",
+      "n": "kingdom two crowns pharaoh lands launching december 1st 2026"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-12T17:10:26.272306+00:00",
+      "n": "ball x pit risen ballbylon launch trailer"
     }
   ]
 }

@@ -519,7 +519,11 @@
     "m5Cr-Rzi4U8",
     "VQjDInADRMM",
     "-9ffzWW-jhg",
-    "dhtQ7wG-cPY"
+    "dhtQ7wG-cPY",
+    "dbpSgE8jbWc",
+    "FOqxuzEr4R4",
+    "bMY8BwSMPVU",
+    "LMq-Kog8hbo"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -577,21 +581,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-05T15:10:28.644369+00:00",
-      "n": "the slormancer xbox launch trailer"
-    },
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-05T15:15:38.223469+00:00",
-      "n": "stellar blade bayonetta collaboration trailer ps5 pc games"
-    },
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-05T16:15:31.923620+00:00",
-      "n": "kingdom of night launch trailer ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-05T16:25:24.892366+00:00",
@@ -1326,6 +1315,21 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-12T14:45:30.411138+00:00",
       "n": "the sound of fury official announcement trailer"
+    },
+    {
+      "canal": "Nintendo of America",
+      "fecha": "2026-11-12T15:10:29.458643+00:00",
+      "n": "pikmin 4 nintendo switch 2 edition dandori academy overview trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-12T15:10:29.458643+00:00",
+      "n": "sankan official reveal trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-12T15:10:29.458643+00:00",
+      "n": "vindictus defying fate official cinematic teaser trailer"
     }
   ]
 }

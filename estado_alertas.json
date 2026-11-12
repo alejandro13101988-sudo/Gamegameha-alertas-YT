@@ -518,7 +518,8 @@
     "_aHt0Hp316s",
     "m5Cr-Rzi4U8",
     "VQjDInADRMM",
-    "-9ffzWW-jhg"
+    "-9ffzWW-jhg",
+    "dhtQ7wG-cPY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -576,11 +577,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-05T15:05:20.930555+00:00",
-      "n": "leaving eden official announcement trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-05T15:10:28.644369+00:00",
@@ -1325,6 +1321,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-12T14:25:21.289900+00:00",
       "n": "barbie rewind launch trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-12T14:45:30.411138+00:00",
+      "n": "the sound of fury official announcement trailer"
     }
   ]
 }

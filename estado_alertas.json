@@ -504,7 +504,8 @@
     "LduxuM387hc",
     "tFRa1e712Jw",
     "KoRJUC8h0SQ",
-    "5RUWvmy01rk"
+    "5RUWvmy01rk",
+    "sYWIPl_G3zc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -562,11 +563,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-04T21:30:43.777820+00:00",
-      "n": "void breaker 1 0 launch trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-04T21:55:20.701548+00:00",
@@ -1311,6 +1307,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-11T22:25:23.100927+00:00",
       "n": "the planet crafter official magnetaris dlc release date trailer"
+    },
+    {
+      "canal": "Official ATLUS West",
+      "fecha": "2026-11-12T05:15:25.552535+00:00",
+      "n": "metaphor refantazio hero trailer nintendo switch 2"
     }
   ]
 }

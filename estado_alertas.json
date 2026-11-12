@@ -544,7 +544,8 @@
     "1H6YtQWFs-I",
     "xu1JrN6Naxg",
     "CCYud8qArL8",
-    "GQh5iMOkceU"
+    "GQh5iMOkceU",
+    "1LzmozoTEr0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -602,11 +603,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-06T08:00:59.495555+00:00",
-      "n": "locomo official teaser trailer endix expo fall 2026"
-    },
     {
       "canal": "BANDAI NAMCO Europe",
       "fecha": "2026-11-06T09:05:21.575779+00:00",
@@ -1351,6 +1347,11 @@
       "canal": "Official ATLUS West",
       "fecha": "2026-11-12T18:10:27.841232+00:00",
       "n": "metaphor refantazio launch trailer nintendo switch 2"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-12T18:15:29.690764+00:00",
+      "n": "hollow sky official reveal trailer"
     }
   ]
 }

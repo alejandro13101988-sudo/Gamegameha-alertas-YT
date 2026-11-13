@@ -602,7 +602,8 @@
     "6PfsfL50gvg",
     "us8DyMtn6jA",
     "nGcdyCwA894",
-    "fzRshjBCWyU"
+    "fzRshjBCWyU",
+    "eL8FtjEmylI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -660,11 +661,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-09T20:10:25.751722+00:00",
-      "n": "delta force official season aurora cinematic trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-10T03:05:19.389867+00:00",
@@ -1409,6 +1405,11 @@
       "canal": "IGN",
       "fecha": "2026-11-13T18:05:23.132871+00:00",
       "n": "crazy taxi world tour exclusive india map reveal trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-13T18:40:29.143020+00:00",
+      "n": "derelikt launch trailer ps5 games"
     }
   ]
 }

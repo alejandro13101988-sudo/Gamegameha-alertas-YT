@@ -592,7 +592,9 @@
     "Xp6JiBSxmsA",
     "JCVjj2WGrbo",
     "xx9-dFQ3WqQ",
-    "TZYHXXjmWts"
+    "TZYHXXjmWts",
+    "-WhVllJ5TZs",
+    "i1aw0dJiCZA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -650,16 +652,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-09T17:20:29.120780+00:00",
-      "n": "hozy release trailer ps5 games"
-    },
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-09T17:40:30.708325+00:00",
-      "n": "kingdom of night launch trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-09T17:40:30.708325+00:00",
@@ -1399,6 +1391,16 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-13T16:45:30.643101+00:00",
       "n": "emery hearts official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-13T17:01:04.437226+00:00",
+      "n": "sol mates official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-13T17:01:04.437226+00:00",
+      "n": "payday 3 x ghost recon official crimebond teaser trailer"
     }
   ]
 }

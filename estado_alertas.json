@@ -580,7 +580,9 @@
     "1Dt4pWLabbc",
     "Vuv1aC_1cyk",
     "43wsDcWHa3o",
-    "GCehmwCXurI"
+    "GCehmwCXurI",
+    "ANljgCRnrKA",
+    "25X9nalEXg0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -638,16 +640,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-09T14:05:21.354949+00:00",
-      "n": "hitch happens official teaser trailer"
-    },
-    {
-      "canal": "KOEI TECMO AMERICA",
-      "fecha": "2026-11-09T14:10:25.961367+00:00",
-      "n": "atelier karia the night kingdom the guide of memories story trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-09T14:10:25.961367+00:00",
@@ -1387,6 +1379,16 @@
       "canal": "Bethesda Softworks",
       "fecha": "2026-11-13T08:25:23.786489+00:00",
       "n": "doom the dark ages revelations slaughter mode official trailer available november 16"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-13T09:10:29.350838+00:00",
+      "n": "bombanana launch trailer ps5 games"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-13T09:10:29.350838+00:00",
+      "n": "bombanana xbox launch trailer"
     }
   ]
 }

@@ -603,7 +603,8 @@
     "us8DyMtn6jA",
     "nGcdyCwA894",
     "fzRshjBCWyU",
-    "eL8FtjEmylI"
+    "eL8FtjEmylI",
+    "PX1Q6Ld5beY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -661,11 +662,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-10T03:05:19.389867+00:00",
-      "n": "wuthering waves version 3 8 official trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-10T03:05:19.389867+00:00",
@@ -1410,6 +1406,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-13T18:40:29.143020+00:00",
       "n": "derelikt launch trailer ps5 games"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-13T19:00:58.892736+00:00",
+      "n": "derelikt xbox launch trailer"
     }
   ]
 }

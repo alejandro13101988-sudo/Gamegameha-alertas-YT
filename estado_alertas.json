@@ -579,7 +579,8 @@
     "14-SP4ig5Zc",
     "1Dt4pWLabbc",
     "Vuv1aC_1cyk",
-    "43wsDcWHa3o"
+    "43wsDcWHa3o",
+    "GCehmwCXurI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -637,11 +638,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-09T13:35:20.598214+00:00",
-      "n": "crimveil official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-09T14:05:21.354949+00:00",
@@ -1386,6 +1382,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-13T05:25:19.247762+00:00",
       "n": "naruto to boruto shinobi striker kabuto yakushi sage mode dlc trailer ps4 games"
+    },
+    {
+      "canal": "Bethesda Softworks",
+      "fecha": "2026-11-13T08:25:23.786489+00:00",
+      "n": "doom the dark ages revelations slaughter mode official trailer available november 16"
     }
   ]
 }

@@ -590,7 +590,8 @@
     "pbKZ3IzvB4Q",
     "U-qtMshVMnQ",
     "Xp6JiBSxmsA",
-    "JCVjj2WGrbo"
+    "JCVjj2WGrbo",
+    "xx9-dFQ3WqQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -648,11 +649,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-09T16:05:20.832494+00:00",
-      "n": "warhammer 40 000 dark heresy official release date trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-09T16:35:24.692459+00:00",
@@ -1397,6 +1393,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-13T14:20:27.682939+00:00",
       "n": "forest escape last train official ps5 announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-13T15:41:46.479759+00:00",
+      "n": "unlimited maid works official announcement trailer"
     }
   ]
 }

@@ -596,7 +596,8 @@
     "-WhVllJ5TZs",
     "i1aw0dJiCZA",
     "ieNxJB87nzM",
-    "0SaMcD0ra14"
+    "0SaMcD0ra14",
+    "aupPY-1Ir9Q"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -654,11 +655,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-09T17:55:20.609001+00:00",
-      "n": "ranchonauts official announcement trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-09T18:05:23.707027+00:00",
@@ -1403,6 +1399,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-13T17:10:34.438488+00:00",
       "n": "social net official announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-13T17:40:27.323720+00:00",
+      "n": "mothergunship forge launch trailer ps vr2 games"
     }
   ]
 }

@@ -597,7 +597,10 @@
     "i1aw0dJiCZA",
     "ieNxJB87nzM",
     "0SaMcD0ra14",
-    "aupPY-1Ir9Q"
+    "aupPY-1Ir9Q",
+    "t8oc45AzG3A",
+    "6PfsfL50gvg",
+    "us8DyMtn6jA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -655,21 +658,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-09T18:05:23.707027+00:00",
-      "n": "wish upon a llama official release date trailer"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-09T18:05:23.707027+00:00",
-      "n": "beholder 4 official announcement teaser trailer"
-    },
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-09T20:10:25.751722+00:00",
-      "n": "the spotter dig or die official date announcement trailer xbox series x s"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-09T20:10:25.751722+00:00",
@@ -1404,6 +1392,21 @@
       "canal": "PlayStation",
       "fecha": "2026-11-13T17:40:27.323720+00:00",
       "n": "mothergunship forge launch trailer ps vr2 games"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-13T18:05:23.132871+00:00",
+      "n": "stranger than heaven act 2 kure story trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-13T18:05:23.132871+00:00",
+      "n": "sturmjager co op trailer ps5 games"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-13T18:05:23.132871+00:00",
+      "n": "crazy taxi world tour exclusive india map reveal trailer"
     }
   ]
 }

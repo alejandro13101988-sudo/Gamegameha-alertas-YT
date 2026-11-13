@@ -582,7 +582,9 @@
     "43wsDcWHa3o",
     "GCehmwCXurI",
     "ANljgCRnrKA",
-    "25X9nalEXg0"
+    "25X9nalEXg0",
+    "nw9u7JX4Ylo",
+    "IxprwvgO0EY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -640,11 +642,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-09T14:10:25.961367+00:00",
-      "n": "sea of remnants dawnbreaker closed beta test worldview lore trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-09T14:25:22.412287+00:00",
@@ -1389,6 +1386,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-13T09:10:29.350838+00:00",
       "n": "bombanana xbox launch trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-13T12:10:26.057020+00:00",
+      "n": "martian isolation official announcement trailer"
     }
   ]
 }

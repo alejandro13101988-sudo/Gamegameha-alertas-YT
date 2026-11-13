@@ -586,7 +586,8 @@
     "nw9u7JX4Ylo",
     "IxprwvgO0EY",
     "TAj9IDwBm84",
-    "9kD-NM7l4JU"
+    "9kD-NM7l4JU",
+    "pbKZ3IzvB4Q"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -644,11 +645,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-09T14:45:31.085248+00:00",
-      "n": "sea of remnants official embers dawnbreaker closed beta release date trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-09T15:50:25.883737+00:00",
@@ -1393,6 +1389,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-13T12:45:36.965843+00:00",
       "n": "sakuna chronicles kokorowa and the gears of creation official teaser trailer 2"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-13T13:15:31.647535+00:00",
+      "n": "guild saga vanished worlds announcement trailer ps5 games"
     }
   ]
 }

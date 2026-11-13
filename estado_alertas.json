@@ -576,7 +576,8 @@
     "xojINrJPWxE",
     "ylRiI1FZzMI",
     "gqeWSbL5Jug",
-    "14-SP4ig5Zc"
+    "14-SP4ig5Zc",
+    "1Dt4pWLabbc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -634,11 +635,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-08T17:00:55.131850+00:00",
-      "n": "sort the creatures official release date trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-09T12:50:24.096839+00:00",
@@ -1383,6 +1379,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-12T23:20:27.078032+00:00",
       "n": "manum official announcement trailer"
+    },
+    {
+      "canal": "Official ATLUS West",
+      "fecha": "2026-11-13T04:05:22.643960+00:00",
+      "n": "metaphor refantazio villain trailer nintendo switch 2"
     }
   ]
 }

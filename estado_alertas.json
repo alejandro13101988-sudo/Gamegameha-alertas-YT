@@ -607,7 +607,9 @@
     "PX1Q6Ld5beY",
     "2yYa8h_79kg",
     "b1-fogapZYA",
-    "3gNaAp_KPV0"
+    "3gNaAp_KPV0",
+    "WbXYxF1g-OU",
+    "BHSk25eRHRQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -665,16 +667,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-10T08:15:29.856638+00:00",
-      "n": "the first descendant meet monet character trailer"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-10T09:05:22.257407+00:00",
-      "n": "winter whiskers official release date trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-10T10:10:28.672080+00:00",
@@ -1414,6 +1406,16 @@
       "canal": "XBOX",
       "fecha": "2026-11-13T19:25:19.941803+00:00",
       "n": "where winds meet hutuo official gameplay trailer 1st anniversary"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-13T20:05:21.944908+00:00",
+      "n": "cursed words the madness of michael official dlc announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-13T20:05:21.944908+00:00",
+      "n": "the falconeer revolution remaster official console release date trailer"
     }
   ]
 }

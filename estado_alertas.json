@@ -604,7 +604,9 @@
     "nGcdyCwA894",
     "fzRshjBCWyU",
     "eL8FtjEmylI",
-    "PX1Q6Ld5beY"
+    "PX1Q6Ld5beY",
+    "2yYa8h_79kg",
+    "b1-fogapZYA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -662,11 +664,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-10T03:05:19.389867+00:00",
-      "n": "superbird official announcement trailer embargo 10 november 4 am cet"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-10T03:55:20.969806+00:00",
@@ -1411,6 +1408,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-13T19:00:58.892736+00:00",
       "n": "derelikt xbox launch trailer"
+    },
+    {
+      "canal": "KOEI TECMO AMERICA",
+      "fecha": "2026-11-13T19:20:27.653776+00:00",
+      "n": "attack on titan 3 gameplay video 1 character interactions expeditions beyond the walls"
     }
   ]
 }

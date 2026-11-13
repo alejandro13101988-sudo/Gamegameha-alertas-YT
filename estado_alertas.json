@@ -595,7 +595,8 @@
     "TZYHXXjmWts",
     "-WhVllJ5TZs",
     "i1aw0dJiCZA",
-    "ieNxJB87nzM"
+    "ieNxJB87nzM",
+    "0SaMcD0ra14"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -653,11 +654,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-09T17:40:30.708325+00:00",
-      "n": "apex legends godzilla event trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-09T17:55:20.609001+00:00",
@@ -1402,6 +1398,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-13T17:01:04.437226+00:00",
       "n": "payday 3 x ghost recon official crimebond teaser trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-13T17:10:34.438488+00:00",
+      "n": "social net official announcement trailer"
     }
   ]
 }

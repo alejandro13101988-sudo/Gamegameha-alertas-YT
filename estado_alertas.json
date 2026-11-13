@@ -588,7 +588,8 @@
     "TAj9IDwBm84",
     "9kD-NM7l4JU",
     "pbKZ3IzvB4Q",
-    "U-qtMshVMnQ"
+    "U-qtMshVMnQ",
+    "Xp6JiBSxmsA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -646,11 +647,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-09T15:50:25.883737+00:00",
-      "n": "criminal official teaser trailer 2027 charlie hunnam luke evans emilia clarke"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-09T16:05:20.832494+00:00",
@@ -1395,6 +1391,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-13T13:15:31.647535+00:00",
       "n": "guild saga vanished worlds announcement trailer ps5 games"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-13T14:20:27.682939+00:00",
+      "n": "forest escape last train official ps5 announcement trailer"
     }
   ]
 }

@@ -616,7 +616,9 @@
     "W5APLyZ_cuw",
     "rBjj76QHvgA",
     "q_1GZGdFzm4",
-    "LFBNujtKgRg"
+    "LFBNujtKgRg",
+    "WYiX5o6gv9M",
+    "Xfu9xPzhwn4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -674,16 +676,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-10T12:45:30.942943+00:00",
-      "n": "fumehead official release date trailer"
-    },
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-10T13:10:25.634432+00:00",
-      "n": "project motor racing world endurance pack launch trailer ps5 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-10T13:10:25.634432+00:00",
@@ -1423,6 +1415,16 @@
       "canal": "IGN",
       "fecha": "2026-11-14T17:15:28.228065+00:00",
       "n": "conan the black pyramid official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-14T17:50:24.000702+00:00",
+      "n": "driveborn official teaser trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-14T17:50:24.000702+00:00",
+      "n": "mine a little official announcement trailer"
     }
   ]
 }

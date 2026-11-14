@@ -614,7 +614,8 @@
     "MnW00Oo7Gs8",
     "3ShCCyHTu1A",
     "W5APLyZ_cuw",
-    "rBjj76QHvgA"
+    "rBjj76QHvgA",
+    "q_1GZGdFzm4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -672,11 +673,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-10T11:10:25.948590+00:00",
-      "n": "aeterna lucis lore trailer ps5 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-10T11:20:28.002593+00:00",
@@ -1421,6 +1417,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-14T12:35:20.619307+00:00",
       "n": "andalas realms of eternal lights official gameplay teaser trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-14T15:55:21.223043+00:00",
+      "n": "man i just wanna live official announcement trailer"
     }
   ]
 }

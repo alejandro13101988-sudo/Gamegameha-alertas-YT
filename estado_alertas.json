@@ -613,7 +613,8 @@
     "MKfbARuChM0",
     "MnW00Oo7Gs8",
     "3ShCCyHTu1A",
-    "W5APLyZ_cuw"
+    "W5APLyZ_cuw",
+    "rBjj76QHvgA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -671,11 +672,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-10T10:25:18.326477+00:00",
-      "n": "tanuki pon s summer launch trailer ps5 ps4 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-10T11:10:25.948590+00:00",
@@ -1420,6 +1416,11 @@
       "canal": "Nintendo of America",
       "fecha": "2026-11-13T23:20:23.258675+00:00",
       "n": "raccoin chaos max edition launch trailer nintendo switch 2"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-14T12:35:20.619307+00:00",
+      "n": "andalas realms of eternal lights official gameplay teaser trailer"
     }
   ]
 }

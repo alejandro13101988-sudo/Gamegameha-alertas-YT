@@ -620,7 +620,8 @@
     "WYiX5o6gv9M",
     "Xfu9xPzhwn4",
     "Jsu0oGRx1Xg",
-    "61dDoxslai8"
+    "61dDoxslai8",
+    "Hz9lmh9NBp0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -678,11 +679,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Raw Fury",
-      "fecha": "2026-11-10T14:00:56.699575+00:00",
-      "n": "hillthorn launch trailer pc switch ios android"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-10T14:05:21.731963+00:00",
@@ -1427,6 +1423,11 @@
       "canal": "IGN",
       "fecha": "2026-11-15T08:00:51.422111+00:00",
       "n": "temtem pioneers official extended announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-15T14:30:42.013454+00:00",
+      "n": "fortnite treasure hunters week 3 gameplay trailer ps5 ps4 games"
     }
   ]
 }

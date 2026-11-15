@@ -627,7 +627,8 @@
     "oEUFtYrmMi4",
     "fUJ4nPi5L2Q",
     "jTbZmTO4auk",
-    "Q747LpUuLTA"
+    "Q747LpUuLTA",
+    "pAnnHLZdYrY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -685,11 +686,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-10T15:15:31.624710+00:00",
-      "n": "jurassic world evolution 3 official euoplocephalus camarasaurus showcase trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-10T15:20:26.687461+00:00",
@@ -1434,6 +1430,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-15T18:10:24.174159+00:00",
       "n": "once human season 5 dissonant resonance gameplay trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-15T19:55:22.116374+00:00",
+      "n": "minecraft dungeons 2 official the humblers awaken announcement trailer"
     }
   ]
 }

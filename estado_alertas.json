@@ -622,7 +622,8 @@
     "Jsu0oGRx1Xg",
     "61dDoxslai8",
     "Hz9lmh9NBp0",
-    "olSRwthO43M"
+    "olSRwthO43M",
+    "z8CYpjP256Q"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -680,11 +681,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "BANDAI NAMCO Europe",
-      "fecha": "2026-11-10T14:10:31.320615+00:00",
-      "n": "tekken 8 x nike collab collection trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-10T14:20:29.214327+00:00",
@@ -1429,6 +1425,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-15T14:50:32.565728+00:00",
       "n": "guild saga vanished worlds official ps5 announcement trailer"
+    },
+    {
+      "canal": "BANDAI NAMCO Europe",
+      "fecha": "2026-11-15T15:10:26.057625+00:00",
+      "n": "dragon ball fighterz balance update announcement"
     }
   ]
 }

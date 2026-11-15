@@ -629,7 +629,8 @@
     "jTbZmTO4auk",
     "Q747LpUuLTA",
     "pAnnHLZdYrY",
-    "2EfDc11broE"
+    "2EfDc11broE",
+    "74mjuJpOWjA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -687,11 +688,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-10T15:20:26.687461+00:00",
-      "n": "isekizima ruins and tails journey official release date trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-10T15:50:28.675668+00:00",
@@ -1436,6 +1432,11 @@
       "canal": "IGN",
       "fecha": "2026-11-15T19:55:22.116374+00:00",
       "n": "minecraft dungeons 2 official the humblers awaken announcement trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-15T21:10:25.315951+00:00",
+      "n": "vibe together official announcement trailer"
     }
   ]
 }

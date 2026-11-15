@@ -623,7 +623,8 @@
     "61dDoxslai8",
     "Hz9lmh9NBp0",
     "olSRwthO43M",
-    "z8CYpjP256Q"
+    "z8CYpjP256Q",
+    "oEUFtYrmMi4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -681,11 +682,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-10T14:20:29.214327+00:00",
-      "n": "the falconeer revolution remaster release date trailer ps5 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-10T14:50:26.947869+00:00",
@@ -1430,6 +1426,11 @@
       "canal": "BANDAI NAMCO Europe",
       "fecha": "2026-11-15T15:10:26.057625+00:00",
       "n": "dragon ball fighterz balance update announcement"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-15T16:25:20.373795+00:00",
+      "n": "coal rush 1990 official announcement trailer"
     }
   ]
 }

@@ -624,7 +624,8 @@
     "Hz9lmh9NBp0",
     "olSRwthO43M",
     "z8CYpjP256Q",
-    "oEUFtYrmMi4"
+    "oEUFtYrmMi4",
+    "fUJ4nPi5L2Q"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -682,11 +683,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-10T14:50:26.947869+00:00",
-      "n": "crystals of irm official release date trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-10T15:05:32.209093+00:00",
@@ -1431,6 +1427,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-15T16:25:20.373795+00:00",
       "n": "coal rush 1990 official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-15T17:00:53.470011+00:00",
+      "n": "steel platoon official announcement trailer"
     }
   ]
 }

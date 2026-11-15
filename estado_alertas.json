@@ -618,7 +618,8 @@
     "q_1GZGdFzm4",
     "LFBNujtKgRg",
     "WYiX5o6gv9M",
-    "Xfu9xPzhwn4"
+    "Xfu9xPzhwn4",
+    "Jsu0oGRx1Xg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -676,11 +677,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-10T13:10:25.634432+00:00",
-      "n": "shard squad onyx rising official announcement trailer"
-    },
     {
       "canal": "Raw Fury",
       "fecha": "2026-11-10T14:00:56.699575+00:00",
@@ -1425,6 +1421,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-14T17:50:24.000702+00:00",
       "n": "mine a little official announcement trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-15T08:00:51.422111+00:00",
+      "n": "temtem pioneers official extended announcement trailer"
     }
   ]
 }

@@ -630,7 +630,8 @@
     "Q747LpUuLTA",
     "pAnnHLZdYrY",
     "2EfDc11broE",
-    "74mjuJpOWjA"
+    "74mjuJpOWjA",
+    "wrkKZOwqIME"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -688,11 +689,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-10T15:50:28.675668+00:00",
-      "n": "grand theft auto vi features trailer ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-10T16:15:31.612034+00:00",
@@ -1437,6 +1433,11 @@
       "canal": "IGN",
       "fecha": "2026-11-15T21:10:25.315951+00:00",
       "n": "vibe together official announcement trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-16T00:25:26.304456+00:00",
+      "n": "muay thai xtreme official gameplay reveal trailer"
     }
   ]
 }

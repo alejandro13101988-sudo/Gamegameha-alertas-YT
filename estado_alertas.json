@@ -649,7 +649,8 @@
     "-U3O0r-fhNM",
     "71ep0-aJJMQ",
     "hW3nPrTliig",
-    "u9wVHWAGpvk"
+    "u9wVHWAGpvk",
+    "Cx77TKOkHVk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -707,11 +708,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-10T23:20:25.301367+00:00",
-      "n": "die or die official announcement trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-10T23:20:25.301367+00:00",
@@ -1456,6 +1452,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-16T19:55:17.902052+00:00",
       "n": "hope timbre official release date trailer"
+    },
+    {
+      "canal": "Capcom USA",
+      "fecha": "2026-11-16T21:55:18.923218+00:00",
+      "n": "monster hunter puzzles felyne isles furever trailer ios android"
     }
   ]
 }

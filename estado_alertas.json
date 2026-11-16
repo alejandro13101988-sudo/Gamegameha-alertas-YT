@@ -638,7 +638,8 @@
     "mBpJRxANj_Q",
     "4RhGJIUKb-w",
     "U3vfDjKSOKQ",
-    "V8enpVWQi0E"
+    "V8enpVWQi0E",
+    "XR69wrkHymw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -696,11 +697,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-10T18:10:28.141517+00:00",
-      "n": "the outer worlds 2 side effects guaranteed trailer ps5 games"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-11-10T18:10:28.141517+00:00",
@@ -1445,6 +1441,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-16T15:10:28.833135+00:00",
       "n": "project stampede official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-16T17:10:27.258841+00:00",
+      "n": "salvare official announcement trailer"
     }
   ]
 }

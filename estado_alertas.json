@@ -637,7 +637,8 @@
     "gl4wOL234uU",
     "mBpJRxANj_Q",
     "4RhGJIUKb-w",
-    "U3vfDjKSOKQ"
+    "U3vfDjKSOKQ",
+    "V8enpVWQi0E"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -695,11 +696,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-10T17:15:30.666834+00:00",
-      "n": "marvel rivals official nightcrawler character reveal trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-10T18:10:28.141517+00:00",
@@ -1444,6 +1440,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-16T15:05:24.875704+00:00",
       "n": "machine party reveal trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-16T15:10:28.833135+00:00",
+      "n": "project stampede official announcement trailer"
     }
   ]
 }

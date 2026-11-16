@@ -635,7 +635,8 @@
     "6DOabHvnmRE",
     "hRmqELWUCeY",
     "gl4wOL234uU",
-    "mBpJRxANj_Q"
+    "mBpJRxANj_Q",
+    "4RhGJIUKb-w"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -693,11 +694,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-10T17:10:30.010834+00:00",
-      "n": "shrek 2 remastered launch trailer ps5 games"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-10T17:15:30.666834+00:00",
@@ -1442,6 +1438,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-16T14:40:28.179891+00:00",
       "n": "sails of steel official announcement trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-16T15:00:59.078903+00:00",
+      "n": "way of the hunter 2 pulsar pack trailer"
     }
   ]
 }

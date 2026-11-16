@@ -643,7 +643,8 @@
     "012X9c9ViDw",
     "2txu1300_dg",
     "BYkAPWzeDrI",
-    "5ZBH_sVLHZk"
+    "5ZBH_sVLHZk",
+    "Dt84K58uqds"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -701,11 +702,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-10T18:40:27.520759+00:00",
-      "n": "release date trailer warhammer 40 000 dark heresy"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-10T19:30:45.697794+00:00",
@@ -1450,6 +1446,11 @@
       "canal": "Steam",
       "fecha": "2026-11-16T18:20:29.561526+00:00",
       "n": "steam auto battler rpg fest 2026 official trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-16T19:10:26.422082+00:00",
+      "n": "the crossing official reveal trailer"
     }
   ]
 }

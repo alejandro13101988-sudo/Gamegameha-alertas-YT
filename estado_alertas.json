@@ -650,7 +650,8 @@
     "71ep0-aJJMQ",
     "hW3nPrTliig",
     "u9wVHWAGpvk",
-    "Cx77TKOkHVk"
+    "Cx77TKOkHVk",
+    "yqBJR6jUlV4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -708,11 +709,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-10T23:20:25.301367+00:00",
-      "n": "all army attack official announcement trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-10T23:20:25.301367+00:00",
@@ -1457,6 +1453,11 @@
       "canal": "Capcom USA",
       "fecha": "2026-11-16T21:55:18.923218+00:00",
       "n": "monster hunter puzzles felyne isles furever trailer ios android"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-16T22:05:21.584412+00:00",
+      "n": "the road of dust and sorrow official animated release date trailer"
     }
   ]
 }

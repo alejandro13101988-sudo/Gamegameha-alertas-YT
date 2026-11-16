@@ -648,7 +648,8 @@
     "5IHdA9xCgzM",
     "-U3O0r-fhNM",
     "71ep0-aJJMQ",
-    "hW3nPrTliig"
+    "hW3nPrTliig",
+    "u9wVHWAGpvk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -706,11 +707,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-10T23:05:19.141032+00:00",
-      "n": "horde of distraction official release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-10T23:20:25.301367+00:00",
@@ -1455,6 +1451,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-16T19:40:35.003923+00:00",
       "n": "fat goblins official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-16T19:55:17.902052+00:00",
+      "n": "hope timbre official release date trailer"
     }
   ]
 }

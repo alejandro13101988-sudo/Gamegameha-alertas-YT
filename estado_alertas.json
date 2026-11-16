@@ -639,7 +639,8 @@
     "4RhGJIUKb-w",
     "U3vfDjKSOKQ",
     "V8enpVWQi0E",
-    "XR69wrkHymw"
+    "XR69wrkHymw",
+    "012X9c9ViDw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -697,11 +698,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-11-10T18:10:28.141517+00:00",
-      "n": "just dance decades of hits every era one floor trailer nintendo switch 2"
-    },
     {
       "canal": "Obsidian Entertainment",
       "fecha": "2026-11-10T18:15:30.865555+00:00",
@@ -1446,6 +1442,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-16T17:10:27.258841+00:00",
       "n": "salvare official announcement trailer"
+    },
+    {
+      "canal": "Ubisoft",
+      "fecha": "2026-11-16T17:25:18.535173+00:00",
+      "n": "heroes of might and magic iii remake closed playtest trailer"
     }
   ]
 }

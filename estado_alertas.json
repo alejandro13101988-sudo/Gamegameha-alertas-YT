@@ -632,7 +632,8 @@
     "2EfDc11broE",
     "74mjuJpOWjA",
     "wrkKZOwqIME",
-    "6DOabHvnmRE"
+    "6DOabHvnmRE",
+    "hRmqELWUCeY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -690,11 +691,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-10T16:30:44.993180+00:00",
-      "n": "marvel cosmic invasion the siege of castle doom dlc 2 launch trailer ps5 ps4 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-10T16:40:27.268918+00:00",
@@ -1439,6 +1435,11 @@
       "canal": "IGN",
       "fecha": "2026-11-16T01:05:28.563669+00:00",
       "n": "prima materia official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-16T11:15:38.879893+00:00",
+      "n": "mondrayn official announcement trailer"
     }
   ]
 }

@@ -651,7 +651,8 @@
     "hW3nPrTliig",
     "u9wVHWAGpvk",
     "Cx77TKOkHVk",
-    "yqBJR6jUlV4"
+    "yqBJR6jUlV4",
+    "5Pwb22KRRio"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -709,11 +710,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-10T23:20:25.301367+00:00",
-      "n": "origin point games showcase 2026 africa s broadcast quality games showcase"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-11T00:15:29.096147+00:00",
@@ -1458,6 +1454,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-16T22:05:21.584412+00:00",
       "n": "the road of dust and sorrow official animated release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-16T22:25:24.219131+00:00",
+      "n": "wingsuit simulator official reveal trailer"
     }
   ]
 }

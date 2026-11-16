@@ -634,7 +634,8 @@
     "wrkKZOwqIME",
     "6DOabHvnmRE",
     "hRmqELWUCeY",
-    "gl4wOL234uU"
+    "gl4wOL234uU",
+    "mBpJRxANj_Q"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -692,11 +693,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-10T17:00:58.506326+00:00",
-      "n": "cities skylines 2 official park adventures announcement trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-10T17:10:30.010834+00:00",
@@ -1441,6 +1437,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-16T14:05:22.888591+00:00",
       "n": "censer infinite official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-16T14:40:28.179891+00:00",
+      "n": "sails of steel official announcement trailer"
     }
   ]
 }

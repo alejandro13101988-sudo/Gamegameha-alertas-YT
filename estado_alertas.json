@@ -644,7 +644,8 @@
     "2txu1300_dg",
     "BYkAPWzeDrI",
     "5ZBH_sVLHZk",
-    "Dt84K58uqds"
+    "Dt84K58uqds",
+    "5IHdA9xCgzM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -702,11 +703,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-10T19:30:45.697794+00:00",
-      "n": "the outer worlds 2 official side effects guaranteed announcement trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-10T22:10:28.207664+00:00",
@@ -1451,6 +1447,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-16T19:10:26.422082+00:00",
       "n": "the crossing official reveal trailer"
+    },
+    {
+      "canal": "Bethesda Softworks",
+      "fecha": "2026-11-16T19:20:26.993168+00:00",
+      "n": "slayers club live doom the dark ages revelations w hugo martin ch 38 slaughter mode launch"
     }
   ]
 }

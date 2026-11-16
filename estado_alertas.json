@@ -636,7 +636,8 @@
     "hRmqELWUCeY",
     "gl4wOL234uU",
     "mBpJRxANj_Q",
-    "4RhGJIUKb-w"
+    "4RhGJIUKb-w",
+    "U3vfDjKSOKQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -694,11 +695,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-10T17:15:30.666834+00:00",
-      "n": "star trek online rediscovered launch trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-10T17:15:30.666834+00:00",
@@ -1443,6 +1439,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-16T15:00:59.078903+00:00",
       "n": "way of the hunter 2 pulsar pack trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-16T15:05:24.875704+00:00",
+      "n": "machine party reveal trailer ps5 games"
     }
   ]
 }

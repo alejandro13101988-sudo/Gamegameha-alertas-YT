@@ -633,7 +633,8 @@
     "74mjuJpOWjA",
     "wrkKZOwqIME",
     "6DOabHvnmRE",
-    "hRmqELWUCeY"
+    "hRmqELWUCeY",
+    "gl4wOL234uU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -691,11 +692,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-10T16:40:27.268918+00:00",
-      "n": "balitti official announcement trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-10T17:00:58.506326+00:00",
@@ -1440,6 +1436,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-16T11:15:38.879893+00:00",
       "n": "mondrayn official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-16T14:05:22.888591+00:00",
+      "n": "censer infinite official announcement trailer"
     }
   ]
 }

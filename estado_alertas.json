@@ -679,7 +679,8 @@
     "_e0oJSfmIFU",
     "nKRxwgwSEqI",
     "bi-dJT7SrbY",
-    "-WjQ5gg8lo0"
+    "-WjQ5gg8lo0",
+    "2sfo1RW706w"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -737,11 +738,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-11T21:05:20.938561+00:00",
-      "n": "the road of dust and sorrow official new release date trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-11T21:10:25.009240+00:00",
@@ -1486,6 +1482,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-17T17:30:47.068125+00:00",
       "n": "ghost justice official atmospheric teaser"
+    },
+    {
+      "canal": "Konami",
+      "fecha": "2026-11-17T18:10:39.165086+00:00",
+      "n": "metal gear solid master collection vol 2 greenband story trailer"
     }
   ]
 }

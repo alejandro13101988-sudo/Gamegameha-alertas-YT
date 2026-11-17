@@ -666,7 +666,8 @@
     "i6zrzSSBxAw",
     "E2ocAP67VU0",
     "ZrXl8W4ehyM",
-    "6pjhFD-r2SI"
+    "6pjhFD-r2SI",
+    "vWxbMWR7pSw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -724,11 +725,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-11T17:05:24.939749+00:00",
-      "n": "snoopy presents 12 days of snoopy exclusive clip 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-11T17:05:24.939749+00:00",
@@ -1473,6 +1469,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-17T15:10:27.686910+00:00",
       "n": "ranger s path national park simulator full release trailer"
+    },
+    {
+      "canal": "BANDAI NAMCO Europe",
+      "fecha": "2026-11-17T15:20:30.471019+00:00",
+      "n": "bluey s happy snaps accolades trailer"
     }
   ]
 }

@@ -683,7 +683,8 @@
     "2sfo1RW706w",
     "v6TOZK1bAyM",
     "gKEiM6-biGc",
-    "M1iX4AY53n4"
+    "M1iX4AY53n4",
+    "pc9T9nOEmaQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -741,11 +742,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-11T22:25:23.100927+00:00",
-      "n": "the planet crafter official magnetaris dlc release date trailer"
-    },
     {
       "canal": "Official ATLUS West",
       "fecha": "2026-11-12T05:15:25.552535+00:00",
@@ -1490,6 +1486,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-17T20:50:31.415305+00:00",
       "n": "ore means more official announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-17T20:55:18.630009+00:00",
+      "n": "mourning tide official release date trailer"
     }
   ]
 }

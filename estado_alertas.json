@@ -654,7 +654,8 @@
     "yqBJR6jUlV4",
     "5Pwb22KRRio",
     "iucEItnAeTQ",
-    "M151QP7yjrk"
+    "M151QP7yjrk",
+    "xqi59n_Swpk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -712,11 +713,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-11T08:00:51.390188+00:00",
-      "n": "working with montabi official release date trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-11T09:15:32.796421+00:00",
@@ -1461,6 +1457,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-17T00:25:17.837031+00:00",
       "n": "high roller penny official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-17T00:40:25.465068+00:00",
+      "n": "tinker islands official early access release date trailer"
     }
   ]
 }

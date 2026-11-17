@@ -665,7 +665,8 @@
     "J-Un-ZUq1Js",
     "i6zrzSSBxAw",
     "E2ocAP67VU0",
-    "ZrXl8W4ehyM"
+    "ZrXl8W4ehyM",
+    "6pjhFD-r2SI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -723,11 +724,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-11T17:05:24.939749+00:00",
-      "n": "othercrown official reveal trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-11T17:05:24.939749+00:00",
@@ -1472,6 +1468,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-17T14:30:44.716135+00:00",
       "n": "walk hero official release date trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-17T15:10:27.686910+00:00",
+      "n": "ranger s path national park simulator full release trailer"
     }
   ]
 }

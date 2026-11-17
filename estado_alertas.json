@@ -663,7 +663,8 @@
     "tBvrmWMspk8",
     "7iYa6s7yDPM",
     "J-Un-ZUq1Js",
-    "i6zrzSSBxAw"
+    "i6zrzSSBxAw",
+    "E2ocAP67VU0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -721,11 +722,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-11T15:10:25.748133+00:00",
-      "n": "prinny party going overboard launch trailer ps5 games"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-11T17:00:55.239450+00:00",
@@ -1470,6 +1466,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-17T14:10:26.911906+00:00",
       "n": "machine party official console release date trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-17T14:15:29.790952+00:00",
+      "n": "popucom launch trailer ps5 games"
     }
   ]
 }

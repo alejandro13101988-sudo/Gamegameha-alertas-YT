@@ -660,7 +660,8 @@
     "NVCyiNJqO1U",
     "hQW6U0V40LI",
     "MacHagAlKV8",
-    "tBvrmWMspk8"
+    "tBvrmWMspk8",
+    "7iYa6s7yDPM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -718,11 +719,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-11T14:05:19.238611+00:00",
-      "n": "marathon symbiosis gameplay trailer ps5 pc games"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-11T14:10:24.215666+00:00",
@@ -1467,6 +1463,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-17T12:05:20.459350+00:00",
       "n": "six bullets official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-17T12:35:23.114805+00:00",
+      "n": "heroes frontiers official announcement trailer"
     }
   ]
 }

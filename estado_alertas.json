@@ -675,7 +675,8 @@
     "0iBTHiVi9RA",
     "-O-GxjiARLU",
     "YCtM1qCNE_I",
-    "qE_Mo_g1ckw"
+    "qE_Mo_g1ckw",
+    "_e0oJSfmIFU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -733,11 +734,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-11-11T19:10:22.948157+00:00",
-      "n": "castlebound launch trailer nintendo switch 2"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-11T20:05:18.602423+00:00",
@@ -1482,6 +1478,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-17T17:05:23.549495+00:00",
       "n": "calame gameplay trailer ps5 games"
+    },
+    {
+      "canal": "thegameawards",
+      "fecha": "2026-11-17T17:15:31.873911+00:00",
+      "n": "the game awards 2026 nominee reveal live today noon et 9a pt 5p gmt"
     }
   ]
 }

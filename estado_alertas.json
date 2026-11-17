@@ -659,7 +659,8 @@
     "To0Fd4dcLRs",
     "NVCyiNJqO1U",
     "hQW6U0V40LI",
-    "MacHagAlKV8"
+    "MacHagAlKV8",
+    "tBvrmWMspk8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -717,11 +718,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-11T13:05:21.267257+00:00",
-      "n": "clive barker s hellraiser revival demo trailer ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-11T14:05:19.238611+00:00",
@@ -1466,6 +1462,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-17T11:35:23.021336+00:00",
       "n": "attention addicted neet official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-17T12:05:20.459350+00:00",
+      "n": "six bullets official announcement trailer"
     }
   ]
 }

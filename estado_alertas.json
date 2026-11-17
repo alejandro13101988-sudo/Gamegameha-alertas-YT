@@ -676,7 +676,8 @@
     "-O-GxjiARLU",
     "YCtM1qCNE_I",
     "qE_Mo_g1ckw",
-    "_e0oJSfmIFU"
+    "_e0oJSfmIFU",
+    "nKRxwgwSEqI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -734,11 +735,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-11T20:05:18.602423+00:00",
-      "n": "exterminauts wishlist trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-11T20:57:45.475668+00:00",
@@ -1483,6 +1479,11 @@
       "canal": "thegameawards",
       "fecha": "2026-11-17T17:15:31.873911+00:00",
       "n": "the game awards 2026 nominee reveal live today noon et 9a pt 5p gmt"
+    },
+    {
+      "canal": "Nintendo of America",
+      "fecha": "2026-11-17T17:20:29.024765+00:00",
+      "n": "a little to the left nintendo switch 2 edition launch trailer"
     }
   ]
 }

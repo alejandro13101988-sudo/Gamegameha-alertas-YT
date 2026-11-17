@@ -674,7 +674,8 @@
     "7iqN14-tkcw",
     "0iBTHiVi9RA",
     "-O-GxjiARLU",
-    "YCtM1qCNE_I"
+    "YCtM1qCNE_I",
+    "qE_Mo_g1ckw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -732,11 +733,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-11T18:15:29.090998+00:00",
-      "n": "gotta catch bugs official announcement trailer"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-11-11T19:10:22.948157+00:00",
@@ -1481,6 +1477,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-17T16:35:22.541693+00:00",
       "n": "exodus official female jun reveal scrappy salvager featurette"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-17T17:05:23.549495+00:00",
+      "n": "calame gameplay trailer ps5 games"
     }
   ]
 }

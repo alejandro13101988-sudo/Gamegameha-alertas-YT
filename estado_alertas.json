@@ -653,7 +653,8 @@
     "Cx77TKOkHVk",
     "yqBJR6jUlV4",
     "5Pwb22KRRio",
-    "iucEItnAeTQ"
+    "iucEItnAeTQ",
+    "M151QP7yjrk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -711,11 +712,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-11-11T00:15:29.096147+00:00",
-      "n": "marvel s guardians of the galaxy encore edition launch trailer nintendo switch 2"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-11T08:00:51.390188+00:00",
@@ -1460,6 +1456,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-17T00:15:28.198568+00:00",
       "n": "union arena official arknights teaser trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-17T00:25:17.837031+00:00",
+      "n": "high roller penny official release date trailer"
     }
   ]
 }

@@ -664,7 +664,8 @@
     "7iYa6s7yDPM",
     "J-Un-ZUq1Js",
     "i6zrzSSBxAw",
-    "E2ocAP67VU0"
+    "E2ocAP67VU0",
+    "ZrXl8W4ehyM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -722,11 +723,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-11T17:00:55.239450+00:00",
-      "n": "lords of war official teaser trailer 2 2027 nicholas cage bill skarsgard laura harrier"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-11T17:05:24.939749+00:00",
@@ -1471,6 +1467,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-17T14:15:29.790952+00:00",
       "n": "popucom launch trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-17T14:30:44.716135+00:00",
+      "n": "walk hero official release date trailer"
     }
   ]
 }

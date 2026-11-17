@@ -681,7 +681,8 @@
     "bi-dJT7SrbY",
     "-WjQ5gg8lo0",
     "2sfo1RW706w",
-    "v6TOZK1bAyM"
+    "v6TOZK1bAyM",
+    "gKEiM6-biGc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -739,11 +740,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-11T21:10:25.009240+00:00",
-      "n": "the road of dust and sorrow release date announcement ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-11T22:20:25.674338+00:00",
@@ -1488,6 +1484,11 @@
       "canal": "Konami",
       "fecha": "2026-11-17T18:10:39.165086+00:00",
       "n": "metal gear solid master collection vol 2 greenband story trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-17T20:30:44.230878+00:00",
+      "n": "gunboat 8 official early access release date trailer"
     }
   ]
 }

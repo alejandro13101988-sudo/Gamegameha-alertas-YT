@@ -661,7 +661,8 @@
     "hQW6U0V40LI",
     "MacHagAlKV8",
     "tBvrmWMspk8",
-    "7iYa6s7yDPM"
+    "7iYa6s7yDPM",
+    "J-Un-ZUq1Js"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -719,11 +720,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-11T14:10:24.215666+00:00",
-      "n": "thronefall launch trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-11T15:05:19.630281+00:00",
@@ -1468,6 +1464,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-17T12:35:23.114805+00:00",
       "n": "heroes frontiers official announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-17T13:20:27.874086+00:00",
+      "n": "duck side of the moon launch trailer ps5 games"
     }
   ]
 }

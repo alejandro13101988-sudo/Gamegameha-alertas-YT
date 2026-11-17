@@ -652,7 +652,8 @@
     "u9wVHWAGpvk",
     "Cx77TKOkHVk",
     "yqBJR6jUlV4",
-    "5Pwb22KRRio"
+    "5Pwb22KRRio",
+    "iucEItnAeTQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -710,11 +711,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-11T00:15:29.096147+00:00",
-      "n": "tiebreakers official reveal trailer endix expo fall 2026"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-11-11T00:15:29.096147+00:00",
@@ -1459,6 +1455,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-16T22:25:24.219131+00:00",
       "n": "wingsuit simulator official reveal trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-17T00:15:28.198568+00:00",
+      "n": "union arena official arknights teaser trailer"
     }
   ]
 }

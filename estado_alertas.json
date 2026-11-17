@@ -672,7 +672,8 @@
     "GFGafKTv4-8",
     "p-o2GXKNk2g",
     "7iqN14-tkcw",
-    "0iBTHiVi9RA"
+    "0iBTHiVi9RA",
+    "-O-GxjiARLU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -730,11 +731,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-11T18:05:45.729547+00:00",
-      "n": "rayman legends retold vortex outfit trailer xbox exclusive"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-11T18:15:29.090998+00:00",
@@ -1479,6 +1475,11 @@
       "canal": "Annapurna Interactive",
       "fecha": "2026-11-17T16:25:20.453943+00:00",
       "n": "storyteller special edition steam update trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-17T16:35:22.541693+00:00",
+      "n": "exodus official female jun reveal scrappy salvager featurette"
     }
   ]
 }

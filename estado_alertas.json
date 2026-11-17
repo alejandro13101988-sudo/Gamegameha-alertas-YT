@@ -655,7 +655,8 @@
     "5Pwb22KRRio",
     "iucEItnAeTQ",
     "M151QP7yjrk",
-    "xqi59n_Swpk"
+    "xqi59n_Swpk",
+    "To0Fd4dcLRs"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -713,11 +714,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-11T09:15:32.796421+00:00",
-      "n": "edenfall legacy of the first wardens official release date trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-11T10:20:25.451133+00:00",
@@ -1462,6 +1458,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-17T00:40:25.465068+00:00",
       "n": "tinker islands official early access release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-17T09:15:30.967113+00:00",
+      "n": "grindworm official release date trailer"
     }
   ]
 }

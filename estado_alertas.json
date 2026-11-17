@@ -678,7 +678,8 @@
     "qE_Mo_g1ckw",
     "_e0oJSfmIFU",
     "nKRxwgwSEqI",
-    "bi-dJT7SrbY"
+    "bi-dJT7SrbY",
+    "-WjQ5gg8lo0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -736,11 +737,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-11T21:00:55.306143+00:00",
-      "n": "conan the black pyramid official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-11T21:05:20.938561+00:00",
@@ -1485,6 +1481,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-17T17:25:19.622650+00:00",
       "n": "agefield high rock the school official nintendo switch 2 release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-17T17:30:47.068125+00:00",
+      "n": "ghost justice official atmospheric teaser"
     }
   ]
 }

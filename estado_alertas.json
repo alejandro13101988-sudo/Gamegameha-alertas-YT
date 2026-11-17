@@ -685,7 +685,9 @@
     "gKEiM6-biGc",
     "M1iX4AY53n4",
     "pc9T9nOEmaQ",
-    "wU5jQZEFW6g"
+    "wU5jQZEFW6g",
+    "VGuu7veNU8I",
+    "h0rHYcHrtac"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -743,16 +745,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-12T09:10:27.864370+00:00",
-      "n": "test drive unlimited solar crown initial d collaboration trailer ps5 games"
-    },
-    {
-      "canal": "スクウェア・エニックス",
-      "fecha": "2026-11-12T10:40:23.000749+00:00",
-      "n": "final fantasy trading card game world championship 2026 day1 in english"
-    },
     {
       "canal": "スクウェア・エニックス",
       "fecha": "2026-11-12T10:50:24.509375+00:00",
@@ -1492,6 +1484,16 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-17T21:50:27.338904+00:00",
       "n": "polyaris official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-17T23:10:27.847490+00:00",
+      "n": "keycapy official announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-17T23:10:27.847490+00:00",
+      "n": "emptiness sire official release date announcement trailer"
     }
   ]
 }

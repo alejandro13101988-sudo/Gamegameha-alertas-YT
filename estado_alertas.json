@@ -677,7 +677,8 @@
     "YCtM1qCNE_I",
     "qE_Mo_g1ckw",
     "_e0oJSfmIFU",
-    "nKRxwgwSEqI"
+    "nKRxwgwSEqI",
+    "bi-dJT7SrbY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -735,11 +736,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-11T20:57:45.475668+00:00",
-      "n": "exterminauts gameplay trailer ps5 games"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-11T21:00:55.306143+00:00",
@@ -1484,6 +1480,11 @@
       "canal": "Nintendo of America",
       "fecha": "2026-11-17T17:20:29.024765+00:00",
       "n": "a little to the left nintendo switch 2 edition launch trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-17T17:25:19.622650+00:00",
+      "n": "agefield high rock the school official nintendo switch 2 release date trailer"
     }
   ]
 }

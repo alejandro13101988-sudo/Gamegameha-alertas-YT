@@ -682,7 +682,8 @@
     "-WjQ5gg8lo0",
     "2sfo1RW706w",
     "v6TOZK1bAyM",
-    "gKEiM6-biGc"
+    "gKEiM6-biGc",
+    "M1iX4AY53n4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -740,11 +741,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-11T22:20:25.674338+00:00",
-      "n": "where winds meet hutuo gameplay trailer ps5 games"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-11T22:25:23.100927+00:00",
@@ -1489,6 +1485,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-17T20:30:44.230878+00:00",
       "n": "gunboat 8 official early access release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-17T20:50:31.415305+00:00",
+      "n": "ore means more official announcement trailer"
     }
   ]
 }

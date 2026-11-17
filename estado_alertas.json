@@ -669,7 +669,8 @@
     "6pjhFD-r2SI",
     "vWxbMWR7pSw",
     "yeS7aAxxSDM",
-    "GFGafKTv4-8"
+    "GFGafKTv4-8",
+    "p-o2GXKNk2g"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -727,11 +728,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-11-11T17:15:31.035302+00:00",
-      "n": "marvel cosmic invasion the siege of castle doom dlc trailer nintendo switch 2"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-11T18:05:45.729547+00:00",
@@ -1476,6 +1472,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-17T15:30:47.946964+00:00",
       "n": "sunderkin official teaser trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-17T15:45:44.553384+00:00",
+      "n": "thehunter call of the wild official texas hunting reserve dlc announcement trailer"
     }
   ]
 }

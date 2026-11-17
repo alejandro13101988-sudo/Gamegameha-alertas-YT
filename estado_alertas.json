@@ -667,7 +667,9 @@
     "E2ocAP67VU0",
     "ZrXl8W4ehyM",
     "6pjhFD-r2SI",
-    "vWxbMWR7pSw"
+    "vWxbMWR7pSw",
+    "yeS7aAxxSDM",
+    "GFGafKTv4-8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -725,11 +727,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-11T17:05:24.939749+00:00",
-      "n": "a snail s tale official announcement trailer"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-11-11T17:15:31.035302+00:00",
@@ -1474,6 +1471,11 @@
       "canal": "BANDAI NAMCO Europe",
       "fecha": "2026-11-17T15:20:30.471019+00:00",
       "n": "bluey s happy snaps accolades trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-17T15:30:47.946964+00:00",
+      "n": "sunderkin official teaser trailer"
     }
   ]
 }

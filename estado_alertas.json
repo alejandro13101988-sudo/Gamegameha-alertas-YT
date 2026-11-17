@@ -687,7 +687,10 @@
     "pc9T9nOEmaQ",
     "wU5jQZEFW6g",
     "VGuu7veNU8I",
-    "h0rHYcHrtac"
+    "h0rHYcHrtac",
+    "s-P09UGp4eE",
+    "IrpS1G5tB7w",
+    "rg7pmctTOyg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -745,21 +748,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "スクウェア・エニックス",
-      "fecha": "2026-11-12T10:50:24.509375+00:00",
-      "n": "final fantasy trading card game world championship 2026 day2 in english"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-12T11:50:24.242467+00:00",
-      "n": "lola s familiars prison of argnoh official announcement trailer"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-12T12:05:21.184933+00:00",
-      "n": "othercrown official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-12T12:30:42.880480+00:00",
@@ -1494,6 +1482,21 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-17T23:10:27.847490+00:00",
       "n": "emptiness sire official release date announcement trailer"
+    },
+    {
+      "canal": "Nintendo of America",
+      "fecha": "2026-11-17T23:15:31.546331+00:00",
+      "n": "fortnite treasure hunters gameplay trailer nintendo switch 2"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-17T23:15:31.546331+00:00",
+      "n": "3 body problem official season 2 teaser trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-17T23:15:31.546331+00:00",
+      "n": "myth of empires throne official voidbound realm season 4 release date trailer"
     }
   ]
 }

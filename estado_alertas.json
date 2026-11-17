@@ -658,7 +658,8 @@
     "xqi59n_Swpk",
     "To0Fd4dcLRs",
     "NVCyiNJqO1U",
-    "hQW6U0V40LI"
+    "hQW6U0V40LI",
+    "MacHagAlKV8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -716,11 +717,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-11T10:20:25.451133+00:00",
-      "n": "mistfall hunter season 2 fires of the past launch trailer ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-11T13:05:21.267257+00:00",
@@ -1465,6 +1461,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-17T09:15:30.967113+00:00",
       "n": "grindworm official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-17T11:35:23.021336+00:00",
+      "n": "attention addicted neet official announcement trailer"
     }
   ]
 }

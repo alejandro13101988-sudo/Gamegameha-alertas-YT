@@ -694,7 +694,8 @@
     "oMmr0c6bQME",
     "NqBobU5LYvc",
     "3YWZLyhduDY",
-    "_gCMmnPMa2M"
+    "_gCMmnPMa2M",
+    "bBAYVJKLm9g"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -752,11 +753,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T14:20:27.002678+00:00",
-      "n": "goeland seagull adventure official release date trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-12T14:20:27.002678+00:00",
@@ -1501,6 +1497,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-18T14:05:23.702626+00:00",
       "n": "north tale kyndykan official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-18T15:10:28.030599+00:00",
+      "n": "hakoniwa electric official release date trailer"
     }
   ]
 }

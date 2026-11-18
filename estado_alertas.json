@@ -693,7 +693,8 @@
     "rg7pmctTOyg",
     "oMmr0c6bQME",
     "NqBobU5LYvc",
-    "3YWZLyhduDY"
+    "3YWZLyhduDY",
+    "_gCMmnPMa2M"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -751,11 +752,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-12T13:40:35.232362+00:00",
-      "n": "world war z viral state launch trailer ps5 ps4 games"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-12T14:20:27.002678+00:00",
@@ -1500,6 +1496,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-18T08:05:32.634489+00:00",
       "n": "the journey home official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-18T14:05:23.702626+00:00",
+      "n": "north tale kyndykan official announcement trailer"
     }
   ]
 }

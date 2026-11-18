@@ -690,7 +690,8 @@
     "h0rHYcHrtac",
     "s-P09UGp4eE",
     "IrpS1G5tB7w",
-    "rg7pmctTOyg"
+    "rg7pmctTOyg",
+    "oMmr0c6bQME"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -748,11 +749,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-12T12:30:42.880480+00:00",
-      "n": "the snackbar at the end of the world official announcement trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-12T13:10:27.458900+00:00",
@@ -1497,6 +1493,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-17T23:15:31.546331+00:00",
       "n": "myth of empires throne official voidbound realm season 4 release date trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-18T00:05:20.844026+00:00",
+      "n": "giant ojosama official teaser trailer 2027"
     }
   ]
 }

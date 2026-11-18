@@ -704,7 +704,8 @@
     "70dDmxJJ7Xo",
     "rHP3vfG48FM",
     "ZIbdycAhscI",
-    "iMkzSD9orMQ"
+    "iMkzSD9orMQ",
+    "4PfZ_aAMrSY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -762,11 +763,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-12T15:15:40.450796+00:00",
-      "n": "hazard levels launch trailer ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-12T15:20:25.875697+00:00",
@@ -1511,6 +1507,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-18T20:05:22.173042+00:00",
       "n": "burdenfall official reveal trailer devgamm awards 2026"
+    },
+    {
+      "canal": "Nintendo of America",
+      "fecha": "2026-11-18T20:10:29.256403+00:00",
+      "n": "disney dreamlight valley the keepsake sea launch trailer nintendo switch 2"
     }
   ]
 }

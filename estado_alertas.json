@@ -696,7 +696,8 @@
     "3YWZLyhduDY",
     "_gCMmnPMa2M",
     "bBAYVJKLm9g",
-    "wFVJMstN3OA"
+    "wFVJMstN3OA",
+    "4x6Si6-dfcM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -754,11 +755,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-12T14:20:27.002678+00:00",
-      "n": "station to station official console announcement trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-12T14:25:21.289900+00:00",
@@ -1503,6 +1499,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-18T15:10:28.030599+00:00",
       "n": "hakoniwa electric official release date trailer"
+    },
+    {
+      "canal": "DevolverDigital",
+      "fecha": "2026-11-18T16:15:30.922011+00:00",
+      "n": "volvy s adventure reslimed official launch trailer available november 19"
     }
   ]
 }

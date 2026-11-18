@@ -698,7 +698,9 @@
     "bBAYVJKLm9g",
     "wFVJMstN3OA",
     "4x6Si6-dfcM",
-    "O8X4VeIgsTw"
+    "O8X4VeIgsTw",
+    "QJQqiRo24GI",
+    "5hzd1TDisTw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -756,16 +758,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-12T14:25:21.289900+00:00",
-      "n": "barbie rewind launch trailer ps5 games"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-12T14:45:30.411138+00:00",
-      "n": "the sound of fury official announcement trailer"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-11-12T15:10:29.458643+00:00",
@@ -1505,6 +1497,16 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-18T16:35:20.662445+00:00",
       "n": "ai war 2 forge of titan dlc official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-18T17:05:24.635307+00:00",
+      "n": "fathom official announcement trailer"
+    },
+    {
+      "canal": "Nintendo of America",
+      "fecha": "2026-11-18T17:05:24.635307+00:00",
+      "n": "rayman legends retold dynamite musical map trailer nintendo switch 2"
     }
   ]
 }

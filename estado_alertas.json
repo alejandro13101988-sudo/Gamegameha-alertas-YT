@@ -697,7 +697,8 @@
     "_gCMmnPMa2M",
     "bBAYVJKLm9g",
     "wFVJMstN3OA",
-    "4x6Si6-dfcM"
+    "4x6Si6-dfcM",
+    "O8X4VeIgsTw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -755,11 +756,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-12T14:25:21.289900+00:00",
-      "n": "i am security launch trailer ps vr2 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-12T14:25:21.289900+00:00",
@@ -1504,6 +1500,11 @@
       "canal": "DevolverDigital",
       "fecha": "2026-11-18T16:15:30.922011+00:00",
       "n": "volvy s adventure reslimed official launch trailer available november 19"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-18T16:35:20.662445+00:00",
+      "n": "ai war 2 forge of titan dlc official release date trailer"
     }
   ]
 }

@@ -691,7 +691,8 @@
     "s-P09UGp4eE",
     "IrpS1G5tB7w",
     "rg7pmctTOyg",
-    "oMmr0c6bQME"
+    "oMmr0c6bQME",
+    "NqBobU5LYvc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -749,11 +750,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-12T13:10:27.458900+00:00",
-      "n": "vindictus defying fate game overview trailer ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-12T13:40:35.232362+00:00",
@@ -1498,6 +1494,11 @@
       "canal": "IGN",
       "fecha": "2026-11-18T00:05:20.844026+00:00",
       "n": "giant ojosama official teaser trailer 2027"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-18T08:05:32.634489+00:00",
+      "n": "the journey home official release date trailer"
     }
   ]
 }

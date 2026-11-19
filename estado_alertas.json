@@ -723,7 +723,8 @@
     "iTa4xlP40J8",
     "mAvUOj228KI",
     "6nUGMu6OBKc",
-    "k64NhhJCKaE"
+    "k64NhhJCKaE",
+    "0heC7Lw3jG8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -781,11 +782,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T17:20:26.681222+00:00",
-      "n": "hell let loose official lake balaton update 22 teaser trailer"
-    },
     {
       "canal": "Ubisoft",
       "fecha": "2026-11-12T17:30:56.935176+00:00",
@@ -1530,6 +1526,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-19T19:40:43.067027+00:00",
       "n": "games without ai 2026 a showcase of human made games"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-19T20:10:28.451478+00:00",
+      "n": "the castle of the west official announcement trailer"
     }
   ]
 }

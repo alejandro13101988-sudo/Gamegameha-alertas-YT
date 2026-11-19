@@ -717,7 +717,9 @@
     "iuuawFYuE-0",
     "AhX8rWgjRyI",
     "aCTvvnRdCrY",
-    "fOLAqofP-uM"
+    "fOLAqofP-uM",
+    "2h2idLCLZKo",
+    "6_FC12iA5Us"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -775,16 +777,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-12T16:35:21.696134+00:00",
-      "n": "supermarket simulator launch trailer ps5 games"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-12T16:35:21.696134+00:00",
-      "n": "starfell official announcement trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-12T17:10:26.272306+00:00",
@@ -1524,6 +1516,16 @@
       "canal": "XBOX",
       "fecha": "2026-11-19T18:01:00.258474+00:00",
       "n": "blacksmith master 1 0 launch trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-19T19:05:21.879884+00:00",
+      "n": "invincible season 5 official teaser trailer 2027 steven yeun clancy brown"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-19T19:05:21.879884+00:00",
+      "n": "the nightingale official teaser trailer 2027 elle fanning dakota fanning"
     }
   ]
 }

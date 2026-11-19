@@ -716,7 +716,8 @@
     "Fg3up_6Pa-k",
     "iuuawFYuE-0",
     "AhX8rWgjRyI",
-    "aCTvvnRdCrY"
+    "aCTvvnRdCrY",
+    "fOLAqofP-uM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -774,11 +775,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Raw Fury",
-      "fecha": "2026-11-12T16:25:19.624581+00:00",
-      "n": "kuloniku bowl up nintendo switch switch 2 announcement"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-12T16:35:21.696134+00:00",
@@ -1523,6 +1519,11 @@
       "canal": "DevolverDigital",
       "fecha": "2026-11-19T17:00:56.278470+00:00",
       "n": "volvy s adventure reslimed official gameplay trailer out now on steam"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-19T18:01:00.258474+00:00",
+      "n": "blacksmith master 1 0 launch trailer"
     }
   ]
 }

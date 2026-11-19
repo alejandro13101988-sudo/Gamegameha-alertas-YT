@@ -708,7 +708,8 @@
     "4PfZ_aAMrSY",
     "5eS85jyHzBw",
     "lH5wnQ2S5jA",
-    "qtwiIhsct70"
+    "qtwiIhsct70",
+    "KBTsgjC79Gg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -766,11 +767,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-12T16:00:56.855439+00:00",
-      "n": "grime ii official nintendo switch announcement trailer"
-    },
     {
       "canal": "Raw Fury",
       "fecha": "2026-11-12T16:10:25.802353+00:00",
@@ -1515,6 +1511,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-19T13:10:25.557811+00:00",
       "n": "book nook official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-19T13:45:38.288903+00:00",
+      "n": "race the sun 2 official announcement trailer"
     }
   ]
 }

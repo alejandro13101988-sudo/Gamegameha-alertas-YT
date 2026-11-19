@@ -719,7 +719,9 @@
     "aCTvvnRdCrY",
     "fOLAqofP-uM",
     "2h2idLCLZKo",
-    "6_FC12iA5Us"
+    "6_FC12iA5Us",
+    "iTa4xlP40J8",
+    "mAvUOj228KI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -777,16 +779,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-12T17:10:26.272306+00:00",
-      "n": "kingdom two crowns pharaoh lands launching december 1st 2026"
-    },
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-12T17:10:26.272306+00:00",
-      "n": "ball x pit risen ballbylon launch trailer"
-    },
     {
       "canal": "DevolverDigital",
       "fecha": "2026-11-12T17:15:31.809812+00:00",
@@ -1526,6 +1518,16 @@
       "canal": "IGN",
       "fecha": "2026-11-19T19:05:21.879884+00:00",
       "n": "the nightingale official teaser trailer 2027 elle fanning dakota fanning"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-19T19:10:24.835012+00:00",
+      "n": "aeterna lucis official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-19T19:10:24.835012+00:00",
+      "n": "inner city unit official announcement trailer"
     }
   ]
 }

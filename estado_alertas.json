@@ -713,7 +713,8 @@
     "tNf8kZJeqQo",
     "mvfEHW66GyM",
     "QXkpP9fmTZM",
-    "Fg3up_6Pa-k"
+    "Fg3up_6Pa-k",
+    "iuuawFYuE-0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -771,11 +772,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-12T16:15:34.430057+00:00",
-      "n": "elements destiny official release date trailer"
-    },
     {
       "canal": "Raw Fury",
       "fecha": "2026-11-12T16:25:19.624581+00:00",
@@ -1520,6 +1516,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-19T14:15:29.891196+00:00",
       "n": "goat simulator 3 ticket to dizzyworld launch trailer ps5 ps4 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-19T15:35:28.048576+00:00",
+      "n": "homura hime official ps5 announcement trailer"
     }
   ]
 }

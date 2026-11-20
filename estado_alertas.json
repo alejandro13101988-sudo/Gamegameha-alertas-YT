@@ -746,7 +746,9 @@
     "bcwCWXldxak",
     "MOsermqqc5c",
     "E6dUJDCl-ko",
-    "E03YjOGFKiQ"
+    "E03YjOGFKiQ",
+    "g9QBFCRzPQk",
+    "gKfLudFjJPk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -804,16 +806,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T20:05:20.746158+00:00",
-      "n": "impulse rogue official trailer origin point games showcase 2026"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T20:05:20.746158+00:00",
-      "n": "binary golf official gameplay trailer origin point games showcase 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-12T20:05:20.746158+00:00",
@@ -1553,6 +1545,16 @@
       "canal": "PlayStation",
       "fecha": "2026-11-20T20:10:31.011781+00:00",
       "n": "ugly within announcement trailer ps5 games"
+    },
+    {
+      "canal": "SEGA",
+      "fecha": "2026-11-20T21:05:27.306179+00:00",
+      "n": "multi subsstupid never dies final trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-20T21:05:27.306179+00:00",
+      "n": "mr magpies harmless card game official release date trailer"
     }
   ]
 }

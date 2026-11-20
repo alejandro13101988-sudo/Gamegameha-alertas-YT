@@ -738,7 +738,10 @@
     "-S4Odrc-0BM",
     "ixBdskNFchQ",
     "VchD6xhktNY",
-    "3sXNT2zGCqc"
+    "3sXNT2zGCqc",
+    "UwEdroF45s8",
+    "y8Z3oEYOD-o",
+    "aOAChQDIitU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -796,16 +799,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T20:05:20.746158+00:00",
-      "n": "kopno blightfall official trailer origin point games showcase 2026"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T20:05:20.746158+00:00",
-      "n": "letterland official gameplay trailer origin point games showcase 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-12T20:05:20.746158+00:00",
@@ -1545,6 +1538,16 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-20T19:05:28.133468+00:00",
       "n": "lost and bound official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-20T19:10:34.286579+00:00",
+      "n": "signal veil official cast reveal trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-20T19:10:34.286579+00:00",
+      "n": "eilean mor the lost keepers announcement trailer ps5 games"
     }
   ]
 }

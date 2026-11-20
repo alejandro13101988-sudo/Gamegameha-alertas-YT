@@ -729,7 +729,8 @@
     "DAU0gqO6zwo",
     "OffAl9HGkWY",
     "ykjNhM5tR4I",
-    "fbEMPormW84"
+    "fbEMPormW84",
+    "QNSFXxq1_GQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -787,11 +788,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T19:25:18.295864+00:00",
-      "n": "kingdom two crowns pharaoh lands official release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-12T20:00:51.946362+00:00",
@@ -1536,6 +1532,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-20T14:01:05.289569+00:00",
       "n": "caladrius 2 dark element official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-20T14:05:28.725102+00:00",
+      "n": "grow it official announcement trailer"
     }
   ]
 }

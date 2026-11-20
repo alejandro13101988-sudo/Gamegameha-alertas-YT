@@ -744,7 +744,8 @@
     "aOAChQDIitU",
     "OHCrenHN9oo",
     "bcwCWXldxak",
-    "MOsermqqc5c"
+    "MOsermqqc5c",
+    "E6dUJDCl-ko"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -802,11 +803,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T20:05:20.746158+00:00",
-      "n": "crystal harvest apex operator official overview trailer origin point games showcase 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-12T20:05:20.746158+00:00",
@@ -1551,6 +1547,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-20T19:40:35.081991+00:00",
       "n": "signal veil cast reveal ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-20T19:50:34.388182+00:00",
+      "n": "brokenlore miki chan gameplay trailer ps5 games"
     }
   ]
 }

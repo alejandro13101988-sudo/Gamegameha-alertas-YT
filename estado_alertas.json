@@ -754,7 +754,8 @@
     "GByr1iCu1_Y",
     "CQXQKrPuH2w",
     "TaAUEl4Q1bE",
-    "ICcRAYZZhmU"
+    "ICcRAYZZhmU",
+    "Yp3obVgBL6o"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -812,11 +813,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Bethesda Softworks",
-      "fecha": "2026-11-12T20:35:21.370178+00:00",
-      "n": "doom the dark ages revelations slaughter mode official trailer available november 16"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-12T20:35:21.370178+00:00",
@@ -1561,6 +1557,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-20T21:35:23.812604+00:00",
       "n": "psycho dead official release date trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-20T21:45:33.724879+00:00",
+      "n": "psycho dead release date announcement trailer ps5 games"
     }
   ]
 }

@@ -725,7 +725,8 @@
     "6nUGMu6OBKc",
     "k64NhhJCKaE",
     "0heC7Lw3jG8",
-    "sW56vhbTjMc"
+    "sW56vhbTjMc",
+    "DAU0gqO6zwo"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -783,11 +784,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T18:00:58.537465+00:00",
-      "n": "all haul the king official release date sing a long trailer"
-    },
     {
       "canal": "Official ATLUS West",
       "fecha": "2026-11-12T18:10:27.841232+00:00",
@@ -1532,6 +1528,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-19T21:20:33.191086+00:00",
       "n": "epic roller coasters winx club launch trailer ps vr2 games"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-20T12:05:22.917055+00:00",
+      "n": "saihate station twilight edition official announcement trailer"
     }
   ]
 }

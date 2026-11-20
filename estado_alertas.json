@@ -753,7 +753,8 @@
     "J2gT7_jI4s4",
     "GByr1iCu1_Y",
     "CQXQKrPuH2w",
-    "TaAUEl4Q1bE"
+    "TaAUEl4Q1bE",
+    "ICcRAYZZhmU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -811,11 +812,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T20:10:29.418166+00:00",
-      "n": "wizdom academy official version 1 0 release date trailer"
-    },
     {
       "canal": "Bethesda Softworks",
       "fecha": "2026-11-12T20:35:21.370178+00:00",
@@ -1560,6 +1556,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-20T21:30:45.394762+00:00",
       "n": "stupid never dies final trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-20T21:35:23.812604+00:00",
+      "n": "psycho dead official release date trailer"
     }
   ]
 }

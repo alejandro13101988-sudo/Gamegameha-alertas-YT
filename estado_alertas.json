@@ -730,7 +730,8 @@
     "OffAl9HGkWY",
     "ykjNhM5tR4I",
     "fbEMPormW84",
-    "QNSFXxq1_GQ"
+    "QNSFXxq1_GQ",
+    "2a9LBDFxqbQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -788,11 +789,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T20:00:51.946362+00:00",
-      "n": "dungeon automata official release date announcement trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-12T20:00:51.946362+00:00",
@@ -1537,6 +1533,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-20T14:05:28.725102+00:00",
       "n": "grow it official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-20T14:45:32.277954+00:00",
+      "n": "aethercycle official early access release date trailer"
     }
   ]
 }

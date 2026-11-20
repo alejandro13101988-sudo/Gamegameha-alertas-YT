@@ -727,7 +727,8 @@
     "0heC7Lw3jG8",
     "sW56vhbTjMc",
     "DAU0gqO6zwo",
-    "OffAl9HGkWY"
+    "OffAl9HGkWY",
+    "ykjNhM5tR4I"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -785,11 +786,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T18:15:29.690764+00:00",
-      "n": "hollow sky official reveal trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-12T19:20:24.928624+00:00",
@@ -1534,6 +1530,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-20T13:10:30.111151+00:00",
       "n": "invisible boundary official announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-20T13:15:34.503873+00:00",
+      "n": "scary hot dogs launch trailer ps vr2 games"
     }
   ]
 }

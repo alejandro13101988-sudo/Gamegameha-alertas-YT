@@ -748,7 +748,10 @@
     "E6dUJDCl-ko",
     "E03YjOGFKiQ",
     "g9QBFCRzPQk",
-    "gKfLudFjJPk"
+    "gKfLudFjJPk",
+    "sOdmxvqhBq0",
+    "J2gT7_jI4s4",
+    "GByr1iCu1_Y"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -806,21 +809,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T20:05:20.746158+00:00",
-      "n": "detective turner if looks could kill official trailer origin point games showcase 2026"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T20:05:20.746158+00:00",
-      "n": "rucity official teaser trailer origin point games showcase 2026"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T20:05:20.746158+00:00",
-      "n": "hiru official cinematic trailer origin point games showcase 2026"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-12T20:10:29.418166+00:00",
@@ -1555,6 +1543,21 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-20T21:05:27.306179+00:00",
       "n": "mr magpies harmless card game official release date trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-20T21:15:34.269154+00:00",
+      "n": "brokenlore don t play horror game awards trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-20T21:15:34.269154+00:00",
+      "n": "mr magpie s harmless card game launch date reveal trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-20T21:15:34.269154+00:00",
+      "n": "perceptum gameplay trailer ps5 games"
     }
   ]
 }

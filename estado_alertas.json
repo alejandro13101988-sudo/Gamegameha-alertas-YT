@@ -742,7 +742,9 @@
     "UwEdroF45s8",
     "y8Z3oEYOD-o",
     "aOAChQDIitU",
-    "OHCrenHN9oo"
+    "OHCrenHN9oo",
+    "bcwCWXldxak",
+    "MOsermqqc5c"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -800,11 +802,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T20:05:20.746158+00:00",
-      "n": "minor deity official trailer origin point games showcase 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-12T20:05:20.746158+00:00",
@@ -1549,6 +1546,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-20T19:20:36.098356+00:00",
       "n": "zenless zone zero version 3 4 teaser the finality of the day ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-20T19:40:35.081991+00:00",
+      "n": "signal veil cast reveal ps5 games"
     }
   ]
 }

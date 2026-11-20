@@ -752,7 +752,8 @@
     "sOdmxvqhBq0",
     "J2gT7_jI4s4",
     "GByr1iCu1_Y",
-    "CQXQKrPuH2w"
+    "CQXQKrPuH2w",
+    "TaAUEl4Q1bE"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -810,11 +811,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-12T20:10:29.418166+00:00",
-      "n": "9 kings 1 0 launch trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-12T20:10:29.418166+00:00",
@@ -1559,6 +1555,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-20T21:15:34.269154+00:00",
       "n": "perceptum gameplay trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-20T21:30:45.394762+00:00",
+      "n": "stupid never dies final trailer ps5 games"
     }
   ]
 }

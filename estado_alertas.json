@@ -731,7 +731,9 @@
     "ykjNhM5tR4I",
     "fbEMPormW84",
     "QNSFXxq1_GQ",
-    "2a9LBDFxqbQ"
+    "2a9LBDFxqbQ",
+    "SJ7nCnCAUco",
+    "o94rhbNpCjo"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -789,11 +791,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T20:00:51.946362+00:00",
-      "n": "hunger official open beta early access release date reveal trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-12T20:05:20.746158+00:00",
@@ -1538,6 +1535,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-20T14:45:32.277954+00:00",
       "n": "aethercycle official early access release date trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-20T15:10:34.481961+00:00",
+      "n": "battleground cleaner simulator official reveal trailer"
     }
   ]
 }

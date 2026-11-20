@@ -726,7 +726,8 @@
     "k64NhhJCKaE",
     "0heC7Lw3jG8",
     "sW56vhbTjMc",
-    "DAU0gqO6zwo"
+    "DAU0gqO6zwo",
+    "OffAl9HGkWY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -784,11 +785,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Official ATLUS West",
-      "fecha": "2026-11-12T18:10:27.841232+00:00",
-      "n": "metaphor refantazio launch trailer nintendo switch 2"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-12T18:15:29.690764+00:00",
@@ -1533,6 +1529,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-20T12:05:22.917055+00:00",
       "n": "saihate station twilight edition official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-20T13:10:30.111151+00:00",
+      "n": "invisible boundary official announcement trailer"
     }
   ]
 }

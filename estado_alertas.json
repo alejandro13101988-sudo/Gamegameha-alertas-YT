@@ -735,7 +735,8 @@
     "SJ7nCnCAUco",
     "o94rhbNpCjo",
     "AzS0Lu2FGRo",
-    "-S4Odrc-0BM"
+    "-S4Odrc-0BM",
+    "ixBdskNFchQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -793,11 +794,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-12T20:05:20.746158+00:00",
-      "n": "forgebound official gameplay trailer origin point games showcase 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-12T20:05:20.746158+00:00",
@@ -1542,6 +1538,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-20T16:05:26.319517+00:00",
       "n": "zenless zone zero official version 3 4 the finality of the day teaser trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-20T16:45:32.395992+00:00",
+      "n": "makina official announcement trailer"
     }
   ]
 }

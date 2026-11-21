@@ -766,7 +766,8 @@
     "VOku0OQbyPE",
     "8Hop4_IX1AU",
     "K-5Ahs_l1-c",
-    "k8X8Gt5KhKI"
+    "k8X8Gt5KhKI",
+    "qv2ve1vmULY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -824,11 +825,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-13T09:10:29.350838+00:00",
-      "n": "bombanana launch trailer ps5 games"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-13T09:10:29.350838+00:00",
@@ -1573,6 +1569,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-21T03:10:42.779369+00:00",
       "n": "wuthering waves embers of the everbright official gameplay reveal"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-21T12:05:22.753999+00:00",
+      "n": "arknights endfield meeting you in the world o shrooms version trailer ps5 games"
     }
   ]
 }

@@ -768,7 +768,8 @@
     "K-5Ahs_l1-c",
     "k8X8Gt5KhKI",
     "qv2ve1vmULY",
-    "v0ir3sMftyk"
+    "v0ir3sMftyk",
+    "CctXLkM2EbU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -826,11 +827,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-13T12:10:26.057020+00:00",
-      "n": "martian isolation official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-13T12:45:36.965843+00:00",
@@ -1575,6 +1571,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-21T15:45:28.647177+00:00",
       "n": "paradice run club official announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-21T16:10:30.023920+00:00",
+      "n": "madness survivors a case gone dark official demo announcement trailer"
     }
   ]
 }

@@ -770,7 +770,8 @@
     "qv2ve1vmULY",
     "v0ir3sMftyk",
     "CctXLkM2EbU",
-    "WjiEzj6HWl0"
+    "WjiEzj6HWl0",
+    "Ng3mQmiQaLo"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -828,11 +829,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-13T12:45:36.965843+00:00",
-      "n": "sakuna chronicles kokorowa and the gears of creation official teaser trailer 2"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-13T13:15:31.647535+00:00",
@@ -1577,6 +1573,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-21T16:10:30.023920+00:00",
       "n": "madness survivors a case gone dark official demo announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-21T18:30:45.546628+00:00",
+      "n": "re burn the bonfire of taiwan official announcement trailer"
     }
   ]
 }

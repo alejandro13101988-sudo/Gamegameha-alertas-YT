@@ -764,7 +764,9 @@
     "PzmJo8iwCXE",
     "dYi6AXrHxSg",
     "VOku0OQbyPE",
-    "8Hop4_IX1AU"
+    "8Hop4_IX1AU",
+    "K-5Ahs_l1-c",
+    "k8X8Gt5KhKI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -822,11 +824,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Bethesda Softworks",
-      "fecha": "2026-11-13T08:25:23.786489+00:00",
-      "n": "doom the dark ages revelations slaughter mode official trailer available november 16"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-13T09:10:29.350838+00:00",
@@ -1571,6 +1568,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-20T22:05:35.287068+00:00",
       "n": "signal veil official cast reveal trailer horror game awards fall 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-21T03:10:42.779369+00:00",
+      "n": "wuthering waves embers of the everbright official gameplay reveal"
     }
   ]
 }

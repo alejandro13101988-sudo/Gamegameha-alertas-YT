@@ -771,7 +771,8 @@
     "v0ir3sMftyk",
     "CctXLkM2EbU",
     "WjiEzj6HWl0",
-    "Ng3mQmiQaLo"
+    "Ng3mQmiQaLo",
+    "m2cFHvp3EV0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -829,11 +830,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-13T13:15:31.647535+00:00",
-      "n": "guild saga vanished worlds announcement trailer ps5 games"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-13T14:20:27.682939+00:00",
@@ -1578,6 +1574,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-21T18:30:45.546628+00:00",
       "n": "re burn the bonfire of taiwan official announcement trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-22T00:10:30.471552+00:00",
+      "n": "hell let loose official lake balaton update 22 teaser trailer"
     }
   ]
 }

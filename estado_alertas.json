@@ -773,7 +773,8 @@
     "WjiEzj6HWl0",
     "Ng3mQmiQaLo",
     "m2cFHvp3EV0",
-    "NRWhfytEAqE"
+    "NRWhfytEAqE",
+    "Gz-yxLmJB1g"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -831,11 +832,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-13T15:41:46.479759+00:00",
-      "n": "unlimited maid works official announcement trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-13T16:45:30.643101+00:00",
@@ -1580,6 +1576,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-22T14:05:25.428615+00:00",
       "n": "swords slippers official red gameplay showcase"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-22T18:00:52.999336+00:00",
+      "n": "remnants of r lyeh official release date trailer"
     }
   ]
 }

@@ -786,7 +786,8 @@
     "IP0U_LXK0dg",
     "shf7YD565Uo",
     "scW7_ca54X8",
-    "dR-W0kH8m9Y"
+    "dR-W0kH8m9Y",
+    "6H6e47kJgXM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -844,11 +845,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-13T19:25:19.941803+00:00",
-      "n": "where winds meet hutuo official gameplay trailer 1st anniversary"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-13T20:05:21.944908+00:00",
@@ -1593,6 +1589,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-23T15:05:24.554675+00:00",
       "n": "keycapy official reveal trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-23T15:10:32.084939+00:00",
+      "n": "so ji why why japanese shinjuku official reveal trailer"
     }
   ]
 }

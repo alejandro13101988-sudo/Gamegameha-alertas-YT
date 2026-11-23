@@ -795,7 +795,8 @@
     "Z8hKhDfT0uE",
     "DCCaUf8m1Dg",
     "NIAhYV6y1OQ",
-    "XALWJO5Vw00"
+    "XALWJO5Vw00",
+    "Ibs4XqnSmrQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -853,11 +854,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-14T17:50:24.000702+00:00",
-      "n": "driveborn official teaser trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-14T17:50:24.000702+00:00",
@@ -1602,6 +1598,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-23T18:15:35.766778+00:00",
       "n": "foxhole official engines of war release date trailer"
+    },
+    {
+      "canal": "Steam",
+      "fecha": "2026-11-23T18:25:37.579330+00:00",
+      "n": "the steam awards 2026 10th anniversary"
     }
   ]
 }

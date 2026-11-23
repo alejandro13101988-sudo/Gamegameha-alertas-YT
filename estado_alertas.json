@@ -790,7 +790,8 @@
     "6H6e47kJgXM",
     "zmv7KEp3CVI",
     "dWJRlJ1taYw",
-    "AVkhCctmnQQ"
+    "AVkhCctmnQQ",
+    "PImFgXUVhEg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -848,11 +849,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-13T20:20:26.680836+00:00",
-      "n": "isekizima ruins and tails journey official release date trailer"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-11-13T23:20:23.258675+00:00",
@@ -1597,6 +1593,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-23T17:20:32.318180+00:00",
       "n": "the spotter dig or die official launch trailer xbox series x s"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-23T17:45:36.712162+00:00",
+      "n": "machine party official console release date trailer"
     }
   ]
 }

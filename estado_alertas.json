@@ -792,7 +792,8 @@
     "dWJRlJ1taYw",
     "AVkhCctmnQQ",
     "PImFgXUVhEg",
-    "Z8hKhDfT0uE"
+    "Z8hKhDfT0uE",
+    "DCCaUf8m1Dg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -850,11 +851,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-14T12:35:20.619307+00:00",
-      "n": "andalas realms of eternal lights official gameplay teaser trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-14T15:55:21.223043+00:00",
@@ -1599,6 +1595,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-23T17:55:22.882446+00:00",
       "n": "sovereign tower official nintendo switch release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-23T18:00:56.486888+00:00",
+      "n": "mirror official announcement trailer"
     }
   ]
 }

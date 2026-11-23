@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "4TzZw08avBI",
     "EIZ-kw2tcjA",
     "xqkNEx5z8SI",
     "Gh1cGyNRBB4",
@@ -799,7 +798,8 @@
     "OPASlFGPdW0",
     "6lNRNq1KXRA",
     "XNX0pBR7fto",
-    "zh2NAtWm1qI"
+    "zh2NAtWm1qI",
+    "YSX7SkE7d2g"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-15T14:50:32.565728+00:00",
-      "n": "guild saga vanished worlds official ps5 announcement trailer"
-    },
     {
       "canal": "BANDAI NAMCO Europe",
       "fecha": "2026-11-15T15:10:26.057625+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-23T19:30:48.163333+00:00",
       "n": "farmer s dynasty 2 official version 1 0 release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-23T20:05:24.137266+00:00",
+      "n": "farever official the obral ascent release date trailer"
     }
   ]
 }

@@ -785,7 +785,8 @@
     "xgrO_UfbLWc",
     "IP0U_LXK0dg",
     "shf7YD565Uo",
-    "scW7_ca54X8"
+    "scW7_ca54X8",
+    "dR-W0kH8m9Y"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -843,11 +844,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "KOEI TECMO AMERICA",
-      "fecha": "2026-11-13T19:20:27.653776+00:00",
-      "n": "attack on titan 3 gameplay video 1 character interactions expeditions beyond the walls"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-13T19:25:19.941803+00:00",
@@ -1592,6 +1588,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-23T14:40:32.033107+00:00",
       "n": "football tactics dare to dream official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-23T15:05:24.554675+00:00",
+      "n": "keycapy official reveal trailer"
     }
   ]
 }

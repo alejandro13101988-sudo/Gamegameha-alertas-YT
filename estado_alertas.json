@@ -776,7 +776,8 @@
     "NRWhfytEAqE",
     "Gz-yxLmJB1g",
     "-CjMTtCbUhU",
-    "gb2OBwi41AU"
+    "gb2OBwi41AU",
+    "-kmehyco-6c"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -834,11 +835,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-13T17:01:04.437226+00:00",
-      "n": "payday 3 x ghost recon official crimebond teaser trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-13T17:10:34.438488+00:00",
@@ -1583,6 +1579,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-22T23:25:20.200693+00:00",
       "n": "meowsical nights cat music puzzles official announcement trailer"
+    },
+    {
+      "canal": "BANDAI NAMCO Europe",
+      "fecha": "2026-11-23T09:15:30.068271+00:00",
+      "n": "my hero ultra rumble plus ultra season 1 trailer"
     }
   ]
 }

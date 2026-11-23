@@ -789,7 +789,8 @@
     "dR-W0kH8m9Y",
     "6H6e47kJgXM",
     "zmv7KEp3CVI",
-    "dWJRlJ1taYw"
+    "dWJRlJ1taYw",
+    "AVkhCctmnQQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -847,11 +848,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-13T20:05:21.944908+00:00",
-      "n": "the falconeer revolution remaster official console release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-13T20:20:26.680836+00:00",
@@ -1596,6 +1592,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-23T17:15:37.757202+00:00",
       "n": "world eater official announcement trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-23T17:20:32.318180+00:00",
+      "n": "the spotter dig or die official launch trailer xbox series x s"
     }
   ]
 }

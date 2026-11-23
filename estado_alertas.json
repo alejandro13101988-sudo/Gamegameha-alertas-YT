@@ -793,7 +793,8 @@
     "AVkhCctmnQQ",
     "PImFgXUVhEg",
     "Z8hKhDfT0uE",
-    "DCCaUf8m1Dg"
+    "DCCaUf8m1Dg",
+    "NIAhYV6y1OQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -851,11 +852,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-14T15:55:21.223043+00:00",
-      "n": "man i just wanna live official announcement trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-14T17:15:28.228065+00:00",
@@ -1600,6 +1596,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-23T18:00:56.486888+00:00",
       "n": "mirror official announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-23T18:05:30.354667+00:00",
+      "n": "bus simulator 27 official karsan bus pack teaser trailer"
     }
   ]
 }

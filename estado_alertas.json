@@ -778,7 +778,8 @@
     "-CjMTtCbUhU",
     "gb2OBwi41AU",
     "-kmehyco-6c",
-    "vrIuiy_90-Y"
+    "vrIuiy_90-Y",
+    "up-FOPspC6Y"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -836,11 +837,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-13T17:40:27.323720+00:00",
-      "n": "mothergunship forge launch trailer ps vr2 games"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-13T18:05:23.132871+00:00",
@@ -1585,6 +1581,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-23T11:10:40.239079+00:00",
       "n": "the floor above launch trailer ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-23T12:40:30.268297+00:00",
+      "n": "mistlands out of eden offcial announcement trailer"
     }
   ]
 }

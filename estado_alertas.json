@@ -784,7 +784,8 @@
     "anr1HYUInrI",
     "xgrO_UfbLWc",
     "IP0U_LXK0dg",
-    "shf7YD565Uo"
+    "shf7YD565Uo",
+    "scW7_ca54X8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -842,11 +843,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-13T19:00:58.892736+00:00",
-      "n": "derelikt xbox launch trailer"
-    },
     {
       "canal": "KOEI TECMO AMERICA",
       "fecha": "2026-11-13T19:20:27.653776+00:00",
@@ -1591,6 +1587,11 @@
       "canal": "Paradox Interactive",
       "fecha": "2026-11-23T14:30:46.804431+00:00",
       "n": "stellaris s10 willpower release trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-23T14:40:32.033107+00:00",
+      "n": "football tactics dare to dream official announcement trailer"
     }
   ]
 }

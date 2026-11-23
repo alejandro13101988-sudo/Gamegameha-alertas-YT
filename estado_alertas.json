@@ -783,7 +783,8 @@
     "sa-g54bFTrE",
     "anr1HYUInrI",
     "xgrO_UfbLWc",
-    "IP0U_LXK0dg"
+    "IP0U_LXK0dg",
+    "shf7YD565Uo"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -841,11 +842,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-13T18:40:29.143020+00:00",
-      "n": "derelikt launch trailer ps5 games"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-13T19:00:58.892736+00:00",
@@ -1590,6 +1586,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-23T13:40:41.859000+00:00",
       "n": "octarace official release date trailer"
+    },
+    {
+      "canal": "Paradox Interactive",
+      "fecha": "2026-11-23T14:30:46.804431+00:00",
+      "n": "stellaris s10 willpower release trailer"
     }
   ]
 }

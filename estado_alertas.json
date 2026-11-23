@@ -794,7 +794,8 @@
     "PImFgXUVhEg",
     "Z8hKhDfT0uE",
     "DCCaUf8m1Dg",
-    "NIAhYV6y1OQ"
+    "NIAhYV6y1OQ",
+    "XALWJO5Vw00"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -852,11 +853,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-14T17:15:28.228065+00:00",
-      "n": "conan the black pyramid official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-14T17:50:24.000702+00:00",
@@ -1601,6 +1597,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-23T18:05:30.354667+00:00",
       "n": "bus simulator 27 official karsan bus pack teaser trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-23T18:15:35.766778+00:00",
+      "n": "foxhole official engines of war release date trailer"
     }
   ]
 }

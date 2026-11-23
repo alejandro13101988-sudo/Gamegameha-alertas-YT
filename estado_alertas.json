@@ -796,7 +796,8 @@
     "DCCaUf8m1Dg",
     "NIAhYV6y1OQ",
     "XALWJO5Vw00",
-    "Ibs4XqnSmrQ"
+    "Ibs4XqnSmrQ",
+    "OPASlFGPdW0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -854,11 +855,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-14T17:50:24.000702+00:00",
-      "n": "mine a little official announcement trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-15T08:00:51.422111+00:00",
@@ -1603,6 +1599,11 @@
       "canal": "Steam",
       "fecha": "2026-11-23T18:25:37.579330+00:00",
       "n": "the steam awards 2026 10th anniversary"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-23T19:00:53.803683+00:00",
+      "n": "jaden industries official release xbox trailer"
     }
   ]
 }

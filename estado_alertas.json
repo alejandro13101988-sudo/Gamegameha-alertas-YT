@@ -791,7 +791,8 @@
     "zmv7KEp3CVI",
     "dWJRlJ1taYw",
     "AVkhCctmnQQ",
-    "PImFgXUVhEg"
+    "PImFgXUVhEg",
+    "Z8hKhDfT0uE"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -849,11 +850,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-11-13T23:20:23.258675+00:00",
-      "n": "raccoin chaos max edition launch trailer nintendo switch 2"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-14T12:35:20.619307+00:00",
@@ -1598,6 +1594,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-23T17:45:36.712162+00:00",
       "n": "machine party official console release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-23T17:55:22.882446+00:00",
+      "n": "sovereign tower official nintendo switch release date trailer"
     }
   ]
 }

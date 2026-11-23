@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "OcFWjL50Jrg",
     "4TzZw08avBI",
     "EIZ-kw2tcjA",
     "xqkNEx5z8SI",
@@ -798,7 +797,9 @@
     "XALWJO5Vw00",
     "Ibs4XqnSmrQ",
     "OPASlFGPdW0",
-    "6lNRNq1KXRA"
+    "6lNRNq1KXRA",
+    "XNX0pBR7fto",
+    "zh2NAtWm1qI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -856,16 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-15T08:00:51.422111+00:00",
-      "n": "temtem pioneers official extended announcement trailer"
-    },
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-15T14:30:42.013454+00:00",
-      "n": "fortnite treasure hunters week 3 gameplay trailer ps5 ps4 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-15T14:50:32.565728+00:00",
@@ -1605,6 +1596,16 @@
       "canal": "XBOX",
       "fecha": "2026-11-23T19:00:53.803683+00:00",
       "n": "jaden industries official release xbox trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-23T19:30:48.163333+00:00",
+      "n": "bloodrush undying wish official version 1 0 release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-23T19:30:48.163333+00:00",
+      "n": "farmer s dynasty 2 official version 1 0 release date trailer"
     }
   ]
 }

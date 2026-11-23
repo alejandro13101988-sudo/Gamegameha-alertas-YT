@@ -782,7 +782,8 @@
     "up-FOPspC6Y",
     "sa-g54bFTrE",
     "anr1HYUInrI",
-    "xgrO_UfbLWc"
+    "xgrO_UfbLWc",
+    "IP0U_LXK0dg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -840,11 +841,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-13T18:05:23.132871+00:00",
-      "n": "crazy taxi world tour exclusive india map reveal trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-13T18:40:29.143020+00:00",
@@ -1589,6 +1585,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-23T13:05:28.834919+00:00",
       "n": "tessera official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-23T13:40:41.859000+00:00",
+      "n": "octarace official release date trailer"
     }
   ]
 }

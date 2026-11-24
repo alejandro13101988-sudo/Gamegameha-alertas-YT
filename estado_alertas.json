@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "pkog7J_7P00",
     "o3bWzzIRcCc",
     "QGG8OnznPe8",
     "hJAhkg0Dus8",
@@ -799,7 +798,8 @@
     "fzFDW_4cqWQ",
     "-wJapkOeArE",
     "GBEawc9drY4",
-    "ErhPysTk6Jc"
+    "ErhPysTk6Jc",
+    "m5GfcSm7wcY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-17T00:40:25.465068+00:00",
-      "n": "tinker islands official early access release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-17T09:15:30.967113+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "IGN",
       "fecha": "2026-11-24T17:20:32.618939+00:00",
       "n": "dune part three exclusive teaser trailer 2026 timothee chalamet zendaya robert pattinson"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-24T19:30:45.526831+00:00",
+      "n": "song of horror enhanced edition official announcement trailer"
     }
   ]
 }

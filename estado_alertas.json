@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "LNh5nKytO_8",
     "I-ly0sVjlxU",
     "ODHH1nUaOIM",
     "MZAIzQe6y9M",
@@ -799,7 +798,8 @@
     "znEFr4ZS6zU",
     "TBzQebgt9Ww",
     "Ly9NJxllOiY",
-    "ropqBe6eKe0"
+    "ropqBe6eKe0",
+    "Th9HrFMYe_w"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-16T19:55:17.902052+00:00",
-      "n": "hope timbre official release date trailer"
-    },
     {
       "canal": "Capcom USA",
       "fecha": "2026-11-16T21:55:18.923218+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-24T15:35:25.213040+00:00",
       "n": "attack on titan 3 explorations within the walls gameplay video ps5 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-24T16:05:23.037268+00:00",
+      "n": "stardust wish of witch official consoles release date trailer"
     }
   ]
 }

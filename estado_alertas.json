@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "wlrT6khgQRg",
     "HLfhqAgIwpA",
     "IeYYH4-ZYq0",
     "PdLVxNx5AHk",
@@ -799,7 +798,8 @@
     "MTbDbS-d2b0",
     "oToTrqfS7ko",
     "i72YsuPbWPM",
-    "RD_TDuj0738"
+    "RD_TDuj0738",
+    "ra04S_JrvwY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-16T15:00:59.078903+00:00",
-      "n": "way of the hunter 2 pulsar pack trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-16T15:05:24.875704+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-24T13:40:39.525625+00:00",
       "n": "trench engr official announcement trailer"
+    },
+    {
+      "canal": "KOEI TECMO AMERICA",
+      "fecha": "2026-11-24T14:00:54.363956+00:00",
+      "n": "nioh 3 bloody insurrection dlc vol 2 first look trailer"
     }
   ]
 }

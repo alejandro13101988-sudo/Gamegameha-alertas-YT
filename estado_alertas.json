@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "mMxI36gYT8k",
     "Y6XSSlzDwuU",
     "KhokmqG5utQ",
     "gj5gjzNei94",
@@ -799,7 +798,8 @@
     "Y58woIZNUcM",
     "q5Clgohgi5I",
     "plKjdsLwVDA",
-    "KE_qOdhz24Q"
+    "KE_qOdhz24Q",
+    "333SVkkqVW8"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-16T00:25:26.304456+00:00",
-      "n": "muay thai xtreme official gameplay reveal trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-16T01:05:28.563669+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "KOEI TECMO AMERICA",
       "fecha": "2026-11-24T08:50:30.868715+00:00",
       "n": "attack on titan 3 gameplay video 2 explorations within the walls"
+    },
+    {
+      "canal": "BANDAI NAMCO Europe",
+      "fecha": "2026-11-24T11:05:29.734997+00:00",
+      "n": "ace combat 8 wings of theve ace combat online season 2 trailer"
     }
   ]
 }

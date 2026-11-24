@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "EIZ-kw2tcjA",
     "xqkNEx5z8SI",
     "Gh1cGyNRBB4",
     "GuygvysbRCE",
@@ -799,7 +798,8 @@
     "6lNRNq1KXRA",
     "XNX0pBR7fto",
     "zh2NAtWm1qI",
-    "YSX7SkE7d2g"
+    "YSX7SkE7d2g",
+    "AdeE-CRPmSc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "BANDAI NAMCO Europe",
-      "fecha": "2026-11-15T15:10:26.057625+00:00",
-      "n": "dragon ball fighterz balance update announcement"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-15T16:25:20.373795+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-23T20:05:24.137266+00:00",
       "n": "farever official the obral ascent release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-24T00:15:30.711710+00:00",
+      "n": "ghost justice official atmospheric teaser trailer"
     }
   ]
 }

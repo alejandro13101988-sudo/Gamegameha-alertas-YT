@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "3ZKK8nzuOuE",
     "LO5zWLj9m9s",
     "mOPveEhmUNo",
     "LNh5nKytO_8",
@@ -799,7 +798,8 @@
     "NrPa_U1wtQQ",
     "u7u9yRu1Z1Q",
     "TsB6KBtk-YM",
-    "znEFr4ZS6zU"
+    "znEFr4ZS6zU",
+    "TBzQebgt9Ww"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-16T19:40:35.003923+00:00",
-      "n": "nba 2k27 meets vice city trailer ps5 games"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-16T19:40:35.003923+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-24T15:15:32.809092+00:00",
       "n": "to kill a god official early access release date trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-24T15:20:31.842182+00:00",
+      "n": "tuesday morning official trailer ps5 games"
     }
   ]
 }

@@ -1,7 +1,5 @@
 {
   "alertados": [
-    "XJM1Rudv6IM",
-    "dlQjXkzuJoI",
     "pkog7J_7P00",
     "o3bWzzIRcCc",
     "QGG8OnznPe8",
@@ -799,7 +797,9 @@
     "-JriAJwmLFI",
     "M69kuiyffsY",
     "fzFDW_4cqWQ",
-    "-wJapkOeArE"
+    "-wJapkOeArE",
+    "GBEawc9drY4",
+    "ErhPysTk6Jc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,16 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-17T00:15:28.198568+00:00",
-      "n": "union arena official arknights teaser trailer"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-17T00:25:17.837031+00:00",
-      "n": "high roller penny official release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-17T00:40:25.465068+00:00",
@@ -1606,6 +1596,16 @@
       "canal": "PlayStation",
       "fecha": "2026-11-24T17:15:39.426564+00:00",
       "n": "dead by daylight terrifier chapter launch trailer ps5 ps4 games"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-24T17:20:32.618939+00:00",
+      "n": "dead by daylight terrifier official trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-24T17:20:32.618939+00:00",
+      "n": "dune part three exclusive teaser trailer 2026 timothee chalamet zendaya robert pattinson"
     }
   ]
 }

@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "HLfhqAgIwpA",
     "IeYYH4-ZYq0",
     "PdLVxNx5AHk",
     "AZCm2X7p-3U",
@@ -799,7 +798,8 @@
     "oToTrqfS7ko",
     "i72YsuPbWPM",
     "RD_TDuj0738",
-    "ra04S_JrvwY"
+    "ra04S_JrvwY",
+    "AzDmwM79cAA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-16T15:05:24.875704+00:00",
-      "n": "machine party reveal trailer ps5 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-16T15:10:28.833135+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "KOEI TECMO AMERICA",
       "fecha": "2026-11-24T14:00:54.363956+00:00",
       "n": "nioh 3 bloody insurrection dlc vol 2 first look trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-24T14:10:35.555347+00:00",
+      "n": "gothic 3 classic release trailer ps5 games"
     }
   ]
 }

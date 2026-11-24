@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "S65jNN0SPTg",
     "y7OuAQ5Pjac",
     "ngRQ4dK5A6M",
     "wlrT6khgQRg",
@@ -799,7 +798,8 @@
     "drMptDgqwBE",
     "z0ZJqdrI7q8",
     "5NT0sMKHoW8",
-    "MTbDbS-d2b0"
+    "MTbDbS-d2b0",
+    "oToTrqfS7ko"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-16T11:15:38.879893+00:00",
-      "n": "mondrayn official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-16T14:05:22.888591+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "IGN",
       "fecha": "2026-11-24T12:20:41.380636+00:00",
       "n": "dead or alive official 30th anniversary trailer ft dead or alive 7 teaser"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-24T12:40:34.591238+00:00",
+      "n": "toziuha night order of the alchemists official ps5 release date trailer"
     }
   ]
 }

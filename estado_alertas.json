@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "bw_TKK96LgI",
     "3ZKK8nzuOuE",
     "LO5zWLj9m9s",
     "mOPveEhmUNo",
@@ -799,7 +798,8 @@
     "7QU8CZiTe5o",
     "NrPa_U1wtQQ",
     "u7u9yRu1Z1Q",
-    "TsB6KBtk-YM"
+    "TsB6KBtk-YM",
+    "znEFr4ZS6zU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Bethesda Softworks",
-      "fecha": "2026-11-16T19:20:26.993168+00:00",
-      "n": "slayers club live doom the dark ages revelations w hugo martin ch 38 slaughter mode launch"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-16T19:40:35.003923+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-24T15:05:39.633257+00:00",
       "n": "stardust wish of witch release date announcement trailer ps5 games"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-24T15:15:32.809092+00:00",
+      "n": "to kill a god official early access release date trailer"
     }
   ]
 }

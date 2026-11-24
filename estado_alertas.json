@@ -1,8 +1,5 @@
 {
   "alertados": [
-    "MZAIzQe6y9M",
-    "nypwb2L3WdY",
-    "84fFeLsjLXs",
     "UFXSDoMb5jE",
     "XJM1Rudv6IM",
     "dlQjXkzuJoI",
@@ -799,7 +796,10 @@
     "ropqBe6eKe0",
     "Th9HrFMYe_w",
     "Wkm2rY2L6uQ",
-    "VUlxa_DPco4"
+    "VUlxa_DPco4",
+    "-JriAJwmLFI",
+    "M69kuiyffsY",
+    "fzFDW_4cqWQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-16T22:05:21.584412+00:00",
-      "n": "the road of dust and sorrow official animated release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-16T22:25:24.219131+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "IGN",
       "fecha": "2026-11-24T16:50:31.604938+00:00",
       "n": "marvel rivals official incursion point map reveal trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-24T17:00:57.706882+00:00",
+      "n": "the cube official archive file 1 teaser trailer"
     }
   ]
 }

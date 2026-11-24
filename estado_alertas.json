@@ -1,8 +1,5 @@
 {
   "alertados": [
-    "IeYYH4-ZYq0",
-    "PdLVxNx5AHk",
-    "AZCm2X7p-3U",
     "7WNSZxjIYLA",
     "Bcgopgui3M4",
     "SiXCRovHJCQ",
@@ -799,7 +796,10 @@
     "i72YsuPbWPM",
     "RD_TDuj0738",
     "ra04S_JrvwY",
-    "AzDmwM79cAA"
+    "AzDmwM79cAA",
+    "DG5g8wVWmVM",
+    "hYTVI1OOBxo",
+    "sGHIhod3EZQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,16 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-16T15:10:28.833135+00:00",
-      "n": "project stampede official announcement trailer"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-16T17:10:27.258841+00:00",
-      "n": "salvare official announcement trailer"
-    },
     {
       "canal": "Ubisoft",
       "fecha": "2026-11-16T17:25:18.535173+00:00",
@@ -1606,6 +1596,16 @@
       "canal": "PlayStation",
       "fecha": "2026-11-24T14:10:35.555347+00:00",
       "n": "gothic 3 classic release trailer ps5 games"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-24T14:15:30.991298+00:00",
+      "n": "star trek voyager across the unknown official year of hell dlc release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-24T14:15:30.991298+00:00",
+      "n": "symphony of war 2 dominion official announcement trailer"
     }
   ]
 }

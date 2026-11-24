@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "7WNSZxjIYLA",
     "Bcgopgui3M4",
     "SiXCRovHJCQ",
     "t-8-io-fM_0",
@@ -799,7 +798,8 @@
     "AzDmwM79cAA",
     "DG5g8wVWmVM",
     "hYTVI1OOBxo",
-    "sGHIhod3EZQ"
+    "sGHIhod3EZQ",
+    "Ga7VMwMl_UA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Ubisoft",
-      "fecha": "2026-11-16T17:25:18.535173+00:00",
-      "n": "heroes of might and magic iii remake closed playtest trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-16T18:15:29.111114+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-24T14:15:30.991298+00:00",
       "n": "symphony of war 2 dominion official announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-24T14:20:34.271376+00:00",
+      "n": "marathon bishop shell cinematic ps5 pc games"
     }
   ]
 }

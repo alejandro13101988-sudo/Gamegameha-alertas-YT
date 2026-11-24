@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "8RpGdNReAB0",
     "eCLWuau_k8c",
     "p8Ycromg5pc",
     "mMxI36gYT8k",
@@ -799,7 +798,8 @@
     "AdeE-CRPmSc",
     "iK9Y4JNq48s",
     "7AXiDrvTd7k",
-    "Y58woIZNUcM"
+    "Y58woIZNUcM",
+    "q5Clgohgi5I"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-15T18:10:24.174159+00:00",
-      "n": "once human season 5 dissonant resonance gameplay trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-15T19:55:22.116374+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "KOEI TECMO AMERICA",
       "fecha": "2026-11-24T07:05:26.076145+00:00",
       "n": "dead or alive 30th anniversary trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-24T08:00:55.060851+00:00",
+      "n": "nocte eternal official teaser trailer"
     }
   ]
 }

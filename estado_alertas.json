@@ -1,7 +1,5 @@
 {
   "alertados": [
-    "gq1sugucyI8",
-    "dKbldIbI80k",
     "x-QP1dG4NO4",
     "bw_TKK96LgI",
     "3ZKK8nzuOuE",
@@ -799,7 +797,9 @@
     "jGd0GJnWYPU",
     "PQQDar9go9g",
     "D9STbTQ8QMI",
-    "7QU8CZiTe5o"
+    "7QU8CZiTe5o",
+    "NrPa_U1wtQQ",
+    "u7u9yRu1Z1Q"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,16 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Steam",
-      "fecha": "2026-11-16T18:20:29.561526+00:00",
-      "n": "steam auto battler rpg fest 2026 official trailer"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-16T19:10:26.422082+00:00",
-      "n": "the crossing official reveal trailer"
-    },
     {
       "canal": "Bethesda Softworks",
       "fecha": "2026-11-16T19:20:26.993168+00:00",
@@ -1606,6 +1596,16 @@
       "canal": "IGN",
       "fecha": "2026-11-24T14:45:31.888174+00:00",
       "n": "nioh 3 official bloody insurrection dlc vol 2 announcement trailer"
+    },
+    {
+      "canal": "BANDAI NAMCO Europe",
+      "fecha": "2026-11-24T15:05:39.633257+00:00",
+      "n": "the blood of dawnwalker accolades trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-24T15:05:39.633257+00:00",
+      "n": "stardust wish of witch release date announcement trailer ps5 games"
     }
   ]
 }

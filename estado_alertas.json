@@ -1,7 +1,5 @@
 {
   "alertados": [
-    "LO5zWLj9m9s",
-    "mOPveEhmUNo",
     "LNh5nKytO_8",
     "I-ly0sVjlxU",
     "ODHH1nUaOIM",
@@ -799,7 +797,9 @@
     "u7u9yRu1Z1Q",
     "TsB6KBtk-YM",
     "znEFr4ZS6zU",
-    "TBzQebgt9Ww"
+    "TBzQebgt9Ww",
+    "Ly9NJxllOiY",
+    "ropqBe6eKe0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-16T19:40:35.003923+00:00",
-      "n": "fat goblins official release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-16T19:55:17.902052+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-24T15:20:31.842182+00:00",
       "n": "tuesday morning official trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-24T15:35:25.213040+00:00",
+      "n": "attack on titan 3 explorations within the walls gameplay video ps5 games"
     }
   ]
 }

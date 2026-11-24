@@ -1,8 +1,5 @@
 {
   "alertados": [
-    "t-8-io-fM_0",
-    "WE3co6fdOVw",
-    "0deLxLE-i-A",
     "ilKsaz5wloQ",
     "gq1sugucyI8",
     "dKbldIbI80k",
@@ -799,7 +796,10 @@
     "sGHIhod3EZQ",
     "Ga7VMwMl_UA",
     "7TD5xkEPtMY",
-    "XjrqUSaRIoI"
+    "XjrqUSaRIoI",
+    "jGd0GJnWYPU",
+    "PQQDar9go9g",
+    "D9STbTQ8QMI"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-16T18:15:29.111114+00:00",
-      "n": "brawlhalla x my hero academia official crossover reveal trailer"
-    },
     {
       "canal": "Steam",
       "fecha": "2026-11-16T18:20:29.561526+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-24T14:35:29.982990+00:00",
       "n": "helldivers 2 official dune collaboration secrets beneath the sands teaser trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-24T14:45:31.888174+00:00",
+      "n": "nioh 3 official bloody insurrection dlc vol 2 announcement trailer"
     }
   ]
 }

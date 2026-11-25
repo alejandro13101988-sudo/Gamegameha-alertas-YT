@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "i_X1If_eHuI",
     "O6SwwzG_ag0",
     "o43CZdhCKvk",
     "m9OcMe1NxFA",
@@ -799,7 +798,8 @@
     "HzV7t48RACM",
     "ndsF4H9U_r0",
     "IXERyRw9J-g",
-    "WtbcPHIu6_0"
+    "WtbcPHIu6_0",
+    "RSkLqRzxN5s"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-17T20:55:18.630009+00:00",
-      "n": "mourning tide official release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-17T21:50:27.338904+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-25T18:30:46.464297+00:00",
       "n": "yooka laylee and the impossible lair official definitive edition release date trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-25T19:15:33.979863+00:00",
+      "n": "nba 2k27 season 3 trailer"
     }
   ]
 }

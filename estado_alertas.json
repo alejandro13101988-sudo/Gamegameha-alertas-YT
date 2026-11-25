@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "CRxQ9HK6H1o",
     "JlbFPV6gTE4",
     "N_1R-Q-CS68",
     "bZDfdeA98lg",
@@ -799,7 +798,8 @@
     "xAuBeLfVlSA",
     "7fc-ENn3Js4",
     "rW_Vmz3jgI4",
-    "1NaKZpKM4MA"
+    "1NaKZpKM4MA",
+    "rm_81j76nPc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-17T15:10:27.686910+00:00",
-      "n": "ranger s path national park simulator full release trailer"
-    },
     {
       "canal": "BANDAI NAMCO Europe",
       "fecha": "2026-11-17T15:20:30.471019+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-25T14:10:31.682870+00:00",
       "n": "the spell brigade brotato brigado and the sinking murk launch trailer ps5 games"
+    },
+    {
+      "canal": "Raw Fury",
+      "fecha": "2026-11-25T14:15:32.172383+00:00",
+      "n": "kuloniku bowl up nintendo switch and switch 2 launch trailer"
     }
   ]
 }

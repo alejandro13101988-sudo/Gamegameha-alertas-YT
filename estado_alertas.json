@@ -1,7 +1,5 @@
 {
   "alertados": [
-    "59oPNDPoDYA",
-    "T29veBjKWas",
     "xr44hO6vdZY",
     "6rB_l6-GI4A",
     "fjrksrEn7-Y",
@@ -799,7 +797,9 @@
     "2-lmNjsyfos",
     "3Qvtkh0Rszc",
     "pn9kV27VuVc",
-    "4_bodqJl4wI"
+    "4_bodqJl4wI",
+    "pH4wT5kdsC8",
+    "hXLrSLQVv9w"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "thegameawards",
-      "fecha": "2026-11-17T17:15:31.873911+00:00",
-      "n": "the game awards 2026 nominee reveal live today noon et 9a pt 5p gmt"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-11-17T17:20:29.024765+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-25T16:40:33.033753+00:00",
       "n": "shantytown official nintendo switch 2 announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-25T17:10:31.995968+00:00",
+      "n": "rayman legends retold story trailer ps5 games"
     }
   ]
 }

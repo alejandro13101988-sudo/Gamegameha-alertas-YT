@@ -1,7 +1,5 @@
 {
   "alertados": [
-    "Rst37nW__-A",
-    "WvmDbjX69xM",
     "vKn7u5xv4ts",
     "uHCZ-AOxczQ",
     "TnUE1HhD-cw",
@@ -799,7 +797,9 @@
     "29fk2Pxlr7g",
     "Ybfh8-AXGAQ",
     "zdddr6C8FNU",
-    "eCQGLVzpHFs"
+    "eCQGLVzpHFs",
+    "MiE6-XaL8Hw",
+    "sfw33ZmIvfE"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-18T20:05:22.173042+00:00",
-      "n": "ghost transmission official announcement trailer devgamm awards 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-18T20:05:22.173042+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-25T20:05:26.130888+00:00",
       "n": "crimson furnace official overview trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "Nintendo of America",
+      "fecha": "2026-11-25T20:10:36.440123+00:00",
+      "n": "kuloniku bowl up launch trailer nintendo switch 2"
     }
   ]
 }

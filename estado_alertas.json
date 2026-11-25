@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "-HsljGWsm7g",
     "nNMEbpv-_cM",
     "CRxQ9HK6H1o",
     "JlbFPV6gTE4",
@@ -799,7 +798,8 @@
     "L9DeimIaJmA",
     "m8Y0a_zn1xk",
     "xAuBeLfVlSA",
-    "7fc-ENn3Js4"
+    "7fc-ENn3Js4",
+    "rW_Vmz3jgI4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-17T14:15:29.790952+00:00",
-      "n": "popucom launch trailer ps5 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-17T14:30:44.716135+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-25T13:25:22.464558+00:00",
       "n": "sunstone of time launch trailer ps vr2 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-25T13:40:34.607830+00:00",
+      "n": "larsgadiel official console release date trailer"
     }
   ]
 }

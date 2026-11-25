@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "NSp6xDEK4FM",
     "gGuPD4K-dR4",
     "SCDfgY5c_rU",
     "UM_zhmedAc4",
@@ -799,7 +798,8 @@
     "ajUZ31-7ToQ",
     "xx4TIFGoPG0",
     "nwU5aF2W3F4",
-    "CWm9cVjrPNk"
+    "CWm9cVjrPNk",
+    "2-lmNjsyfos"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Annapurna Interactive",
-      "fecha": "2026-11-17T16:25:20.453943+00:00",
-      "n": "storyteller special edition steam update trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-17T16:35:22.541693+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Ubisoft",
       "fecha": "2026-11-25T16:20:37.418666+00:00",
       "n": "the division 2 spearfall official launch trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-25T16:30:47.123390+00:00",
+      "n": "nba 2k27 season 3 trailer ps5 games"
     }
   ]
 }

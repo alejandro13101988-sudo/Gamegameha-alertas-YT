@@ -1,20 +1,5 @@
 {
   "alertados": [
-    "o43CZdhCKvk",
-    "m9OcMe1NxFA",
-    "F-rERxGa8xU",
-    "yqAxKXOPSQY",
-    "Wbvy3641P5c",
-    "_b5u1Cl9PJg",
-    "sIBJarLwlX8",
-    "iH4AIIHNs08",
-    "-sIXAizyNj0",
-    "d66CeQOMzac",
-    "O95mDtFgTHs",
-    "wE2VDIPrxOM",
-    "ZUVtMGyR_RQ",
-    "VaZG1JASj-s",
-    "euJEtEzqQyo",
     "Rst37nW__-A",
     "WvmDbjX69xM",
     "vKn7u5xv4ts",
@@ -799,7 +784,22 @@
     "IXERyRw9J-g",
     "WtbcPHIu6_0",
     "RSkLqRzxN5s",
-    "82S5ZTYwcbk"
+    "82S5ZTYwcbk",
+    "2GRn-Drmm0U",
+    "qBsZBJslWpU",
+    "xdA6sZ8O-NI",
+    "1R7qjEmnBA8",
+    "VaepxgmPa2A",
+    "KrSTzusxiQ4",
+    "paNQiL0qxbg",
+    "pqGh9ndenKE",
+    "vtsbszoc4ic",
+    "za1lHbF86vY",
+    "opVfXwINeTE",
+    "29fk2Pxlr7g",
+    "Ybfh8-AXGAQ",
+    "zdddr6C8FNU",
+    "eCQGLVzpHFs"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,81 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-17T23:10:27.847490+00:00",
-      "n": "keycapy official announcement trailer"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-17T23:10:27.847490+00:00",
-      "n": "emptiness sire official release date announcement trailer"
-    },
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-11-17T23:15:31.546331+00:00",
-      "n": "fortnite treasure hunters gameplay trailer nintendo switch 2"
-    },
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-17T23:15:31.546331+00:00",
-      "n": "3 body problem official season 2 teaser trailer"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-17T23:15:31.546331+00:00",
-      "n": "myth of empires throne official voidbound realm season 4 release date trailer"
-    },
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-18T00:05:20.844026+00:00",
-      "n": "giant ojosama official teaser trailer 2027"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-18T08:05:32.634489+00:00",
-      "n": "the journey home official release date trailer"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-18T14:05:23.702626+00:00",
-      "n": "north tale kyndykan official announcement trailer"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-18T15:10:28.030599+00:00",
-      "n": "hakoniwa electric official release date trailer"
-    },
-    {
-      "canal": "DevolverDigital",
-      "fecha": "2026-11-18T16:15:30.922011+00:00",
-      "n": "volvy s adventure reslimed official launch trailer available november 19"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-18T16:35:20.662445+00:00",
-      "n": "ai war 2 forge of titan dlc official release date trailer"
-    },
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-18T17:05:24.635307+00:00",
-      "n": "fathom official announcement trailer"
-    },
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-11-18T17:05:24.635307+00:00",
-      "n": "rayman legends retold dynamite musical map trailer nintendo switch 2"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-18T20:05:22.173042+00:00",
-      "n": "fathom official announcement trailer devgamm awards 2026"
-    },
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-18T20:05:22.173042+00:00",
-      "n": "homura hime official playstation 5 ps5 announcement trailer devgamm awards 2026"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-18T20:05:22.173042+00:00",
@@ -1606,6 +1531,81 @@
       "canal": "XBOX",
       "fecha": "2026-11-25T20:00:54.818983+00:00",
       "n": "nioh 3 compete edition announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "balance umbilical wake official trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "hips n noses official release window trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "gravitee wars official gameplay trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "genokids official gameplay trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "barely breathing official demo launch trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "woodland rebels official gameplay trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "2 fast 4 you official gameplay teaser trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "cloudsphere official gameplay trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "thornspell official release date announcement trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "portrait painter official launch trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "american cooking simulator multiplayer official gameplay trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "meander official release date trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "starcult night twisted age official gameplay trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "project blue files classified official gameplay trailer games without ai showcase 2026"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T20:05:26.130888+00:00",
+      "n": "crimson furnace official overview trailer games without ai showcase 2026"
     }
   ]
 }

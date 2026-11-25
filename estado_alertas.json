@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "O6SwwzG_ag0",
     "o43CZdhCKvk",
     "m9OcMe1NxFA",
     "F-rERxGa8xU",
@@ -799,7 +798,8 @@
     "ndsF4H9U_r0",
     "IXERyRw9J-g",
     "WtbcPHIu6_0",
-    "RSkLqRzxN5s"
+    "RSkLqRzxN5s",
+    "82S5ZTYwcbk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-17T21:50:27.338904+00:00",
-      "n": "polyaris official release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-17T23:10:27.847490+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-25T19:15:33.979863+00:00",
       "n": "nba 2k27 season 3 trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-25T20:00:54.818983+00:00",
+      "n": "nioh 3 compete edition announcement trailer"
     }
   ]
 }

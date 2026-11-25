@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "vKn7u5xv4ts",
     "uHCZ-AOxczQ",
     "TnUE1HhD-cw",
     "1zG6PuF6Fic",
@@ -799,7 +798,8 @@
     "zdddr6C8FNU",
     "eCQGLVzpHFs",
     "MiE6-XaL8Hw",
-    "sfw33ZmIvfE"
+    "sfw33ZmIvfE",
+    "eZdqmUEIJrY"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-18T20:05:22.173042+00:00",
-      "n": "burdenfall official reveal trailer devgamm awards 2026"
-    },
     {
       "canal": "Nintendo of America",
       "fecha": "2026-11-18T20:10:29.256403+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Nintendo of America",
       "fecha": "2026-11-25T20:10:36.440123+00:00",
       "n": "kuloniku bowl up launch trailer nintendo switch 2"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T23:00:58.720152+00:00",
+      "n": "going medieval official the champion s inn dlc teaser trailer"
     }
   ]
 }

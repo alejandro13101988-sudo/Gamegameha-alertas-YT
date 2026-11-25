@@ -1,7 +1,5 @@
 {
   "alertados": [
-    "gGuPD4K-dR4",
-    "SCDfgY5c_rU",
     "UM_zhmedAc4",
     "59oPNDPoDYA",
     "T29veBjKWas",
@@ -799,7 +797,9 @@
     "xx4TIFGoPG0",
     "nwU5aF2W3F4",
     "CWm9cVjrPNk",
-    "2-lmNjsyfos"
+    "2-lmNjsyfos",
+    "3Qvtkh0Rszc",
+    "pn9kV27VuVc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,16 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-17T16:35:22.541693+00:00",
-      "n": "exodus official female jun reveal scrappy salvager featurette"
-    },
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-17T17:05:23.549495+00:00",
-      "n": "calame gameplay trailer ps5 games"
-    },
     {
       "canal": "thegameawards",
       "fecha": "2026-11-17T17:15:31.873911+00:00",
@@ -1606,6 +1596,16 @@
       "canal": "PlayStation",
       "fecha": "2026-11-25T16:30:47.123390+00:00",
       "n": "nba 2k27 season 3 trailer ps5 games"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T16:40:33.033753+00:00",
+      "n": "remote control official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T16:40:33.033753+00:00",
+      "n": "shantytown official nintendo switch 2 announcement trailer"
     }
   ]
 }

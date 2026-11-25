@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "uHCZ-AOxczQ",
     "TnUE1HhD-cw",
     "1zG6PuF6Fic",
     "p3nfjpkJxdA",
@@ -799,7 +798,8 @@
     "eCQGLVzpHFs",
     "MiE6-XaL8Hw",
     "sfw33ZmIvfE",
-    "eZdqmUEIJrY"
+    "eZdqmUEIJrY",
+    "1OnqW0Q41Zg"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-11-18T20:10:29.256403+00:00",
-      "n": "disney dreamlight valley the keepsake sea launch trailer nintendo switch 2"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-19T13:10:25.557811+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-25T23:00:58.720152+00:00",
       "n": "going medieval official the champion s inn dlc teaser trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T23:35:25.061469+00:00",
+      "n": "memoria rhapsody official announcement trailer"
     }
   ]
 }

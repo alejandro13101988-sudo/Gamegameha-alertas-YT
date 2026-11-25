@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "JlbFPV6gTE4",
     "N_1R-Q-CS68",
     "bZDfdeA98lg",
     "-FzZ-6GOgfA",
@@ -799,7 +798,8 @@
     "7fc-ENn3Js4",
     "rW_Vmz3jgI4",
     "1NaKZpKM4MA",
-    "rm_81j76nPc"
+    "rm_81j76nPc",
+    "ajUZ31-7ToQ"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "BANDAI NAMCO Europe",
-      "fecha": "2026-11-17T15:20:30.471019+00:00",
-      "n": "bluey s happy snaps accolades trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-17T15:30:47.946964+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Raw Fury",
       "fecha": "2026-11-25T14:15:32.172383+00:00",
       "n": "kuloniku bowl up nintendo switch and switch 2 launch trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-25T15:10:33.612006+00:00",
+      "n": "cannonade official announcement trailer"
     }
   ]
 }

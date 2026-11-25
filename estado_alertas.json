@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "_GF2AEoDmL0",
     "rnvKOp-Xajc",
     "kdOv3OEAhZg",
     "-HsljGWsm7g",
@@ -799,7 +798,8 @@
     "m5GfcSm7wcY",
     "q9itEGgXoYI",
     "LKSyIsKy98w",
-    "L9DeimIaJmA"
+    "L9DeimIaJmA",
+    "m8Y0a_zn1xk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-17T12:35:23.114805+00:00",
-      "n": "heroes frontiers official announcement trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-17T13:20:27.874086+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-25T09:40:32.759410+00:00",
       "n": "surviving mars relaunched machine utopia release date trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-25T13:05:29.405935+00:00",
+      "n": "origament a paper adventure launch trailer ps5 games"
     }
   ]
 }

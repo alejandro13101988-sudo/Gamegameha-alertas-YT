@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "-FzZ-6GOgfA",
     "NSp6xDEK4FM",
     "gGuPD4K-dR4",
     "SCDfgY5c_rU",
@@ -799,7 +798,8 @@
     "rm_81j76nPc",
     "ajUZ31-7ToQ",
     "xx4TIFGoPG0",
-    "nwU5aF2W3F4"
+    "nwU5aF2W3F4",
+    "CWm9cVjrPNk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-17T15:45:44.553384+00:00",
-      "n": "thehunter call of the wild official texas hunting reserve dlc announcement trailer"
-    },
     {
       "canal": "Annapurna Interactive",
       "fecha": "2026-11-17T16:25:20.453943+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-25T15:20:31.729714+00:00",
       "n": "surviving mars relaunched official machine utopia dlc release date trailer"
+    },
+    {
+      "canal": "Ubisoft",
+      "fecha": "2026-11-25T16:20:37.418666+00:00",
+      "n": "the division 2 spearfall official launch trailer"
     }
   ]
 }

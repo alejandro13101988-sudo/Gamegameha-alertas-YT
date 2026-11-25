@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "kdOv3OEAhZg",
     "-HsljGWsm7g",
     "nNMEbpv-_cM",
     "CRxQ9HK6H1o",
@@ -799,7 +798,8 @@
     "LKSyIsKy98w",
     "L9DeimIaJmA",
     "m8Y0a_zn1xk",
-    "xAuBeLfVlSA"
+    "xAuBeLfVlSA",
+    "7fc-ENn3Js4"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-17T14:10:26.911906+00:00",
-      "n": "machine party official console release date trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-17T14:15:29.790952+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-25T13:15:32.140473+00:00",
       "n": "demon tides official console announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-25T13:25:22.464558+00:00",
+      "n": "sunstone of time launch trailer ps vr2 games"
     }
   ]
 }

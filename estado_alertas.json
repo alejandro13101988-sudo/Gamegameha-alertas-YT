@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "QGG8OnznPe8",
     "hJAhkg0Dus8",
     "_GF2AEoDmL0",
     "rnvKOp-Xajc",
@@ -799,7 +798,8 @@
     "GBEawc9drY4",
     "ErhPysTk6Jc",
     "m5GfcSm7wcY",
-    "q9itEGgXoYI"
+    "q9itEGgXoYI",
+    "LKSyIsKy98w"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-17T11:35:23.021336+00:00",
-      "n": "attention addicted neet official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-17T12:05:20.459350+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-24T22:00:51.569912+00:00",
       "n": "tuesday morning official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-25T09:15:33.505562+00:00",
+      "n": "raider kid and the ruby chest official console release date trailer"
     }
   ]
 }

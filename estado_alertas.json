@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "VbOq8B5kCOU",
     "87voZD9tsao",
     "i_X1If_eHuI",
     "O6SwwzG_ag0",
@@ -799,7 +798,8 @@
     "B9fLYchaKuk",
     "TgjuUpj2bRg",
     "HzV7t48RACM",
-    "ndsF4H9U_r0"
+    "ndsF4H9U_r0",
+    "IXERyRw9J-g"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-17T20:30:44.230878+00:00",
-      "n": "gunboat 8 official early access release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-17T20:50:31.415305+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-25T18:05:24.944400+00:00",
       "n": "ctrl alt destroy official release date trailer"
+    },
+    {
+      "canal": "Official ATLUS West",
+      "fecha": "2026-11-25T18:15:34.379384+00:00",
+      "n": "metaphor refantazio junah trailer"
     }
   ]
 }

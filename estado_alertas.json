@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "8PJE7G4oDgY",
     "VbOq8B5kCOU",
     "87voZD9tsao",
     "i_X1If_eHuI",
@@ -799,7 +798,8 @@
     "hXLrSLQVv9w",
     "B9fLYchaKuk",
     "TgjuUpj2bRg",
-    "HzV7t48RACM"
+    "HzV7t48RACM",
+    "ndsF4H9U_r0"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Konami",
-      "fecha": "2026-11-17T18:10:39.165086+00:00",
-      "n": "metal gear solid master collection vol 2 greenband story trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-17T20:30:44.230878+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-25T17:40:32.736824+00:00",
       "n": "arctic drive xbox release trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-25T18:05:24.944400+00:00",
+      "n": "ctrl alt destroy official release date trailer"
     }
   ]
 }

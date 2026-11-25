@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "xr44hO6vdZY",
     "6rB_l6-GI4A",
     "fjrksrEn7-Y",
     "8PJE7G4oDgY",
@@ -799,7 +798,8 @@
     "pn9kV27VuVc",
     "4_bodqJl4wI",
     "pH4wT5kdsC8",
-    "hXLrSLQVv9w"
+    "hXLrSLQVv9w",
+    "B9fLYchaKuk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Nintendo of America",
-      "fecha": "2026-11-17T17:20:29.024765+00:00",
-      "n": "a little to the left nintendo switch 2 edition launch trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-17T17:25:19.622650+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-25T17:10:31.995968+00:00",
       "n": "rayman legends retold story trailer ps5 games"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-25T17:25:23.232460+00:00",
+      "n": "the reason behind official announcement trailer"
     }
   ]
 }

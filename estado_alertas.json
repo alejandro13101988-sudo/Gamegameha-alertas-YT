@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "fjrksrEn7-Y",
     "8PJE7G4oDgY",
     "VbOq8B5kCOU",
     "87voZD9tsao",
@@ -799,7 +798,8 @@
     "pH4wT5kdsC8",
     "hXLrSLQVv9w",
     "B9fLYchaKuk",
-    "TgjuUpj2bRg"
+    "TgjuUpj2bRg",
+    "HzV7t48RACM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-17T17:30:47.068125+00:00",
-      "n": "ghost justice official atmospheric teaser"
-    },
     {
       "canal": "Konami",
       "fecha": "2026-11-17T18:10:39.165086+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-25T17:35:30.421530+00:00",
       "n": "phantom gear official release date trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-25T17:40:32.736824+00:00",
+      "n": "arctic drive xbox release trailer"
     }
   ]
 }

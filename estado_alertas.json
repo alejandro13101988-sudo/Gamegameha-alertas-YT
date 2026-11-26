@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "H_s0XoaUkUc",
     "DH3O9ouf5Yo",
     "lPQSc7SQv8M",
     "hGa_6UYneiQ",
@@ -799,7 +798,8 @@
     "21l0q1nSEtk",
     "wf9qyQaxh6c",
     "JNNuSFX5zNk",
-    "AhPNbp2s3Tc"
+    "AhPNbp2s3Tc",
+    "Y14OptgSqbM"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-19T19:10:24.835012+00:00",
-      "n": "aeterna lucis official release date trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-19T19:10:24.835012+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-26T14:15:36.017761+00:00",
       "n": "station to station launch trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-26T14:30:46.720275+00:00",
+      "n": "reshine launch trailer ps5 games"
     }
   ]
 }

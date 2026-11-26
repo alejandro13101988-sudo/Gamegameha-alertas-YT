@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "0xDElsGrtYg",
     "FDxbAAY6MN4",
     "FXCzSDatoCI",
     "H_s0XoaUkUc",
@@ -799,7 +798,8 @@
     "31HGyL6vKcs",
     "gHTTjrsHdkg",
     "kJa-TmTfphg",
-    "21l0q1nSEtk"
+    "21l0q1nSEtk",
+    "wf9qyQaxh6c"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "XBOX",
-      "fecha": "2026-11-19T18:01:00.258474+00:00",
-      "n": "blacksmith master 1 0 launch trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-19T19:05:21.879884+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-26T13:45:33.851639+00:00",
       "n": "saints of swagger official announcement trailer"
+    },
+    {
+      "canal": "Raw Fury",
+      "fecha": "2026-11-26T14:00:58.141679+00:00",
+      "n": "appulse launch trailer available now on steam"
     }
   ]
 }

@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "FDxbAAY6MN4",
     "FXCzSDatoCI",
     "H_s0XoaUkUc",
     "DH3O9ouf5Yo",
@@ -799,7 +798,8 @@
     "gHTTjrsHdkg",
     "kJa-TmTfphg",
     "21l0q1nSEtk",
-    "wf9qyQaxh6c"
+    "wf9qyQaxh6c",
+    "JNNuSFX5zNk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-19T19:05:21.879884+00:00",
-      "n": "invincible season 5 official teaser trailer 2027 steven yeun clancy brown"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-19T19:05:21.879884+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Raw Fury",
       "fecha": "2026-11-26T14:00:58.141679+00:00",
       "n": "appulse launch trailer available now on steam"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-26T14:10:30.907204+00:00",
+      "n": "dungoku official announcement trailer"
     }
   ]
 }

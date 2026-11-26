@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "8vn7FdZnn1w",
     "V_wCxCV-_IA",
     "r5j5j-GgvFc",
     "vSx77a8d0z0",
@@ -799,7 +798,8 @@
     "RcrjGzBx7r8",
     "lqSWCzBybzg",
     "40o5mo6TnvA",
-    "OeqmNSsurQg"
+    "OeqmNSsurQg",
+    "syaoD1D1ZHs"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-20T12:05:22.917055+00:00",
-      "n": "saihate station twilight edition official announcement trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-20T13:10:30.111151+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-26T16:05:25.769086+00:00",
       "n": "hark the ghoul official release date trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-26T17:40:30.457042+00:00",
+      "n": "mello omega official announcement trailer"
     }
   ]
 }

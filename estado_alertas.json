@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "9OPoiRcze0w",
     "ZOWb-BY6-Wg",
     "c2TyYF3-3dQ",
     "j63m7ngHnAk",
@@ -799,7 +798,8 @@
     "2ohfoM2k4dI",
     "jK6gZA2cK7A",
     "I8cuNC5sCMU",
-    "5X68Bw2KjIw"
+    "5X68Bw2KjIw",
+    "31HGyL6vKcs"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-19T14:15:29.891196+00:00",
-      "n": "goat simulator 3 ticket to dizzyworld launch trailer ps5 ps4 games"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-19T15:35:28.048576+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-26T10:20:30.911918+00:00",
       "n": "crossout remastered track to the future update trailer ps5 ps4 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-26T11:15:35.374378+00:00",
+      "n": "memoria rhapsody official reveal trailer"
     }
   ]
 }

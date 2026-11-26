@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "j63m7ngHnAk",
     "0xDElsGrtYg",
     "FDxbAAY6MN4",
     "FXCzSDatoCI",
@@ -799,7 +798,8 @@
     "5X68Bw2KjIw",
     "31HGyL6vKcs",
     "gHTTjrsHdkg",
-    "kJa-TmTfphg"
+    "kJa-TmTfphg",
+    "21l0q1nSEtk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "DevolverDigital",
-      "fecha": "2026-11-19T17:00:56.278470+00:00",
-      "n": "volvy s adventure reslimed official gameplay trailer out now on steam"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-19T18:01:00.258474+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-26T12:15:32.698823+00:00",
       "n": "orpheus to hell and back official nintendo switch announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-26T13:45:33.851639+00:00",
+      "n": "saints of swagger official announcement trailer"
     }
   ]
 }

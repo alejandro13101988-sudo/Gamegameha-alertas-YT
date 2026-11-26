@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "1zG6PuF6Fic",
     "p3nfjpkJxdA",
     "1E_NSW_4FWA",
     "9OPoiRcze0w",
@@ -799,7 +798,8 @@
     "sfw33ZmIvfE",
     "eZdqmUEIJrY",
     "1OnqW0Q41Zg",
-    "2ohfoM2k4dI"
+    "2ohfoM2k4dI",
+    "jK6gZA2cK7A"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-19T13:45:38.288903+00:00",
-      "n": "race the sun 2 official announcement trailer"
-    },
     {
       "canal": "XBOX",
       "fecha": "2026-11-19T14:15:29.891196+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Nintendo of America",
       "fecha": "2026-11-26T01:15:31.298056+00:00",
       "n": "xenoblade chronicles 3 nintendo switch 2 edition overview trailer"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-26T02:05:23.318095+00:00",
+      "n": "tin coffins official release date trailer"
     }
   ]
 }

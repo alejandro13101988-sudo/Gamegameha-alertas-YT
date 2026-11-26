@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "eSL5Np0yu1A",
     "bdICHyxxZ_M",
     "8vn7FdZnn1w",
     "V_wCxCV-_IA",
@@ -799,7 +798,8 @@
     "9dj9qJPd3DQ",
     "y3E0aK1-C2Y",
     "RcrjGzBx7r8",
-    "lqSWCzBybzg"
+    "lqSWCzBybzg",
+    "40o5mo6TnvA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-19T21:20:33.191086+00:00",
-      "n": "epic roller coasters winx club launch trailer ps vr2 games"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-20T12:05:22.917055+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-26T15:20:40.347042+00:00",
       "n": "cross country case official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-26T16:05:25.769086+00:00",
+      "n": "hark the ghoul official release date trailer"
     }
   ]
 }

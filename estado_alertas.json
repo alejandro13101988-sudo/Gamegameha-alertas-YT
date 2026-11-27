@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "m4hjvhzjV1w",
     "UruwfW20XvM",
     "HctgUs01aSo",
     "_vwi5RhHFSU",
@@ -799,7 +798,8 @@
     "ZXM73vK-7mA",
     "2we11jl4Zi8",
     "LbVcEUSssdI",
-    "srZGGEyJQ9Q"
+    "srZGGEyJQ9Q",
+    "GmvEbUPZVSU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-20T19:10:34.286579+00:00",
-      "n": "eilean mor the lost keepers announcement trailer ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-20T19:20:36.098356+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "XBOX",
       "fecha": "2026-11-27T16:05:23.332593+00:00",
       "n": "hollow knight silksong sea of sorrow trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-27T16:15:31.631086+00:00",
+      "n": "corner cutters official release date trailer"
     }
   ]
 }

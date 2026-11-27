@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "hkLh8q-gWyk",
     "de9TgL10OQc",
     "UWV2jfoHSC0",
     "oF77Ss2CE3E",
@@ -799,7 +798,8 @@
     "bXoBtFEU71I",
     "ga37x4z-4Vs",
     "53tfUN3yNJo",
-    "Su-e0Hc0DUo"
+    "Su-e0Hc0DUo",
+    "ZXM73vK-7mA"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-20T16:45:32.395992+00:00",
-      "n": "makina official announcement trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-20T19:05:28.133468+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-27T13:35:25.130466+00:00",
       "n": "li l red ii official announcement trailer"
+    },
+    {
+      "canal": "XBOX",
+      "fecha": "2026-11-27T15:05:23.545213+00:00",
+      "n": "arkheron launch trailer"
     }
   ]
 }

@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "UruwfW20XvM",
     "HctgUs01aSo",
     "_vwi5RhHFSU",
     "g4qXRgh3pSg",
@@ -799,7 +798,8 @@
     "2we11jl4Zi8",
     "LbVcEUSssdI",
     "srZGGEyJQ9Q",
-    "GmvEbUPZVSU"
+    "GmvEbUPZVSU",
+    "vv4sUOHUiOU"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-20T19:20:36.098356+00:00",
-      "n": "zenless zone zero version 3 4 teaser the finality of the day ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-20T19:40:35.081991+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-27T16:15:31.631086+00:00",
       "n": "corner cutters official release date trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-27T16:20:31.360400+00:00",
+      "n": "the botanist and the translator official announcement trailer"
     }
   ]
 }

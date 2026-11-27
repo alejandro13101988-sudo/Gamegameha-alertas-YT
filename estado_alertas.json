@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "lyR6iGwvQkw",
     "i_0qEALEsBw",
     "PVtP5kTHEMY",
     "hkLh8q-gWyk",
@@ -799,7 +798,8 @@
     "7d6_3q5Uv_Q",
     "Ty4h7G32y6o",
     "XqH3jvbbvGM",
-    "bXoBtFEU71I"
+    "bXoBtFEU71I",
+    "ga37x4z-4Vs"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "Indie Games Hub",
-      "fecha": "2026-11-20T14:45:32.277954+00:00",
-      "n": "aethercycle official early access release date trailer"
-    },
     {
       "canal": "IGN",
       "fecha": "2026-11-20T15:10:34.481961+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-27T11:05:24.650146+00:00",
       "n": "world of tanks modern armor winter fest 2026 ps5 ps4 games"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-27T11:35:31.415078+00:00",
+      "n": "iron sirocco official announcement trailer"
     }
   ]
 }

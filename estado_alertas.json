@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "_vwi5RhHFSU",
     "g4qXRgh3pSg",
     "Cp3ZiXzSBuw",
     "nA4ZlefYjMA",
@@ -799,7 +798,8 @@
     "srZGGEyJQ9Q",
     "GmvEbUPZVSU",
     "vv4sUOHUiOU",
-    "5WSupQSRa5E"
+    "5WSupQSRa5E",
+    "6v8KweH4smk"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-20T19:50:34.388182+00:00",
-      "n": "brokenlore miki chan gameplay trailer ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-20T20:10:31.011781+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-27T16:50:32.987124+00:00",
       "n": "radio rain official announcement trailer"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-27T17:20:31.940089+00:00",
+      "n": "fountains launch trailer ps5 games"
     }
   ]
 }

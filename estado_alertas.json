@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "PVtP5kTHEMY",
     "hkLh8q-gWyk",
     "de9TgL10OQc",
     "UWV2jfoHSC0",
@@ -799,7 +798,8 @@
     "XqH3jvbbvGM",
     "bXoBtFEU71I",
     "ga37x4z-4Vs",
-    "53tfUN3yNJo"
+    "53tfUN3yNJo",
+    "Su-e0Hc0DUo"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-20T16:05:26.319517+00:00",
-      "n": "zenless zone zero official version 3 4 the finality of the day teaser trailer"
-    },
     {
       "canal": "Indie Games Hub",
       "fecha": "2026-11-20T16:45:32.395992+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-27T13:05:30.280912+00:00",
       "n": "renal spring focus as a kidney official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-27T13:35:25.130466+00:00",
+      "n": "li l red ii official announcement trailer"
     }
   ]
 }

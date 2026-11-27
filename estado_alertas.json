@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "i_0qEALEsBw",
     "PVtP5kTHEMY",
     "hkLh8q-gWyk",
     "de9TgL10OQc",
@@ -799,7 +798,8 @@
     "Ty4h7G32y6o",
     "XqH3jvbbvGM",
     "bXoBtFEU71I",
-    "ga37x4z-4Vs"
+    "ga37x4z-4Vs",
+    "53tfUN3yNJo"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "IGN",
-      "fecha": "2026-11-20T15:10:34.481961+00:00",
-      "n": "battleground cleaner simulator official reveal trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-20T16:05:26.319517+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "Indie Games Hub",
       "fecha": "2026-11-27T11:35:31.415078+00:00",
       "n": "iron sirocco official announcement trailer"
+    },
+    {
+      "canal": "Indie Games Hub",
+      "fecha": "2026-11-27T13:05:30.280912+00:00",
+      "n": "renal spring focus as a kidney official announcement trailer"
     }
   ]
 }

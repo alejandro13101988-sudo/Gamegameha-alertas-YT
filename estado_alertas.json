@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "HctgUs01aSo",
     "_vwi5RhHFSU",
     "g4qXRgh3pSg",
     "Cp3ZiXzSBuw",
@@ -799,7 +798,8 @@
     "LbVcEUSssdI",
     "srZGGEyJQ9Q",
     "GmvEbUPZVSU",
-    "vv4sUOHUiOU"
+    "vv4sUOHUiOU",
+    "5WSupQSRa5E"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-20T19:40:35.081991+00:00",
-      "n": "signal veil cast reveal ps5 games"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-20T19:50:34.388182+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "GameTrailers",
       "fecha": "2026-11-27T16:20:31.360400+00:00",
       "n": "the botanist and the translator official announcement trailer"
+    },
+    {
+      "canal": "GameTrailers",
+      "fecha": "2026-11-27T16:50:32.987124+00:00",
+      "n": "radio rain official announcement trailer"
     }
   ]
 }

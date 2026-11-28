@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "nA4ZlefYjMA",
     "Ch7lTPHrwvY",
     "tfPuRFdcF4g",
     "xMbvzuZnYJA",
@@ -799,7 +798,8 @@
     "5WSupQSRa5E",
     "6v8KweH4smk",
     "OwVk4XovFBI",
-    "LVjCphVlmBY"
+    "LVjCphVlmBY",
+    "F6-8-Re1pCw"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "PlayStation",
-      "fecha": "2026-11-20T20:10:31.011781+00:00",
-      "n": "ugly within announcement trailer ps5 games"
-    },
     {
       "canal": "SEGA",
       "fecha": "2026-11-20T21:05:27.306179+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-27T17:20:31.940089+00:00",
       "n": "fountains launch trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-28T09:10:28.876167+00:00",
+      "n": "the eminence in shadow phantom echoes release date announcement trailer ps5 games"
     }
   ]
 }

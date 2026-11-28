@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "6CEWTE4K1kM",
     "bwtLhrFDuuw",
     "arYcA2x6u7k",
     "CR-Jl28TMrY",
@@ -799,7 +798,8 @@
     "qUZhJS2cYpc",
     "7tLJ3rH8-uk",
     "fVz2o2jcQNg",
-    "_J5aIAz_xK4"
+    "_J5aIAz_xK4",
+    "rIe4kTAHV6c"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "GameTrailers",
-      "fecha": "2026-11-20T21:05:27.306179+00:00",
-      "n": "mr magpies harmless card game official release date trailer"
-    },
     {
       "canal": "PlayStation",
       "fecha": "2026-11-20T21:15:34.269154+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-28T13:05:29.639632+00:00",
       "n": "i am monkey launch trailer ps vr2 games"
+    },
+    {
+      "canal": "IGN",
+      "fecha": "2026-11-28T15:15:33.479169+00:00",
+      "n": "foxhole official engines of war release date trailer"
     }
   ]
 }

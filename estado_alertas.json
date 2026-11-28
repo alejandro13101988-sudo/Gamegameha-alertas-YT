@@ -1,6 +1,5 @@
 {
   "alertados": [
-    "Ch7lTPHrwvY",
     "tfPuRFdcF4g",
     "xMbvzuZnYJA",
     "2-vzO1pBeB0",
@@ -799,7 +798,8 @@
     "6v8KweH4smk",
     "OwVk4XovFBI",
     "LVjCphVlmBY",
-    "F6-8-Re1pCw"
+    "F6-8-Re1pCw",
+    "qUZhJS2cYpc"
   ],
   "canales": {
     "@2K": "UCQGOhje9D86u2IGc4UMLPgA",
@@ -857,11 +857,6 @@
     "@summergamefest"
   ],
   "titulos": [
-    {
-      "canal": "SEGA",
-      "fecha": "2026-11-20T21:05:27.306179+00:00",
-      "n": "multi subsstupid never dies final trailer"
-    },
     {
       "canal": "GameTrailers",
       "fecha": "2026-11-20T21:05:27.306179+00:00",
@@ -1606,6 +1601,11 @@
       "canal": "PlayStation",
       "fecha": "2026-11-28T09:10:28.876167+00:00",
       "n": "the eminence in shadow phantom echoes release date announcement trailer ps5 games"
+    },
+    {
+      "canal": "PlayStation",
+      "fecha": "2026-11-28T13:05:29.639632+00:00",
+      "n": "i am monkey launch trailer ps vr2 games"
     }
   ]
 }
